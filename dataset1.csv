@@ -1,0 +1,5015 @@
+diseases,symptoms
+Malaria,Fever
+Dengue,Fever
+Typhoid,Fever
+Malaria,Headache
+Dengue,Headache
+Typhoid,Headache
+Malaria,Muscle Pain
+Dengue,Muscle Pain
+Typhoid,Muscle Pain
+Common Cold,Cough
+Influenza,Cough
+Measles,Cough
+Common Cold,Sore Throat
+Influenza,Sore Throat
+Measles,Sore Throat
+Common Cold,Runny Nose
+Influenza,Runny Nose
+Measles,Runny Nose
+Gastroenteritis,Nausea
+Food Poisoning,Nausea
+Cholera,Nausea
+Gastroenteritis,Vomiting
+Food Poisoning,Vomiting
+Cholera,Vomiting
+Gastroenteritis,Diarrhea
+Food Poisoning,Diarrhea
+Cholera,Diarrhea
+Zika Virus,Skin Rash
+Chikungunya,Skin Rash
+Dengue,Skin Rash
+Zika Virus,Fever
+Chikungunya,Fever
+Dengue,Fever
+Zika Virus,Joint Pain
+Chikungunya,Joint Pain
+Dengue,Joint Pain
+COVID-19,Fever
+Tuberculosis,Fever
+Hepatitis B,Fever
+COVID-19,Fatigue
+Tuberculosis,Fatigue
+Hepatitis B,Fatigue
+COVID-19,Loss of Appetite
+Tuberculosis,Loss of Appetite
+Hepatitis B,Loss of Appetite
+Colon cancer,Unexplained weight loss
+Pancreatic cancer,Unexplained weight loss
+Stomach cancer,Unexplained weight loss
+Colon cancer,Persistent fatigue
+Pancreatic cancer,Persistent fatigue
+Stomach cancer,Persistent fatigue
+Colon cancer,Irregular bowel movements
+Pancreatic cancer,Irregular bowel movements
+Stomach cancer,Irregular bowel movements
+Lung cancer,Persistent cough
+Esophageal cancer,Persistent cough
+Thymoma,Persistent cough
+Lung cancer,Difficulty swallowing
+Esophageal cancer,Difficulty swallowing
+Thymoma,Difficulty swallowing
+Lung cancer,Chest pain
+Esophageal cancer,Chest pain
+Thymoma,Chest pain
+Skin cancer,Abnormal bleeding
+Leukemia,Abnormal bleeding
+Stomach cancer,Abnormal bleeding
+Skin cancer,Changes in moles
+Leukemia,Changes in moles
+Stomach cancer,Changes in moles
+Skin cancer,Persistent indigestion
+Leukemia,Persistent indigestion
+Stomach cancer,Persistent indigestion
+Brain tumor,Headaches
+Leukemia,Headaches
+Lymphoma,Headaches
+Brain tumor,Seizures
+Leukemia,Seizures
+Lymphoma,Seizures
+Brain tumor,Memory loss
+Leukemia,Memory loss
+Lymphoma,Memory loss
+Liver cancer,Jaundice
+Gallbladder cancer,Jaundice
+Pancreatic cancer,Jaundice
+Liver cancer,Abdominal pain
+Gallbladder cancer,Abdominal pain
+Pancreatic cancer,Abdominal pain
+Liver cancer,Loss of appetite
+Gallbladder cancer,Loss of appetite
+Pancreatic cancer,Loss of appetite
+Asthma,Cough
+Chronic Bronchitis,Cough
+Emphysema,Cough
+Asthma,Shortness of Breath
+Chronic Bronchitis,Shortness of Breath
+Emphysema,Shortness of Breath
+Asthma,Wheezing
+Chronic Bronchitis,Wheezing
+Emphysema,Wheezing
+Pulmonary Fibrosis,Fatigue
+Tuberculosis,Fatigue
+Sarcoidosis,Fatigue
+Pulmonary Fibrosis,Weight Loss
+Tuberculosis,Weight Loss
+Sarcoidosis,Weight Loss
+Pulmonary Fibrosis,Chest Tightness
+Tuberculosis,Chest Tightness
+Sarcoidosis,Chest Tightness
+Pneumonia,Difficulty Breathing
+COVID-19,Difficulty Breathing
+Lung Cancer,Difficulty Breathing
+Pneumonia,Chest Pain
+COVID-19,Chest Pain
+Lung Cancer,Chest Pain
+Pneumonia,Fever
+COVID-19,Fever
+Lung Cancer,Fever
+Cystic Fibrosis,Chronic Cough
+Chronic Obstructive Pulmonary Disease (COPD),Chronic Cough
+Bronchiectasis,Chronic Cough
+Cystic Fibrosis,Blood in Sputum
+Chronic Obstructive Pulmonary Disease (COPD),Blood in Sputum
+Bronchiectasis,Blood in Sputum
+Cystic Fibrosis,Frequent Infections
+Chronic Obstructive Pulmonary Disease (COPD),Frequent Infections
+Bronchiectasis,Frequent Infections
+Allergic Rhinitis,Chronic Sore Throat
+Sinusitis,Chronic Sore Throat
+Asthma,Chronic Sore Throat
+Allergic Rhinitis,Nasal Congestion
+Sinusitis,Nasal Congestion
+Asthma,Nasal Congestion
+Allergic Rhinitis,Postnasal Drip
+Sinusitis,Postnasal Drip
+Asthma,Postnasal Drip
+Chronic Obstructive Pulmonary Disease (COPD),Chronic Cough
+Lung Cancer,Chronic Cough
+Pulmonary Hypertension,Chronic Cough
+Chronic Obstructive Pulmonary Disease (COPD),Fatigue
+Lung Cancer,Fatigue
+Pulmonary Hypertension,Fatigue
+Chronic Obstructive Pulmonary Disease (COPD),Poor Appetite
+Lung Cancer,Poor Appetite
+Pulmonary Hypertension,Poor Appetite
+Interstitial Lung Disease,Shortness of Breath
+Pulmonary Hypertension,Shortness of Breath
+Chronic Bronchitis,Shortness of Breath
+Interstitial Lung Disease,Chest Tightness
+Pulmonary Hypertension,Chest Tightness
+Chronic Bronchitis,Chest Tightness
+Interstitial Lung Disease,Dry Cough
+Pulmonary Hypertension,Dry Cough
+Chronic Bronchitis,Dry Cough
+Asthma,Wheezing
+Cystic Fibrosis,Wheezing
+Bronchiolitis Obliterans,Wheezing
+Asthma,Difficulty Breathing
+Cystic Fibrosis,Difficulty Breathing
+Bronchiolitis Obliterans,Difficulty Breathing
+Asthma,Frequent Chest Infections
+Cystic Fibrosis,Frequent Chest Infections
+Bronchiolitis Obliterans,Frequent Chest Infections
+Muscular dystrophy,Muscle weakness
+Multiple sclerosis,Muscle weakness
+Retinitis pigmentosa,Muscle weakness
+Muscular dystrophy,Difficulty walking
+Multiple sclerosis,Difficulty walking
+Retinitis pigmentosa,Difficulty walking
+Muscular dystrophy,Vision loss
+Multiple sclerosis,Vision loss
+Retinitis pigmentosa,Vision loss
+Down syndrome,Intellectual disability
+Epilepsy,Intellectual disability
+Turner syndrome,Intellectual disability
+Down syndrome,Seizures
+Epilepsy,Seizures
+Turner syndrome,Seizures
+Down syndrome,Delayed growth
+Epilepsy,Delayed growth
+Turner syndrome,Delayed growth
+Polycystic ovary syndrome,Infertility
+Thyroid disorders,Infertility
+Cushing's disease,Infertility
+Polycystic ovary syndrome,Weight gain
+Thyroid disorders,Weight gain
+Cushing's disease,Weight gain
+Polycystic ovary syndrome,Hair loss
+Thyroid disorders,Hair loss
+Cushing's disease,Hair loss
+Lupus,Joint pain
+Rheumatoid arthritis,Joint pain
+Psoriasis,Joint pain
+Lupus,Skin rash
+Rheumatoid arthritis,Skin rash
+Psoriasis,Skin rash
+Lupus,Fatigue
+Rheumatoid arthritis,Fatigue
+Psoriasis,Fatigue
+Arrhythmia,Irregular heartbeat
+Coronary artery disease,Irregular heartbeat
+Heart failure,Irregular heartbeat
+Arrhythmia,Chest pain
+Coronary artery disease,Chest pain
+Heart failure,Chest pain
+Arrhythmia,Shortness of breath
+Coronary artery disease,Shortness of breath
+Heart failure,Shortness of breath
+Migraine,Headache
+Vertigo,Headache
+Brain Tumor,Headache
+Migraine,Nausea
+Vertigo,Nausea
+Brain Tumor,Nausea
+Migraine,Dizziness
+Vertigo,Dizziness
+Brain Tumor,Dizziness
+Parkinson's Disease,Tremors
+Multiple Sclerosis,Tremors
+Stroke,Tremors
+Parkinson's Disease,Muscle Weakness
+Multiple Sclerosis,Muscle Weakness
+Stroke,Muscle Weakness
+Parkinson's Disease,Difficulty Speaking
+Multiple Sclerosis,Difficulty Speaking
+Stroke,Difficulty Speaking
+Alzheimer's Disease,Memory Loss
+Dementia,Memory Loss
+Delirium,Memory Loss
+Alzheimer's Disease,Confusion
+Dementia,Confusion
+Delirium,Confusion
+Alzheimer's Disease,Difficulty Concentrating
+Dementia,Difficulty Concentrating
+Delirium,Difficulty Concentrating
+Peripheral Neuropathy,Numbness
+Spinal Cord Injury,Numbness
+Cerebral Palsy,Numbness
+Peripheral Neuropathy,Tingling Sensation
+Spinal Cord Injury,Tingling Sensation
+Cerebral Palsy,Tingling Sensation
+Peripheral Neuropathy,Difficulty Walking
+Spinal Cord Injury,Difficulty Walking
+Cerebral Palsy,Difficulty Walking
+Epilepsy,Seizures
+Syncope,Seizures
+Brain Aneurysm,Seizures
+Epilepsy,Loss of Consciousness
+Syncope,Loss of Consciousness
+Brain Aneurysm,Loss of Consciousness
+Epilepsy,Vision Changes
+Syncope,Vision Changes
+Brain Aneurysm,Vision Changes
+Rheumatoid Arthritis,Joint pain
+Lupus,Joint pain
+Psoriasis,Joint pain
+Rheumatoid Arthritis,Fatigue
+Lupus,Fatigue
+Psoriasis,Fatigue
+Rheumatoid Arthritis,Skin rash
+Lupus,Skin rash
+Psoriasis,Skin rash
+Hypothyroidism,Hair loss
+Hashimoto's Disease,Hair loss
+Graves' Disease,Hair loss
+Hypothyroidism,Weight gain
+Hashimoto's Disease,Weight gain
+Graves' Disease,Weight gain
+Hypothyroidism,Cold intolerance
+Hashimoto's Disease,Cold intolerance
+Graves' Disease,Cold intolerance
+Crohn's Disease,Abdominal pain
+Ulcerative Colitis,Abdominal pain
+Celiac Disease,Abdominal pain
+Crohn's Disease,Diarrhea
+Ulcerative Colitis,Diarrhea
+Celiac Disease,Diarrhea
+Crohn's Disease,Weight loss
+Ulcerative Colitis,Weight loss
+Celiac Disease,Weight loss
+Multiple Sclerosis,Muscle weakness
+Myasthenia Gravis,Muscle weakness
+Scleroderma,Muscle weakness
+Multiple Sclerosis,Vision changes
+Myasthenia Gravis,Vision changes
+Scleroderma,Vision changes
+Multiple Sclerosis,Difficulty swallowing
+Myasthenia Gravis,Difficulty swallowing
+Scleroderma,Difficulty swallowing
+Multiple Sclerosis,Numbness/tingling
+Alzheimer's Disease,Numbness/tingling
+Depression,Numbness/tingling
+Multiple Sclerosis,Memory loss
+Alzheimer's Disease,Memory loss
+Depression,Memory loss
+Multiple Sclerosis,Mood changes
+Alzheimer's Disease,Mood changes
+Depression,Mood changes
+Depression,Mood Swings
+Bipolar Disorder,Mood Swings
+Anorexia Nervosa,Mood Swings
+Attention Deficit Hyperactivity Disorder,Mood Swings
+Post-Traumatic Stress Disorder,Mood Swings
+Depression,Loss of Appetite
+Bipolar Disorder,Loss of Appetite
+Anorexia Nervosa,Loss of Appetite
+Attention Deficit Hyperactivity Disorder,Loss of Appetite
+Post-Traumatic Stress Disorder,Loss of Appetite
+Depression,Difficulty Concentrating
+Bipolar Disorder,Difficulty Concentrating
+Anorexia Nervosa,Difficulty Concentrating
+Attention Deficit Hyperactivity Disorder,Difficulty Concentrating
+Post-Traumatic Stress Disorder,Difficulty Concentrating
+Anxiety Disorder,Insomnia
+Schizophrenia,Insomnia
+Obsessive Compulsive Disorder,Insomnia
+Borderline Personality Disorder,Insomnia
+Seasonal Affective Disorder,Insomnia
+Anxiety Disorder,Irritability
+Schizophrenia,Irritability
+Obsessive Compulsive Disorder,Irritability
+Borderline Personality Disorder,Irritability
+Seasonal Affective Disorder,Irritability
+Anxiety Disorder,Social Withdrawal
+Schizophrenia,Social Withdrawal
+Obsessive Compulsive Disorder,Social Withdrawal
+Borderline Personality Disorder,Social Withdrawal
+Seasonal Affective Disorder,Social Withdrawal
+Alzheimer's Disease,Hallucinations
+Dementia,Hallucinations
+Parkinson's Disease,Hallucinations
+Schizoaffective Disorder,Hallucinations
+Huntington's Disease,Hallucinations
+Alzheimer's Disease,Memory Loss
+Dementia,Memory Loss
+Parkinson's Disease,Memory Loss
+Schizoaffective Disorder,Memory Loss
+Huntington's Disease,Memory Loss
+Alzheimer's Disease,Delusions
+Dementia,Delusions
+Parkinson's Disease,Delusions
+Schizoaffective Disorder,Delusions
+Huntington's Disease,Delusions
+Antisocial Personality Disorder,Paranoia
+Narcissistic Personality Disorder,Paranoia
+Intermittent Explosive Disorder,Paranoia
+Conduct Disorder,Paranoia
+Oppositional Defiant Disorder,Paranoia
+Antisocial Personality Disorder,Aggressiveness
+Narcissistic Personality Disorder,Aggressiveness
+Intermittent Explosive Disorder,Aggressiveness
+Conduct Disorder,Aggressiveness
+Oppositional Defiant Disorder,Aggressiveness
+Antisocial Personality Disorder,Impulsive Behavior
+Narcissistic Personality Disorder,Impulsive Behavior
+Intermittent Explosive Disorder,Impulsive Behavior
+Conduct Disorder,Impulsive Behavior
+Oppositional Defiant Disorder,Impulsive Behavior
+Postpartum Depression,Panic Attacks
+Panic Disorder,Panic Attacks
+Dissociative Identity Disorder,Panic Attacks
+Generalized Anxiety Disorder,Panic Attacks
+Major Depressive Disorder,Panic Attacks
+Postpartum Depression,Flashbacks
+Panic Disorder,Flashbacks
+Dissociative Identity Disorder,Flashbacks
+Generalized Anxiety Disorder,Flashbacks
+Major Depressive Disorder,Flashbacks
+Postpartum Depression,Emotional Numbness
+Panic Disorder,Emotional Numbness
+Dissociative Identity Disorder,Emotional Numbness
+Generalized Anxiety Disorder,Emotional Numbness
+Major Depressive Disorder,Emotional Numbness
+Gastritis,Abdominal Pain
+Gastroenteritis,Abdominal Pain
+Irritable Bowel Syndrome,Abdominal Pain
+Food Poisoning,Abdominal Pain
+Peptic Ulcer,Abdominal Pain
+Gastritis,Nausea
+Gastroenteritis,Nausea
+Irritable Bowel Syndrome,Nausea
+Food Poisoning,Nausea
+Peptic Ulcer,Nausea
+Gastritis,Vomiting
+Gastroenteritis,Vomiting
+Irritable Bowel Syndrome,Vomiting
+Food Poisoning,Vomiting
+Peptic Ulcer,Vomiting
+Gastritis,Bloating
+Gastroenteritis,Bloating
+Irritable Bowel Syndrome,Bloating
+Food Poisoning,Bloating
+Peptic Ulcer,Bloating
+Gastritis,Diarrhea
+Gastroenteritis,Diarrhea
+Irritable Bowel Syndrome,Diarrhea
+Food Poisoning,Diarrhea
+Peptic Ulcer,Diarrhea
+Colon Cancer,Constipation
+Crohn's Disease,Constipation
+Diverticulitis,Constipation
+Ulcerative Colitis,Constipation
+Pancreatic Cancer,Constipation
+Colon Cancer,Abdominal Cramps
+Crohn's Disease,Abdominal Cramps
+Diverticulitis,Abdominal Cramps
+Ulcerative Colitis,Abdominal Cramps
+Pancreatic Cancer,Abdominal Cramps
+Colon Cancer,Blood in Stool
+Crohn's Disease,Blood in Stool
+Diverticulitis,Blood in Stool
+Ulcerative Colitis,Blood in Stool
+Pancreatic Cancer,Blood in Stool
+Colon Cancer,Weight Loss
+Crohn's Disease,Weight Loss
+Diverticulitis,Weight Loss
+Ulcerative Colitis,Weight Loss
+Pancreatic Cancer,Weight Loss
+Colon Cancer,Fatigue
+Crohn's Disease,Fatigue
+Diverticulitis,Fatigue
+Ulcerative Colitis,Fatigue
+Pancreatic Cancer,Fatigue
+Gastroesophageal Reflux Disease,Heartburn
+Hiatal Hernia,Heartburn
+Esophagitis,Heartburn
+Gastroparesis,Heartburn
+Peptic Ulcer,Heartburn
+Gastroesophageal Reflux Disease,Difficulty Swallowing
+Hiatal Hernia,Difficulty Swallowing
+Esophagitis,Difficulty Swallowing
+Gastroparesis,Difficulty Swallowing
+Peptic Ulcer,Difficulty Swallowing
+Gastroesophageal Reflux Disease,Regurgitation
+Hiatal Hernia,Regurgitation
+Esophagitis,Regurgitation
+Gastroparesis,Regurgitation
+Peptic Ulcer,Regurgitation
+Gastroesophageal Reflux Disease,Nausea
+Hiatal Hernia,Nausea
+Esophagitis,Nausea
+Gastroparesis,Nausea
+Peptic Ulcer,Nausea
+Gastroesophageal Reflux Disease,Vomiting
+Hiatal Hernia,Vomiting
+Esophagitis,Vomiting
+Gastroparesis,Vomiting
+Peptic Ulcer,Vomiting
+Hepatitis,Jaundice
+Cirrhosis,Jaundice
+Gallstones,Jaundice
+Pancreatitis,Jaundice
+Liver Cancer,Jaundice
+Hepatitis,Dark Urine
+Cirrhosis,Dark Urine
+Gallstones,Dark Urine
+Pancreatitis,Dark Urine
+Liver Cancer,Dark Urine
+Hepatitis,Pale Stools
+Cirrhosis,Pale Stools
+Gallstones,Pale Stools
+Pancreatitis,Pale Stools
+Liver Cancer,Pale Stools
+Hepatitis,Abdominal Pain
+Cirrhosis,Abdominal Pain
+Gallstones,Abdominal Pain
+Pancreatitis,Abdominal Pain
+Liver Cancer,Abdominal Pain
+Hepatitis,Loss of Appetite
+Cirrhosis,Loss of Appetite
+Gallstones,Loss of Appetite
+Pancreatitis,Loss of Appetite
+Liver Cancer,Loss of Appetite
+Colorectal Cancer,Rectal Bleeding
+Inflammatory Bowel Disease,Rectal Bleeding
+Hemorrhoids,Rectal Bleeding
+Diverticulosis,Rectal Bleeding
+Anal Fissures,Rectal Bleeding
+Colorectal Cancer,Change in Bowel Habits
+Inflammatory Bowel Disease,Change in Bowel Habits
+Hemorrhoids,Change in Bowel Habits
+Diverticulosis,Change in Bowel Habits
+Anal Fissures,Change in Bowel Habits
+Colorectal Cancer,Abdominal Pain
+Inflammatory Bowel Disease,Abdominal Pain
+Hemorrhoids,Abdominal Pain
+Diverticulosis,Abdominal Pain
+Anal Fissures,Abdominal Pain
+Colorectal Cancer,Anemia
+Inflammatory Bowel Disease,Anemia
+Hemorrhoids,Anemia
+Diverticulosis,Anemia
+Anal Fissures,Anemia
+Colorectal Cancer,Unexplained Weight Loss
+Inflammatory Bowel Disease,Unexplained Weight Loss
+Hemorrhoids,Unexplained Weight Loss
+Diverticulosis,Unexplained Weight Loss
+Anal Fissures,Unexplained Weight Loss
+Hypothyroidism,Weight gain
+Hashimoto's disease,Weight gain
+Cushing's syndrome,Weight gain
+Addison's disease,Weight gain
+Hypopituitarism,Weight gain
+Hypothyroidism,Hair loss
+Hashimoto's disease,Hair loss
+Cushing's syndrome,Hair loss
+Addison's disease,Hair loss
+Hypopituitarism,Hair loss
+Hypothyroidism,Dry skin
+Hashimoto's disease,Dry skin
+Cushing's syndrome,Dry skin
+Addison's disease,Dry skin
+Hypopituitarism,Dry skin
+Hypothyroidism,Feeling cold
+Hashimoto's disease,Feeling cold
+Cushing's syndrome,Feeling cold
+Addison's disease,Feeling cold
+Hypopituitarism,Feeling cold
+Hypothyroidism,Constipation
+Hashimoto's disease,Constipation
+Cushing's syndrome,Constipation
+Addison's disease,Constipation
+Hypopituitarism,Constipation
+Diabetes mellitus,Increased thirst
+Diabetes insipidus,Increased thirst
+Hyperparathyroidism,Increased thirst
+Hyperthyroidism,Increased thirst
+Acromegaly,Increased thirst
+Diabetes mellitus,Frequent urination
+Diabetes insipidus,Frequent urination
+Hyperparathyroidism,Frequent urination
+Hyperthyroidism,Frequent urination
+Acromegaly,Frequent urination
+Diabetes mellitus,Fatigue
+Diabetes insipidus,Fatigue
+Hyperparathyroidism,Fatigue
+Hyperthyroidism,Fatigue
+Acromegaly,Fatigue
+Diabetes mellitus,Blurred vision
+Diabetes insipidus,Blurred vision
+Hyperparathyroidism,Blurred vision
+Hyperthyroidism,Blurred vision
+Acromegaly,Blurred vision
+Diabetes mellitus,Nausea
+Diabetes insipidus,Nausea
+Hyperparathyroidism,Nausea
+Hyperthyroidism,Nausea
+Acromegaly,Nausea
+Polycystic ovary syndrome,Muscle weakness
+Cushing's syndrome,Muscle weakness
+Hypothyroidism,Muscle weakness
+Premenstrual syndrome,Muscle weakness
+Premature ovarian failure,Muscle weakness
+Polycystic ovary syndrome,Weight gain
+Cushing's syndrome,Weight gain
+Hypothyroidism,Weight gain
+Premenstrual syndrome,Weight gain
+Premature ovarian failure,Weight gain
+Polycystic ovary syndrome,Mood swings
+Cushing's syndrome,Mood swings
+Hypothyroidism,Mood swings
+Premenstrual syndrome,Mood swings
+Premature ovarian failure,Mood swings
+Polycystic ovary syndrome,Irregular periods
+Cushing's syndrome,Irregular periods
+Hypothyroidism,Irregular periods
+Premenstrual syndrome,Irregular periods
+Premature ovarian failure,Irregular periods
+Polycystic ovary syndrome,Thinning hair
+Cushing's syndrome,Thinning hair
+Hypothyroidism,Thinning hair
+Premenstrual syndrome,Thinning hair
+Premature ovarian failure,Thinning hair
+Hyperthyroidism,Excessive sweating
+Pheochromocytoma,Excessive sweating
+Graves' disease,Excessive sweating
+Pituitary adenoma,Excessive sweating
+Adrenal insufficiency,Excessive sweating
+Hyperthyroidism,Rapid heart rate
+Pheochromocytoma,Rapid heart rate
+Graves' disease,Rapid heart rate
+Pituitary adenoma,Rapid heart rate
+Adrenal insufficiency,Rapid heart rate
+Hyperthyroidism,Anxiety
+Pheochromocytoma,Anxiety
+Graves' disease,Anxiety
+Pituitary adenoma,Anxiety
+Adrenal insufficiency,Anxiety
+Hyperthyroidism,Tremors
+Pheochromocytoma,Tremors
+Graves' disease,Tremors
+Pituitary adenoma,Tremors
+Adrenal insufficiency,Tremors
+Hyperthyroidism,Weight loss
+Pheochromocytoma,Weight loss
+Graves' disease,Weight loss
+Pituitary adenoma,Weight loss
+Adrenal insufficiency,Weight loss
+Addison's disease,Fatigue
+Hypopituitarism,Fatigue
+Adrenal insufficiency,Fatigue
+Pheochromocytoma,Fatigue
+Hypothyroidism,Fatigue
+Addison's disease,Muscle pain
+Hypopituitarism,Muscle pain
+Adrenal insufficiency,Muscle pain
+Pheochromocytoma,Muscle pain
+Hypothyroidism,Muscle pain
+Addison's disease,Low blood pressure
+Hypopituitarism,Low blood pressure
+Adrenal insufficiency,Low blood pressure
+Pheochromocytoma,Low blood pressure
+Hypothyroidism,Low blood pressure
+Addison's disease,Dizziness
+Hypopituitarism,Dizziness
+Adrenal insufficiency,Dizziness
+Pheochromocytoma,Dizziness
+Hypothyroidism,Dizziness
+Addison's disease,Darkening of skin
+Hypopituitarism,Darkening of skin
+Adrenal insufficiency,Darkening of skin
+Pheochromocytoma,Darkening of skin
+Hypothyroidism,Darkening of skin
+Rheumatoid Arthritis,Joint pain
+Osteoarthritis,Joint pain
+Gout,Joint pain
+Rheumatoid Arthritis,Swelling
+Osteoarthritis,Swelling
+Gout,Swelling
+Rheumatoid Arthritis,Stiffness
+Osteoarthritis,Stiffness
+Gout,Stiffness
+Sciatica,Back pain
+Herniated Disc,Back pain
+Spinal Stenosis,Back pain
+Sciatica,Numbness
+Herniated Disc,Numbness
+Spinal Stenosis,Numbness
+Sciatica,Weakness
+Herniated Disc,Weakness
+Spinal Stenosis,Weakness
+Multiple Sclerosis,Muscle weakness
+Fibromyalgia,Muscle weakness
+Myasthenia Gravis,Muscle weakness
+Multiple Sclerosis,Fatigue
+Fibromyalgia,Fatigue
+Myasthenia Gravis,Fatigue
+Multiple Sclerosis,Difficulty walking
+Fibromyalgia,Difficulty walking
+Myasthenia Gravis,Difficulty walking
+Psoriatic Arthritis,Joint redness
+Ankylosing Spondylitis,Joint redness
+Juvenile Idiopathic Arthritis,Joint redness
+Psoriatic Arthritis,Limited range of motion
+Ankylosing Spondylitis,Limited range of motion
+Juvenile Idiopathic Arthritis,Limited range of motion
+Psoriatic Arthritis,Joint deformity
+Ankylosing Spondylitis,Joint deformity
+Juvenile Idiopathic Arthritis,Joint deformity
+Amyotrophic Lateral Sclerosis,Muscle spasms
+Peripheral Neuropathy,Muscle spasms
+Polymyositis,Muscle spasms
+Amyotrophic Lateral Sclerosis,Tingling sensation
+Peripheral Neuropathy,Tingling sensation
+Polymyositis,Tingling sensation
+Amyotrophic Lateral Sclerosis,Muscle cramps
+Peripheral Neuropathy,Muscle cramps
+Polymyositis,Muscle cramps
+Eczema,Rash
+Psoriasis,Rash
+Allergic Contact Dermatitis,Rash
+Eczema,Itching
+Psoriasis,Itching
+Allergic Contact Dermatitis,Itching
+Eczema,Swelling
+Psoriasis,Swelling
+Allergic Contact Dermatitis,Swelling
+Acne Vulgaris,Acne
+Rosacea,Acne
+Folliculitis,Acne
+Acne Vulgaris,Blackheads
+Rosacea,Blackheads
+Folliculitis,Blackheads
+Acne Vulgaris,Whiteheads
+Rosacea,Whiteheads
+Folliculitis,Whiteheads
+Alopecia Areata,Hair Loss
+Seborrheic Dermatitis,Hair Loss
+Scalp Psoriasis,Hair Loss
+Alopecia Areata,Redness
+Seborrheic Dermatitis,Redness
+Scalp Psoriasis,Redness
+Alopecia Areata,Flaky Scalp
+Seborrheic Dermatitis,Flaky Scalp
+Scalp Psoriasis,Flaky Scalp
+Eczema Herpeticum,Blisters
+Athlete's Foot,Blisters
+Hand-Foot-Mouth Disease,Blisters
+Eczema Herpeticum,Cracked Skin
+Athlete's Foot,Cracked Skin
+Hand-Foot-Mouth Disease,Cracked Skin
+Eczema Herpeticum,Dryness
+Athlete's Foot,Dryness
+Hand-Foot-Mouth Disease,Dryness
+Lichen Planus,Skin Lesions
+Vitiligo,Skin Lesions
+Skin Cancer,Skin Lesions
+Lichen Planus,Discoloration
+Vitiligo,Discoloration
+Skin Cancer,Discoloration
+Lichen Planus,Ulcers
+Vitiligo,Ulcers
+Skin Cancer,Ulcers
+Polycystic Ovary Syndrome,Irregular Menstruation
+Hypothyroidism,Irregular Menstruation
+Premenstrual Syndrome,Irregular Menstruation
+Polycystic Ovary Syndrome,Weight Gain
+Hypothyroidism,Weight Gain
+Premenstrual Syndrome,Weight Gain
+Polycystic Ovary Syndrome,Mood Swings
+Hypothyroidism,Mood Swings
+Premenstrual Syndrome,Mood Swings
+Hypothyroidism,Hair Loss
+Cushing's Syndrome,Hair Loss
+Addison's Disease,Hair Loss
+Hypothyroidism,Fatigue
+Cushing's Syndrome,Fatigue
+Addison's Disease,Fatigue
+Hypothyroidism,Dry Skin
+Cushing's Syndrome,Dry Skin
+Addison's Disease,Dry Skin
+Diabetes Mellitus,Increased Thirst
+Diabetes Insipidus,Increased Thirst
+Hyperthyroidism,Increased Thirst
+Diabetes Mellitus,Frequent Urination
+Diabetes Insipidus,Frequent Urination
+Hyperthyroidism,Frequent Urination
+Diabetes Mellitus,Blurred Vision
+Diabetes Insipidus,Blurred Vision
+Hyperthyroidism,Blurred Vision
+Hypopituitarism,Growth Delay
+Turner Syndrome,Growth Delay
+Prader-Willi Syndrome,Growth Delay
+Hypopituitarism,Delayed Puberty
+Turner Syndrome,Delayed Puberty
+Prader-Willi Syndrome,Delayed Puberty
+Hypopituitarism,Excessive Hunger
+Turner Syndrome,Excessive Hunger
+Prader-Willi Syndrome,Excessive Hunger
+Polycystic Ovary Syndrome,Excessive Facial Hair
+Cushing's Syndrome,Excessive Facial Hair
+Congenital Adrenal Hyperplasia,Excessive Facial Hair
+Polycystic Ovary Syndrome,Acne
+Cushing's Syndrome,Acne
+Congenital Adrenal Hyperplasia,Acne
+Polycystic Ovary Syndrome,Irregular Periods
+Cushing's Syndrome,Irregular Periods
+Congenital Adrenal Hyperplasia,Irregular Periods
+Allergic Rhinitis,Sneezing
+Hay Fever,Sneezing
+Allergic Conjunctivitis,Sneezing
+Allergic Rhinitis,Itchy Eyes
+Hay Fever,Itchy Eyes
+Allergic Conjunctivitis,Itchy Eyes
+Allergic Rhinitis,Runny Nose
+Hay Fever,Runny Nose
+Allergic Conjunctivitis,Runny Nose
+Anaphylaxis,Hives
+Food Allergy,Hives
+Insect Sting Allergy,Hives
+Anaphylaxis,Swollen Lips
+Food Allergy,Swollen Lips
+Insect Sting Allergy,Swollen Lips
+Anaphylaxis,Difficulty Breathing
+Food Allergy,Difficulty Breathing
+Insect Sting Allergy,Difficulty Breathing
+Food Allergy,Skin Rash
+Eczema,Skin Rash
+Dermatitis,Skin Rash
+Food Allergy,Stomach Pain
+Eczema,Stomach Pain
+Dermatitis,Stomach Pain
+Food Allergy,Nausea
+Eczema,Nausea
+Dermatitis,Nausea
+Asthma,Wheezing
+Allergic Bronchitis,Wheezing
+COPD,Wheezing
+Asthma,Shortness of Breath
+Allergic Bronchitis,Shortness of Breath
+COPD,Shortness of Breath
+Asthma,Chest Tightness
+Allergic Bronchitis,Chest Tightness
+COPD,Chest Tightness
+Sinusitis,Headache
+Allergic Rhinitis,Headache
+Migraines,Headache
+Sinusitis,Fatigue
+Allergic Rhinitis,Fatigue
+Migraines,Fatigue
+Sinusitis,Sinus Pressure
+Allergic Rhinitis,Sinus Pressure
+Migraines,Sinus Pressure
+Glaucoma,Blurred Vision
+Cataracts,Blurred Vision
+Conjunctivitis,Blurred Vision
+Migraine,Blurred Vision
+Uveitis,Blurred Vision
+Glaucoma,Eye Pain
+Cataracts,Eye Pain
+Conjunctivitis,Eye Pain
+Migraine,Eye Pain
+Uveitis,Eye Pain
+Glaucoma,Redness
+Cataracts,Redness
+Conjunctivitis,Redness
+Migraine,Redness
+Uveitis,Redness
+Glaucoma,Sensitivity to Light
+Cataracts,Sensitivity to Light
+Conjunctivitis,Sensitivity to Light
+Migraine,Sensitivity to Light
+Uveitis,Sensitivity to Light
+Glaucoma,Headache
+Cataracts,Headache
+Conjunctivitis,Headache
+Migraine,Headache
+Uveitis,Headache
+Astigmatism,Double Vision
+Presbyopia,Double Vision
+Macular Degeneration,Double Vision
+Diabetic Retinopathy,Double Vision
+Refractive Error,Double Vision
+Astigmatism,Difficulty Seeing at Night
+Presbyopia,Difficulty Seeing at Night
+Macular Degeneration,Difficulty Seeing at Night
+Diabetic Retinopathy,Difficulty Seeing at Night
+Refractive Error,Difficulty Seeing at Night
+Astigmatism,Halos Around Lights
+Presbyopia,Halos Around Lights
+Macular Degeneration,Halos Around Lights
+Diabetic Retinopathy,Halos Around Lights
+Refractive Error,Halos Around Lights
+Astigmatism,Floaters
+Presbyopia,Floaters
+Macular Degeneration,Floaters
+Diabetic Retinopathy,Floaters
+Refractive Error,Floaters
+Astigmatism,Eye Strain
+Presbyopia,Eye Strain
+Macular Degeneration,Eye Strain
+Diabetic Retinopathy,Eye Strain
+Refractive Error,Eye Strain
+Blepharitis,Dry Eyes
+Allergic Conjunctivitis,Dry Eyes
+Sjogren's Syndrome,Dry Eyes
+Corneal Abrasion,Dry Eyes
+Pink Eye,Dry Eyes
+Blepharitis,Itching
+Allergic Conjunctivitis,Itching
+Sjogren's Syndrome,Itching
+Corneal Abrasion,Itching
+Pink Eye,Itching
+Blepharitis,Burning Sensation
+Allergic Conjunctivitis,Burning Sensation
+Sjogren's Syndrome,Burning Sensation
+Corneal Abrasion,Burning Sensation
+Pink Eye,Burning Sensation
+Blepharitis,Excessive Tearing
+Allergic Conjunctivitis,Excessive Tearing
+Sjogren's Syndrome,Excessive Tearing
+Corneal Abrasion,Excessive Tearing
+Pink Eye,Excessive Tearing
+Blepharitis,Discharge
+Allergic Conjunctivitis,Discharge
+Sjogren's Syndrome,Discharge
+Corneal Abrasion,Discharge
+Pink Eye,Discharge
+Retinitis Pigmentosa,Color Blindness
+Optic Neuritis,Color Blindness
+Retinal Detachment,Color Blindness
+Glaucoma,Color Blindness
+Cataracts,Color Blindness
+Retinitis Pigmentosa,Tunnel Vision
+Optic Neuritis,Tunnel Vision
+Retinal Detachment,Tunnel Vision
+Glaucoma,Tunnel Vision
+Cataracts,Tunnel Vision
+Retinitis Pigmentosa,Blurred Peripheral Vision
+Optic Neuritis,Blurred Peripheral Vision
+Retinal Detachment,Blurred Peripheral Vision
+Glaucoma,Blurred Peripheral Vision
+Cataracts,Blurred Peripheral Vision
+Retinitis Pigmentosa,Difficulty Seeing in Low Light
+Optic Neuritis,Difficulty Seeing in Low Light
+Retinal Detachment,Difficulty Seeing in Low Light
+Glaucoma,Difficulty Seeing in Low Light
+Cataracts,Difficulty Seeing in Low Light
+Retinitis Pigmentosa,Night Blindness
+Optic Neuritis,Night Blindness
+Retinal Detachment,Night Blindness
+Glaucoma,Night Blindness
+Cataracts,Night Blindness
+Bell's Palsy,Eye Twitching
+Myasthenia Gravis,Eye Twitching
+Multiple Sclerosis,Eye Twitching
+Migraine,Eye Twitching
+Brain Tumor,Eye Twitching
+Bell's Palsy,Drooping Eyelid
+Myasthenia Gravis,Drooping Eyelid
+Multiple Sclerosis,Drooping Eyelid
+Migraine,Drooping Eyelid
+Brain Tumor,Drooping Eyelid
+Bell's Palsy,Blurred Vision
+Myasthenia Gravis,Blurred Vision
+Multiple Sclerosis,Blurred Vision
+Migraine,Blurred Vision
+Brain Tumor,Blurred Vision
+Bell's Palsy,Headache
+Myasthenia Gravis,Headache
+Multiple Sclerosis,Headache
+Migraine,Headache
+Brain Tumor,Headache
+Bell's Palsy,Nausea
+Myasthenia Gravis,Nausea
+Multiple Sclerosis,Nausea
+Migraine,Nausea
+Brain Tumor,Nausea
+Otitis Media,Earache
+Swimmer's Ear,Earache
+Meniere's Disease,Earache
+Otitis Media,Hearing Loss
+Swimmer's Ear,Hearing Loss
+Meniere's Disease,Hearing Loss
+Labyrinthitis,Tinnitus
+Acoustic Neuroma,Tinnitus
+Temporomandibular Joint Disorder,Tinnitus
+Labyrinthitis,Vertigo
+Acoustic Neuroma,Vertigo
+Temporomandibular Joint Disorder,Vertigo
+Cholesteatoma,Ear Discharge
+Otitis Externa,Ear Discharge
+Allergic Rhinitis,Ear Discharge
+Cholesteatoma,Itching
+Otitis Externa,Itching
+Allergic Rhinitis,Itching
+Eustachian Tube Dysfunction,Ear Fullness
+Noise-induced Hearing Loss,Ear Fullness
+Earwax Blockage,Ear Fullness
+Eustachian Tube Dysfunction,Ringing in Ears
+Noise-induced Hearing Loss,Ringing in Ears
+Earwax Blockage,Ringing in Ears
+Bell's Palsy,Facial Numbness
+Temporal Arteritis,Facial Numbness
+Migraine,Facial Numbness
+Bell's Palsy,Headache
+Temporal Arteritis,Headache
+Migraine,Headache
+Urinary Tract Infection,Frequent urination
+Kidney Stones,Frequent urination
+Polycystic Kidney Disease,Frequent urination
+Urinary Tract Infection,Back pain
+Kidney Stones,Back pain
+Polycystic Kidney Disease,Back pain
+Urinary Tract Infection,Loss of appetite
+Kidney Stones,Loss of appetite
+Polycystic Kidney Disease,Loss of appetite
+Chronic Kidney Disease,Swelling in legs
+Glomerulonephritis,Swelling in legs
+Diabetic Nephropathy,Swelling in legs
+Chronic Kidney Disease,Nausea
+Glomerulonephritis,Nausea
+Diabetic Nephropathy,Nausea
+Chronic Kidney Disease,High blood pressure
+Glomerulonephritis,High blood pressure
+Diabetic Nephropathy,High blood pressure
+Kidney Infection,Dark urine
+Lupus Nephritis,Dark urine
+IgA Nephropathy,Dark urine
+Kidney Infection,Fatigue
+Lupus Nephritis,Fatigue
+IgA Nephropathy,Fatigue
+Kidney Infection,Headaches
+Lupus Nephritis,Headaches
+IgA Nephropathy,Headaches
+Acute Kidney Failure,Muscle cramps
+Chronic Pyelonephritis,Muscle cramps
+Renal Tubular Acidosis,Muscle cramps
+Acute Kidney Failure,Difficulty concentrating
+Chronic Pyelonephritis,Difficulty concentrating
+Renal Tubular Acidosis,Difficulty concentrating
+Acute Kidney Failure,Metallic taste in mouth
+Chronic Pyelonephritis,Metallic taste in mouth
+Renal Tubular Acidosis,Metallic taste in mouth
+Nephrotic Syndrome,Swollen face
+Alport Syndrome,Swollen face
+Amyloidosis,Swollen face
+Nephrotic Syndrome,Anemia
+Alport Syndrome,Anemia
+Amyloidosis,Anemia
+Nephrotic Syndrome,Itchy skin
+Alport Syndrome,Itchy skin
+Amyloidosis,Itchy skin
+Hepatitis A,Jaundice
+Hepatitis B,Jaundice
+Hepatitis C,Jaundice
+Hepatitis A,Nausea
+Hepatitis B,Nausea
+Hepatitis C,Nausea
+Hepatitis A,Loss of Appetite
+Hepatitis B,Loss of Appetite
+Hepatitis C,Loss of Appetite
+Cholangitis,Abdominal Pain
+Cirrhosis,Abdominal Pain
+Liver Abscess,Abdominal Pain
+Cholangitis,Vomiting
+Cirrhosis,Vomiting
+Liver Abscess,Vomiting
+Cholangitis,Fever
+Cirrhosis,Fever
+Liver Abscess,Fever
+Hepatocellular Carcinoma,Weight Loss
+Primary Biliary Cholangitis,Weight Loss
+Primary Sclerosing Cholangitis,Weight Loss
+Hepatocellular Carcinoma,Weakness
+Primary Biliary Cholangitis,Weakness
+Primary Sclerosing Cholangitis,Weakness
+Hepatocellular Carcinoma,Itchy Skin
+Primary Biliary Cholangitis,Itchy Skin
+Primary Sclerosing Cholangitis,Itchy Skin
+Cirrhosis,Swollen Abdomen
+Alcoholic Hepatitis,Swollen Abdomen
+Wilson's Disease,Swollen Abdomen
+Cirrhosis,Dark Urine
+Alcoholic Hepatitis,Dark Urine
+Wilson's Disease,Dark Urine
+Cirrhosis,Clay-colored Stool
+Alcoholic Hepatitis,Clay-colored Stool
+Wilson's Disease,Clay-colored Stool
+Hepatic Encephalopathy,Confusion
+Hepatopulmonary Syndrome,Confusion
+Budd-Chiari Syndrome,Confusion
+Hepatic Encephalopathy,Drowsiness
+Hepatopulmonary Syndrome,Drowsiness
+Budd-Chiari Syndrome,Drowsiness
+Hepatic Encephalopathy,Muscle Tremors
+Hepatopulmonary Syndrome,Muscle Tremors
+Budd-Chiari Syndrome,Muscle Tremors
+Gonorrhea,Painful urination
+Chlamydia,Painful urination
+Syphilis,Painful urination
+Gonorrhea,Abnormal discharge
+Chlamydia,Abnormal discharge
+Syphilis,Abnormal discharge
+Gonorrhea,Genital sores
+Chlamydia,Genital sores
+Syphilis,Genital sores
+Genital herpes,Bumps or sores on genitals
+HIV,Bumps or sores on genitals
+Zika virus,Bumps or sores on genitals
+Genital herpes,Fever
+HIV,Fever
+Zika virus,Fever
+Genital herpes,Headache
+HIV,Headache
+Zika virus,Headache
+Pelvic inflammatory disease,Abdominal pain
+Gonorrhea,Abdominal pain
+Chlamydia,Abdominal pain
+Pelvic inflammatory disease,Vaginal bleeding
+Gonorrhea,Vaginal bleeding
+Chlamydia,Vaginal bleeding
+Pelvic inflammatory disease,Pain during sex
+Gonorrhea,Pain during sex
+Chlamydia,Pain during sex
+Hemorrhoids,Anal itching
+Anal fissures,Anal itching
+Syphilis,Anal itching
+Hemorrhoids,Rectal bleeding
+Anal fissures,Rectal bleeding
+Syphilis,Rectal bleeding
+Hemorrhoids,Painful bowel movements
+Anal fissures,Painful bowel movements
+Syphilis,Painful bowel movements
+Trichomoniasis,Painful intercourse
+Bacterial vaginosis,Painful intercourse
+Chlamydia,Painful intercourse
+Trichomoniasis,Vaginal itching
+Bacterial vaginosis,Vaginal itching
+Chlamydia,Vaginal itching
+Trichomoniasis,Vaginal discharge
+Bacterial vaginosis,Vaginal discharge
+Chlamydia,Vaginal discharge
+Anemia,Fatigue
+Iron Deficiency,Fatigue
+Vitamin B12 Deficiency,Fatigue
+Folate Deficiency,Fatigue
+Hemolytic Anemia,Fatigue
+Anemia,Weakness
+Iron Deficiency,Weakness
+Vitamin B12 Deficiency,Weakness
+Folate Deficiency,Weakness
+Hemolytic Anemia,Weakness
+Anemia,Dizziness
+Iron Deficiency,Dizziness
+Vitamin B12 Deficiency,Dizziness
+Folate Deficiency,Dizziness
+Hemolytic Anemia,Dizziness
+Anemia,Shortness of Breath
+Iron Deficiency,Shortness of Breath
+Vitamin B12 Deficiency,Shortness of Breath
+Folate Deficiency,Shortness of Breath
+Hemolytic Anemia,Shortness of Breath
+Anemia,Pale Skin
+Iron Deficiency,Pale Skin
+Vitamin B12 Deficiency,Pale Skin
+Folate Deficiency,Pale Skin
+Hemolytic Anemia,Pale Skin
+Electrolyte Imbalance,Muscle Cramps
+Vitamin D Deficiency,Muscle Cramps
+Vitamin B1 Deficiency,Muscle Cramps
+Vitamin B6 Deficiency,Muscle Cramps
+Vitamin B9 Deficiency,Muscle Cramps
+Electrolyte Imbalance,Numbness
+Vitamin D Deficiency,Numbness
+Vitamin B1 Deficiency,Numbness
+Vitamin B6 Deficiency,Numbness
+Vitamin B9 Deficiency,Numbness
+Electrolyte Imbalance,Tingling Sensation
+Vitamin D Deficiency,Tingling Sensation
+Vitamin B1 Deficiency,Tingling Sensation
+Vitamin B6 Deficiency,Tingling Sensation
+Vitamin B9 Deficiency,Tingling Sensation
+Electrolyte Imbalance,Confusion
+Vitamin D Deficiency,Confusion
+Vitamin B1 Deficiency,Confusion
+Vitamin B6 Deficiency,Confusion
+Vitamin B9 Deficiency,Confusion
+Electrolyte Imbalance,Irregular Heartbeat
+Vitamin D Deficiency,Irregular Heartbeat
+Vitamin B1 Deficiency,Irregular Heartbeat
+Vitamin B6 Deficiency,Irregular Heartbeat
+Vitamin B9 Deficiency,Irregular Heartbeat
+Iron Deficiency,Hair Loss
+Zinc Deficiency,Hair Loss
+Vitamin C Deficiency,Hair Loss
+Vitamin B3 Deficiency,Hair Loss
+Vitamin B7 Deficiency,Hair Loss
+Iron Deficiency,Brittle Nails
+Zinc Deficiency,Brittle Nails
+Vitamin C Deficiency,Brittle Nails
+Vitamin B3 Deficiency,Brittle Nails
+Vitamin B7 Deficiency,Brittle Nails
+Iron Deficiency,Dry Skin
+Zinc Deficiency,Dry Skin
+Vitamin C Deficiency,Dry Skin
+Vitamin B3 Deficiency,Dry Skin
+Vitamin B7 Deficiency,Dry Skin
+Iron Deficiency,Mouth Ulcers
+Zinc Deficiency,Mouth Ulcers
+Vitamin C Deficiency,Mouth Ulcers
+Vitamin B3 Deficiency,Mouth Ulcers
+Vitamin B7 Deficiency,Mouth Ulcers
+Iron Deficiency,Difficulty Swallowing
+Zinc Deficiency,Difficulty Swallowing
+Vitamin C Deficiency,Difficulty Swallowing
+Vitamin B3 Deficiency,Difficulty Swallowing
+Vitamin B7 Deficiency,Difficulty Swallowing
+Vitamin K Deficiency,Poor Wound Healing
+Vitamin C Deficiency,Poor Wound Healing
+Vitamin D Deficiency,Poor Wound Healing
+Vitamin B6 Deficiency,Poor Wound Healing
+Vitamin B12 Deficiency,Poor Wound Healing
+Vitamin K Deficiency,Easy Bruising
+Vitamin C Deficiency,Easy Bruising
+Vitamin D Deficiency,Easy Bruising
+Vitamin B6 Deficiency,Easy Bruising
+Vitamin B12 Deficiency,Easy Bruising
+Vitamin K Deficiency,Gum Bleeding
+Vitamin C Deficiency,Gum Bleeding
+Vitamin D Deficiency,Gum Bleeding
+Vitamin B6 Deficiency,Gum Bleeding
+Vitamin B12 Deficiency,Gum Bleeding
+Vitamin K Deficiency,Joint Pain
+Vitamin C Deficiency,Joint Pain
+Vitamin D Deficiency,Joint Pain
+Vitamin B6 Deficiency,Joint Pain
+Vitamin B12 Deficiency,Joint Pain
+Vitamin K Deficiency,Bone Pain
+Vitamin C Deficiency,Bone Pain
+Vitamin D Deficiency,Bone Pain
+Vitamin B6 Deficiency,Bone Pain
+Vitamin B12 Deficiency,Bone Pain
+Vitamin A Deficiency,Night Blindness
+Vitamin E Deficiency,Night Blindness
+Vitamin D Deficiency,Night Blindness
+Vitamin B7 Deficiency,Night Blindness
+Iron Deficiency,Night Blindness
+Vitamin A Deficiency,Dry Eyes
+Vitamin E Deficiency,Dry Eyes
+Vitamin D Deficiency,Dry Eyes
+Vitamin B7 Deficiency,Dry Eyes
+Iron Deficiency,Dry Eyes
+Vitamin A Deficiency,Dry Skin
+Vitamin E Deficiency,Dry Skin
+Vitamin D Deficiency,Dry Skin
+Vitamin B7 Deficiency,Dry Skin
+Iron Deficiency,Dry Skin
+Vitamin A Deficiency,Dry Hair
+Vitamin E Deficiency,Dry Hair
+Vitamin D Deficiency,Dry Hair
+Vitamin B7 Deficiency,Dry Hair
+Iron Deficiency,Dry Hair
+Vitamin A Deficiency,Infertility
+Vitamin E Deficiency,Infertility
+Vitamin D Deficiency,Infertility
+Vitamin B7 Deficiency,Infertility
+Iron Deficiency,Infertility
+Migraine,Severe Headache
+Glaucoma,Severe Headache
+Brain Tumor,Severe Headache
+Migraine,Vision Loss
+Glaucoma,Vision Loss
+Brain Tumor,Vision Loss
+Migraine,Nausea
+Glaucoma,Nausea
+Brain Tumor,Nausea
+Lupus,Muscle Weakness
+Rheumatoid Arthritis,Muscle Weakness
+Lyme Disease,Muscle Weakness
+Lupus,Joint Pain
+Rheumatoid Arthritis,Joint Pain
+Lyme Disease,Joint Pain
+Lupus,Skin Rash
+Rheumatoid Arthritis,Skin Rash
+Lyme Disease,Skin Rash
+Amyotrophic Lateral Sclerosis,Difficulty Swallowing
+Multiple Sclerosis,Difficulty Swallowing
+Guillain-Barre Syndrome,Difficulty Swallowing
+Amyotrophic Lateral Sclerosis,Muscle Cramps
+Multiple Sclerosis,Muscle Cramps
+Guillain-Barre Syndrome,Muscle Cramps
+Amyotrophic Lateral Sclerosis,Weakness
+Multiple Sclerosis,Weakness
+Guillain-Barre Syndrome,Weakness
+Crohn's Disease,Abdominal Pain
+Irritable Bowel Syndrome,Abdominal Pain
+Celiac Disease,Abdominal Pain
+Crohn's Disease,Diarrhea
+Irritable Bowel Syndrome,Diarrhea
+Celiac Disease,Diarrhea
+Crohn's Disease,Fatigue
+Irritable Bowel Syndrome,Fatigue
+Celiac Disease,Fatigue
+Multiple Sclerosis,Numbness
+Peripheral Neuropathy,Numbness
+Parkinson's Disease,Numbness
+Multiple Sclerosis,Tingling Sensation
+Peripheral Neuropathy,Tingling Sensation
+Parkinson's Disease,Tingling Sensation
+Multiple Sclerosis,Difficulty Balancing
+Peripheral Neuropathy,Difficulty Balancing
+Parkinson's Disease,Difficulty Balancing
+Generalized Anxiety Disorder,Insomnia
+Depression,Insomnia
+Sleep Apnea,Insomnia
+Restless Leg Syndrome,Insomnia
+Generalized Anxiety Disorder,Restlessness
+Depression,Restlessness
+Sleep Apnea,Restlessness
+Restless Leg Syndrome,Restlessness
+Generalized Anxiety Disorder,Difficulty falling asleep
+Depression,Difficulty falling asleep
+Sleep Apnea,Difficulty falling asleep
+Restless Leg Syndrome,Difficulty falling asleep
+Generalized Anxiety Disorder,Anxiety
+Depression,Anxiety
+Sleep Apnea,Anxiety
+Restless Leg Syndrome,Anxiety
+Obstructive Sleep Apnea,Excessive daytime sleepiness
+Chronic Fatigue Syndrome,Excessive daytime sleepiness
+Narcolepsy,Excessive daytime sleepiness
+Hypersomnia,Excessive daytime sleepiness
+Obstructive Sleep Apnea,Snoring
+Chronic Fatigue Syndrome,Snoring
+Narcolepsy,Snoring
+Hypersomnia,Snoring
+Obstructive Sleep Apnea,Gasping for air during sleep
+Chronic Fatigue Syndrome,Gasping for air during sleep
+Narcolepsy,Gasping for air during sleep
+Hypersomnia,Gasping for air during sleep
+Obstructive Sleep Apnea,Morning headaches
+Chronic Fatigue Syndrome,Morning headaches
+Narcolepsy,Morning headaches
+Hypersomnia,Morning headaches
+Post-Traumatic Stress Disorder,Frequent nightmares
+Night Eating Syndrome,Frequent nightmares
+REM Sleep Behavior Disorder,Frequent nightmares
+Anxiety,Frequent nightmares
+Post-Traumatic Stress Disorder,Difficulty staying asleep
+Night Eating Syndrome,Difficulty staying asleep
+REM Sleep Behavior Disorder,Difficulty staying asleep
+Anxiety,Difficulty staying asleep
+Post-Traumatic Stress Disorder,Night terrors
+Night Eating Syndrome,Night terrors
+REM Sleep Behavior Disorder,Night terrors
+Anxiety,Night terrors
+Post-Traumatic Stress Disorder,Sleepwalking
+Night Eating Syndrome,Sleepwalking
+REM Sleep Behavior Disorder,Sleepwalking
+Anxiety,Sleepwalking
+Narcolepsy,Excessive sleepiness during the day
+Obstructive Sleep Apnea,Excessive sleepiness during the day
+Restless Leg Syndrome,Excessive sleepiness during the day
+Attention Deficit Hyperactivity Disorder,Excessive sleepiness during the day
+Narcolepsy,Loud snoring
+Obstructive Sleep Apnea,Loud snoring
+Restless Leg Syndrome,Loud snoring
+Attention Deficit Hyperactivity Disorder,Loud snoring
+Narcolepsy,Difficulty concentrating
+Obstructive Sleep Apnea,Difficulty concentrating
+Restless Leg Syndrome,Difficulty concentrating
+Attention Deficit Hyperactivity Disorder,Difficulty concentrating
+Narcolepsy,Feeling irritable
+Obstructive Sleep Apnea,Feeling irritable
+Restless Leg Syndrome,Feeling irritable
+Attention Deficit Hyperactivity Disorder,Feeling irritable
+Narcolepsy,Difficulty staying awake during the day
+Insomnia,Difficulty staying awake during the day
+Obstructive Sleep Apnea,Difficulty staying awake during the day
+Chronic Fatigue Syndrome,Difficulty staying awake during the day
+Narcolepsy,Difficulty staying asleep
+Insomnia,Difficulty staying asleep
+Obstructive Sleep Apnea,Difficulty staying asleep
+Chronic Fatigue Syndrome,Difficulty staying asleep
+Narcolepsy,Loud snoring
+Insomnia,Loud snoring
+Obstructive Sleep Apnea,Loud snoring
+Chronic Fatigue Syndrome,Loud snoring
+Narcolepsy,Fatigue
+Insomnia,Fatigue
+Obstructive Sleep Apnea,Fatigue
+Chronic Fatigue Syndrome,Fatigue
+Type 1 Diabetes,Excessive Thirst
+Type 2 Diabetes,Excessive Thirst
+Gestational Diabetes,Excessive Thirst
+LADA,Excessive Thirst
+MODY,Excessive Thirst
+Type 1 Diabetes,Frequent Urination
+Type 2 Diabetes,Frequent Urination
+Gestational Diabetes,Frequent Urination
+LADA,Frequent Urination
+MODY,Frequent Urination
+Type 1 Diabetes,Fatigue
+Type 2 Diabetes,Fatigue
+Gestational Diabetes,Fatigue
+LADA,Fatigue
+MODY,Fatigue
+Type 1 Diabetes,Blurred Vision
+Type 2 Diabetes,Blurred Vision
+Gestational Diabetes,Blurred Vision
+LADA,Blurred Vision
+MODY,Blurred Vision
+Type 1 Diabetes,Unintentional Weight Loss
+Type 2 Diabetes,Unintentional Weight Loss
+Gestational Diabetes,Unintentional Weight Loss
+LADA,Unintentional Weight Loss
+MODY,Unintentional Weight Loss
+Hepatitis A,Abdominal Pain
+Hepatitis B,Abdominal Pain
+Hepatitis C,Abdominal Pain
+Alcoholic Liver Disease,Abdominal Pain
+Cirrhosis,Abdominal Pain
+Hepatitis A,Nausea
+Hepatitis B,Nausea
+Hepatitis C,Nausea
+Alcoholic Liver Disease,Nausea
+Cirrhosis,Nausea
+Hepatitis A,Vomiting
+Hepatitis B,Vomiting
+Hepatitis C,Vomiting
+Alcoholic Liver Disease,Vomiting
+Cirrhosis,Vomiting
+Hepatitis A,Yellowing of Skin
+Hepatitis B,Yellowing of Skin
+Hepatitis C,Yellowing of Skin
+Alcoholic Liver Disease,Yellowing of Skin
+Cirrhosis,Yellowing of Skin
+Hepatitis A,Fatigue
+Hepatitis B,Fatigue
+Hepatitis C,Fatigue
+Alcoholic Liver Disease,Fatigue
+Cirrhosis,Fatigue
+Hypothyroidism,Muscle Weakness
+Hashimoto's Disease,Muscle Weakness
+Cushing's Syndrome,Muscle Weakness
+Polycystic Ovary Syndrome,Muscle Weakness
+Diabetes Insipidus,Muscle Weakness
+Hypothyroidism,Weight Gain
+Hashimoto's Disease,Weight Gain
+Cushing's Syndrome,Weight Gain
+Polycystic Ovary Syndrome,Weight Gain
+Diabetes Insipidus,Weight Gain
+Hypothyroidism,Constipation
+Hashimoto's Disease,Constipation
+Cushing's Syndrome,Constipation
+Polycystic Ovary Syndrome,Constipation
+Diabetes Insipidus,Constipation
+Hypothyroidism,Cold Intolerance
+Hashimoto's Disease,Cold Intolerance
+Cushing's Syndrome,Cold Intolerance
+Polycystic Ovary Syndrome,Cold Intolerance
+Diabetes Insipidus,Cold Intolerance
+Hypothyroidism,Dry Skin
+Hashimoto's Disease,Dry Skin
+Cushing's Syndrome,Dry Skin
+Polycystic Ovary Syndrome,Dry Skin
+Diabetes Insipidus,Dry Skin
+Hyperglycemic Hyperosmolar Nonketotic Syndrome,Confusion
+Diabetic Ketoacidosis,Confusion
+Diabetic Hypoglycemia,Confusion
+Diabetic Retinopathy,Confusion
+Diabetic Neuropathy,Confusion
+Hyperglycemic Hyperosmolar Nonketotic Syndrome,Headache
+Diabetic Ketoacidosis,Headache
+Diabetic Hypoglycemia,Headache
+Diabetic Retinopathy,Headache
+Diabetic Neuropathy,Headache
+Hyperglycemic Hyperosmolar Nonketotic Syndrome,Blurry Vision
+Diabetic Ketoacidosis,Blurry Vision
+Diabetic Hypoglycemia,Blurry Vision
+Diabetic Retinopathy,Blurry Vision
+Diabetic Neuropathy,Blurry Vision
+Hyperglycemic Hyperosmolar Nonketotic Syndrome,Nausea
+Diabetic Ketoacidosis,Nausea
+Diabetic Hypoglycemia,Nausea
+Diabetic Retinopathy,Nausea
+Diabetic Neuropathy,Nausea
+Hyperglycemic Hyperosmolar Nonketotic Syndrome,Vomiting
+Diabetic Ketoacidosis,Vomiting
+Diabetic Hypoglycemia,Vomiting
+Diabetic Retinopathy,Vomiting
+Diabetic Neuropathy,Vomiting
+Chronic Kidney Disease,Frequent Urination
+Diabetic Nephropathy,Frequent Urination
+Polycystic Kidney Disease,Frequent Urination
+Nephrotic Syndrome,Frequent Urination
+Acute Kidney Failure,Frequent Urination
+Chronic Kidney Disease,Excessive Thirst
+Diabetic Nephropathy,Excessive Thirst
+Polycystic Kidney Disease,Excessive Thirst
+Nephrotic Syndrome,Excessive Thirst
+Acute Kidney Failure,Excessive Thirst
+Chronic Kidney Disease,Fatigue
+Diabetic Nephropathy,Fatigue
+Polycystic Kidney Disease,Fatigue
+Nephrotic Syndrome,Fatigue
+Acute Kidney Failure,Fatigue
+Chronic Kidney Disease,Nausea
+Diabetic Nephropathy,Nausea
+Polycystic Kidney Disease,Nausea
+Nephrotic Syndrome,Nausea
+Acute Kidney Failure,Nausea
+Chronic Kidney Disease,Vomiting
+Diabetic Nephropathy,Vomiting
+Polycystic Kidney Disease,Vomiting
+Nephrotic Syndrome,Vomiting
+Acute Kidney Failure,Vomiting
+Cavities,Toothache
+Gingivitis,Toothache
+Periodontitis,Toothache
+Cavities,Sensitive Teeth
+Gingivitis,Sensitive Teeth
+Periodontitis,Sensitive Teeth
+Cavities,Bleeding Gums
+Gingivitis,Bleeding Gums
+Periodontitis,Bleeding Gums
+TMJ Disorder,Difficulty Chewing
+Halitosis,Difficulty Chewing
+Periodontal Disease,Difficulty Chewing
+TMJ Disorder,Bad Breath
+Halitosis,Bad Breath
+Periodontal Disease,Bad Breath
+TMJ Disorder,Jaw Pain
+Halitosis,Jaw Pain
+Periodontal Disease,Jaw Pain
+Tooth Erosion,Tooth Sensitivity
+Oral Thrush,Tooth Sensitivity
+Sjogren's Syndrome,Tooth Sensitivity
+Tooth Erosion,Mouth Sores
+Oral Thrush,Mouth Sores
+Sjogren's Syndrome,Mouth Sores
+Tooth Erosion,Dry Mouth
+Oral Thrush,Dry Mouth
+Sjogren's Syndrome,Dry Mouth
+Gum Disease,Loose Teeth
+Tooth Abscess,Loose Teeth
+Oral Cancer,Loose Teeth
+Gum Disease,Tooth Discoloration
+Tooth Abscess,Tooth Discoloration
+Oral Cancer,Tooth Discoloration
+Gum Disease,Swollen Gums
+Tooth Abscess,Swollen Gums
+Oral Cancer,Swollen Gums
+Temporomandibular Joint Disorder,Tooth Mobility
+Throat Infection,Tooth Mobility
+Metal Poisoning,Tooth Mobility
+Temporomandibular Joint Disorder,Difficulty Swallowing
+Throat Infection,Difficulty Swallowing
+Metal Poisoning,Difficulty Swallowing
+Temporomandibular Joint Disorder,Metallic Taste in Mouth
+Throat Infection,Metallic Taste in Mouth
+Metal Poisoning,Metallic Taste in Mouth
+Down Syndrome,Difficulty with learning
+Fragile X Syndrome,Difficulty with learning
+Fetal Alcohol Syndrome,Difficulty with learning
+Down Syndrome,Poor social skills
+Fragile X Syndrome,Poor social skills
+Fetal Alcohol Syndrome,Poor social skills
+Down Syndrome,Slow development
+Fragile X Syndrome,Slow development
+Fetal Alcohol Syndrome,Slow development
+Cerebral Palsy,Intellectual disability
+Autism Spectrum Disorder,Intellectual disability
+Rett Syndrome,Intellectual disability
+Cerebral Palsy,Speech delay
+Autism Spectrum Disorder,Speech delay
+Rett Syndrome,Speech delay
+Cerebral Palsy,Impaired motor skills
+Autism Spectrum Disorder,Impaired motor skills
+Rett Syndrome,Impaired motor skills
+Alzheimer's Disease,Memory problems
+Lewy Body Dementia,Memory problems
+Frontotemporal Dementia,Memory problems
+Alzheimer's Disease,Difficulty with problem-solving
+Lewy Body Dementia,Difficulty with problem-solving
+Frontotemporal Dementia,Difficulty with problem-solving
+Alzheimer's Disease,Impulsivity
+Lewy Body Dementia,Impulsivity
+Frontotemporal Dementia,Impulsivity
+Attention Deficit Hyperactivity Disorder,Hyperactivity
+Oppositional Defiant Disorder,Hyperactivity
+Conduct Disorder,Hyperactivity
+Attention Deficit Hyperactivity Disorder,Inattention
+Oppositional Defiant Disorder,Inattention
+Conduct Disorder,Inattention
+Attention Deficit Hyperactivity Disorder,Impulsivity
+Oppositional Defiant Disorder,Impulsivity
+Conduct Disorder,Impulsivity
+Intellectual Disability,Anxiety
+Schizophrenia,Anxiety
+Bipolar Disorder,Anxiety
+Intellectual Disability,Depression
+Schizophrenia,Depression
+Bipolar Disorder,Depression
+Intellectual Disability,Low self-esteem
+Schizophrenia,Low self-esteem
+Bipolar Disorder,Low self-esteem
+Cocaine Use Disorder,Loss of appetite
+Amphetamine Use Disorder,Loss of appetite
+Opioid Use Disorder,Loss of appetite
+Cocaine Use Disorder,Insomnia
+Amphetamine Use Disorder,Insomnia
+Opioid Use Disorder,Insomnia
+Cocaine Use Disorder,Agitation
+Amphetamine Use Disorder,Agitation
+Opioid Use Disorder,Agitation
+Alcohol Use Disorder,Nausea
+Cannabis Use Disorder,Nausea
+Benzodiazepine Use Disorder,Nausea
+Alcohol Use Disorder,Vomiting
+Cannabis Use Disorder,Vomiting
+Benzodiazepine Use Disorder,Vomiting
+Alcohol Use Disorder,Tremors
+Cannabis Use Disorder,Tremors
+Benzodiazepine Use Disorder,Tremors
+Alcohol Withdrawal,Irritability
+Benzodiazepine Withdrawal,Irritability
+Opioid Withdrawal,Irritability
+Alcohol Withdrawal,Memory loss
+Benzodiazepine Withdrawal,Memory loss
+Opioid Withdrawal,Memory loss
+Alcohol Withdrawal,Confusion
+Benzodiazepine Withdrawal,Confusion
+Opioid Withdrawal,Confusion
+Opioid Overdose,Muscle cramps
+Alcohol Poisoning,Muscle cramps
+Barbiturate Overdose,Muscle cramps
+Opioid Overdose,Headache
+Alcohol Poisoning,Headache
+Barbiturate Overdose,Headache
+Opioid Overdose,Seizures
+Alcohol Poisoning,Seizures
+Barbiturate Overdose,Seizures
+Amphetamine-induced Psychotic Disorder,Hallucinations
+Cannabis-induced Psychotic Disorder,Hallucinations
+Cocaine-induced Psychotic Disorder,Hallucinations
+Amphetamine-induced Psychotic Disorder,Paranoia
+Cannabis-induced Psychotic Disorder,Paranoia
+Cocaine-induced Psychotic Disorder,Paranoia
+Amphetamine-induced Psychotic Disorder,Delusions
+Cannabis-induced Psychotic Disorder,Delusions
+Cocaine-induced Psychotic Disorder,Delusions
+Alzheimer's disease,Memory loss
+Parkinson's disease,Memory loss
+Multiple sclerosis,Memory loss
+Alzheimer's disease,Difficulty walking
+Parkinson's disease,Difficulty walking
+Multiple sclerosis,Difficulty walking
+Alzheimer's disease,Tremors
+Parkinson's disease,Tremors
+Multiple sclerosis,Tremors
+Amyotrophic lateral sclerosis,Muscle weakness
+Myasthenia gravis,Muscle weakness
+Muscular dystrophy,Muscle weakness
+Amyotrophic lateral sclerosis,Twitching
+Myasthenia gravis,Twitching
+Muscular dystrophy,Twitching
+Amyotrophic lateral sclerosis,Vision problems
+Myasthenia gravis,Vision problems
+Muscular dystrophy,Vision problems
+Multiple sclerosis,Numbness
+Guillain-Barre syndrome,Numbness
+Charcot-Marie-Tooth disease,Numbness
+Multiple sclerosis,Tingling sensation
+Guillain-Barre syndrome,Tingling sensation
+Charcot-Marie-Tooth disease,Tingling sensation
+Multiple sclerosis,Bladder dysfunction
+Guillain-Barre syndrome,Bladder dysfunction
+Charcot-Marie-Tooth disease,Bladder dysfunction
+Vertigo,Balance problems
+Cerebellar ataxia,Balance problems
+Huntington's disease,Balance problems
+Vertigo,Dizziness
+Cerebellar ataxia,Dizziness
+Huntington's disease,Dizziness
+Vertigo,Slurred speech
+Cerebellar ataxia,Slurred speech
+Huntington's disease,Slurred speech
+Amyotrophic lateral sclerosis,Difficulty swallowing
+Myasthenia gravis,Difficulty swallowing
+Muscular dystrophy,Difficulty swallowing
+Amyotrophic lateral sclerosis,Muscle cramps
+Myasthenia gravis,Muscle cramps
+Muscular dystrophy,Muscle cramps
+Amyotrophic lateral sclerosis,Fatigue
+Myasthenia gravis,Fatigue
+Muscular dystrophy,Fatigue
+Rheumatoid Arthritis,Fever
+Systemic Lupus Erythematosus,Fever
+Psoriasis,Fever
+Rheumatoid Arthritis,Joint Pain
+Systemic Lupus Erythematosus,Joint Pain
+Psoriasis,Joint Pain
+Rheumatoid Arthritis,Skin Rash
+Systemic Lupus Erythematosus,Skin Rash
+Psoriasis,Skin Rash
+Crohn's Disease,Abdominal Pain
+Ulcerative Colitis,Abdominal Pain
+Celiac Disease,Abdominal Pain
+Crohn's Disease,Diarrhea
+Ulcerative Colitis,Diarrhea
+Celiac Disease,Diarrhea
+Crohn's Disease,Weight Loss
+Ulcerative Colitis,Weight Loss
+Celiac Disease,Weight Loss
+Polymyositis,Muscle Weakness
+Dermatomyositis,Muscle Weakness
+Inclusion Body Myositis,Muscle Weakness
+Polymyositis,Fatigue
+Dermatomyositis,Fatigue
+Inclusion Body Myositis,Fatigue
+Polymyositis,Difficulty Swallowing
+Dermatomyositis,Difficulty Swallowing
+Inclusion Body Myositis,Difficulty Swallowing
+Behcet's Disease,Fever
+Familial Mediterranean Fever,Fever
+Reactive Arthritis,Fever
+Behcet's Disease,Joint Swelling
+Familial Mediterranean Fever,Joint Swelling
+Reactive Arthritis,Joint Swelling
+Behcet's Disease,Eye Pain
+Familial Mediterranean Fever,Eye Pain
+Reactive Arthritis,Eye Pain
+Kawasaki Disease,Fever
+Juvenile Idiopathic Arthritis,Fever
+Muckle-Wells Syndrome,Fever
+Kawasaki Disease,Rash
+Juvenile Idiopathic Arthritis,Rash
+Muckle-Wells Syndrome,Rash
+Kawasaki Disease,Headache
+Juvenile Idiopathic Arthritis,Headache
+Muckle-Wells Syndrome,Headache
+Stroke,Headache
+Migraine,Headache
+Aneurysm,Headache
+Temporal Arteritis,Headache
+Transient Ischemic Attack,Headache
+Stroke,Dizziness
+Migraine,Dizziness
+Aneurysm,Dizziness
+Temporal Arteritis,Dizziness
+Transient Ischemic Attack,Dizziness
+Stroke,Numbness
+Migraine,Numbness
+Aneurysm,Numbness
+Temporal Arteritis,Numbness
+Transient Ischemic Attack,Numbness
+Stroke,Vision Changes
+Migraine,Vision Changes
+Aneurysm,Vision Changes
+Temporal Arteritis,Vision Changes
+Transient Ischemic Attack,Vision Changes
+Stroke,Difficulty Speaking
+Migraine,Difficulty Speaking
+Aneurysm,Difficulty Speaking
+Temporal Arteritis,Difficulty Speaking
+Transient Ischemic Attack,Difficulty Speaking
+Peripheral Artery Disease,Leg Pain
+Deep Vein Thrombosis,Leg Pain
+Venous Insufficiency,Leg Pain
+Atherosclerosis,Leg Pain
+Varicose Veins,Leg Pain
+Peripheral Artery Disease,Swelling
+Deep Vein Thrombosis,Swelling
+Venous Insufficiency,Swelling
+Atherosclerosis,Swelling
+Varicose Veins,Swelling
+Peripheral Artery Disease,Weakness
+Deep Vein Thrombosis,Weakness
+Venous Insufficiency,Weakness
+Atherosclerosis,Weakness
+Varicose Veins,Weakness
+Peripheral Artery Disease,Cramping
+Deep Vein Thrombosis,Cramping
+Venous Insufficiency,Cramping
+Atherosclerosis,Cramping
+Varicose Veins,Cramping
+Peripheral Artery Disease,Discoloration
+Deep Vein Thrombosis,Discoloration
+Venous Insufficiency,Discoloration
+Atherosclerosis,Discoloration
+Varicose Veins,Discoloration
+Angina,Chest Tightness
+Heart Attack,Chest Tightness
+Heart Failure,Chest Tightness
+Atrial Fibrillation,Chest Tightness
+Cardiomyopathy,Chest Tightness
+Angina,Irregular Heartbeat
+Heart Attack,Irregular Heartbeat
+Heart Failure,Irregular Heartbeat
+Atrial Fibrillation,Irregular Heartbeat
+Cardiomyopathy,Irregular Heartbeat
+Angina,Shortness of Breath
+Heart Attack,Shortness of Breath
+Heart Failure,Shortness of Breath
+Atrial Fibrillation,Shortness of Breath
+Cardiomyopathy,Shortness of Breath
+Angina,Nausea
+Heart Attack,Nausea
+Heart Failure,Nausea
+Atrial Fibrillation,Nausea
+Cardiomyopathy,Nausea
+Angina,Fatigue
+Heart Attack,Fatigue
+Heart Failure,Fatigue
+Atrial Fibrillation,Fatigue
+Cardiomyopathy,Fatigue
+Gastritis,Abdominal Pain
+Peptic Ulcer,Abdominal Pain
+Gastroenteritis,Abdominal Pain
+Diverticulitis,Abdominal Pain
+Irritable Bowel Syndrome,Abdominal Pain
+Gastritis,Nausea
+Peptic Ulcer,Nausea
+Gastroenteritis,Nausea
+Diverticulitis,Nausea
+Irritable Bowel Syndrome,Nausea
+Gastritis,Vomiting
+Peptic Ulcer,Vomiting
+Gastroenteritis,Vomiting
+Diverticulitis,Vomiting
+Irritable Bowel Syndrome,Vomiting
+Gastritis,Bloating
+Peptic Ulcer,Bloating
+Gastroenteritis,Bloating
+Diverticulitis,Bloating
+Irritable Bowel Syndrome,Bloating
+Gastritis,Diarrhea
+Peptic Ulcer,Diarrhea
+Gastroenteritis,Diarrhea
+Diverticulitis,Diarrhea
+Irritable Bowel Syndrome,Diarrhea
+Hypertension,Headache
+Atherosclerosis,Headache
+Carotid Artery Disease,Headache
+Intracranial Hemorrhage,Headache
+Cerebral Aneurysm,Headache
+Hypertension,Nausea
+Atherosclerosis,Nausea
+Carotid Artery Disease,Nausea
+Intracranial Hemorrhage,Nausea
+Cerebral Aneurysm,Nausea
+Hypertension,Blurred Vision
+Atherosclerosis,Blurred Vision
+Carotid Artery Disease,Blurred Vision
+Intracranial Hemorrhage,Blurred Vision
+Cerebral Aneurysm,Blurred Vision
+Hypertension,Fatigue
+Atherosclerosis,Fatigue
+Carotid Artery Disease,Fatigue
+Intracranial Hemorrhage,Fatigue
+Cerebral Aneurysm,Fatigue
+Hypertension,Confusion
+Atherosclerosis,Confusion
+Carotid Artery Disease,Confusion
+Intracranial Hemorrhage,Confusion
+Cerebral Aneurysm,Confusion
+Gastroenteritis,Abdominal pain
+Food poisoning,Abdominal pain
+Crohn's disease,Abdominal pain
+Appendicitis,Abdominal pain
+Gastroenteritis,Nausea
+Food poisoning,Nausea
+Crohn's disease,Nausea
+Appendicitis,Nausea
+Gastroenteritis,Vomiting
+Food poisoning,Vomiting
+Crohn's disease,Vomiting
+Appendicitis,Vomiting
+Gastroenteritis,Diarrhea
+Food poisoning,Diarrhea
+Crohn's disease,Diarrhea
+Appendicitis,Diarrhea
+Gastritis,Heartburn
+Irritable bowel syndrome,Heartburn
+Diverticulitis,Heartburn
+Gastroparesis,Heartburn
+Gastritis,Bloating
+Irritable bowel syndrome,Bloating
+Diverticulitis,Bloating
+Gastroparesis,Bloating
+Gastritis,Constipation
+Irritable bowel syndrome,Constipation
+Diverticulitis,Constipation
+Gastroparesis,Constipation
+Colorectal cancer,Rectal bleeding
+Inflammatory bowel disease,Rectal bleeding
+Irritable bowel syndrome,Rectal bleeding
+Celiac disease,Rectal bleeding
+Colorectal cancer,Changes in bowel habits
+Inflammatory bowel disease,Changes in bowel habits
+Irritable bowel syndrome,Changes in bowel habits
+Celiac disease,Changes in bowel habits
+Colorectal cancer,Abdominal bloating
+Inflammatory bowel disease,Abdominal bloating
+Irritable bowel syndrome,Abdominal bloating
+Celiac disease,Abdominal bloating
+Gastric cancer,Loss of appetite
+Peptic ulcer disease,Loss of appetite
+Pancreatitis,Loss of appetite
+Gallstones,Loss of appetite
+Gastric cancer,Unintentional weight loss
+Peptic ulcer disease,Unintentional weight loss
+Pancreatitis,Unintentional weight loss
+Gallstones,Unintentional weight loss
+Gastric cancer,Abdominal discomfort
+Peptic ulcer disease,Abdominal discomfort
+Pancreatitis,Abdominal discomfort
+Gallstones,Abdominal discomfort
+Esophageal cancer,Difficulty swallowing
+GERD,Difficulty swallowing
+Gastritis,Difficulty swallowing
+Pancreatic cancer,Difficulty swallowing
+Esophageal cancer,Persistent indigestion
+GERD,Persistent indigestion
+Gastritis,Persistent indigestion
+Pancreatic cancer,Persistent indigestion
+Esophageal cancer,Abdominal pain after eating
+GERD,Abdominal pain after eating
+Gastritis,Abdominal pain after eating
+Pancreatic cancer,Abdominal pain after eating
+Lupus,Fever
+Rheumatoid arthritis,Fever
+Multiple sclerosis,Fever
+Lupus,Skin rash
+Rheumatoid arthritis,Skin rash
+Multiple sclerosis,Skin rash
+Lupus,Joint pain
+Rheumatoid arthritis,Joint pain
+Multiple sclerosis,Joint pain
+Crohn's disease,Abdominal pain
+Ulcerative colitis,Abdominal pain
+Celiac disease,Abdominal pain
+Crohn's disease,Diarrhea
+Ulcerative colitis,Diarrhea
+Celiac disease,Diarrhea
+Crohn's disease,Weight loss
+Ulcerative colitis,Weight loss
+Celiac disease,Weight loss
+Chronic fatigue syndrome,Nausea
+Fibromyalgia,Nausea
+Hashimoto's thyroiditis,Nausea
+Chronic fatigue syndrome,Vomiting
+Fibromyalgia,Vomiting
+Hashimoto's thyroiditis,Vomiting
+Chronic fatigue syndrome,Fatigue
+Fibromyalgia,Fatigue
+Hashimoto's thyroiditis,Fatigue
+HIV/AIDS,Swollen lymph nodes
+Hodgkin's lymphoma,Swollen lymph nodes
+Tuberculosis,Swollen lymph nodes
+HIV/AIDS,Night sweats
+Hodgkin's lymphoma,Night sweats
+Tuberculosis,Night sweats
+HIV/AIDS,Loss of appetite
+Hodgkin's lymphoma,Loss of appetite
+Tuberculosis,Loss of appetite
+Asthma,Shortness of breath
+Chronic obstructive pulmonary disease (COPD),Shortness of breath
+Allergic rhinitis,Shortness of breath
+Asthma,Wheezing
+Chronic obstructive pulmonary disease (COPD),Wheezing
+Allergic rhinitis,Wheezing
+Asthma,Chest tightness
+Chronic obstructive pulmonary disease (COPD),Chest tightness
+Allergic rhinitis,Chest tightness
+Osteoarthritis,Joint pain
+Rheumatoid Arthritis,Joint pain
+Gout,Joint pain
+Osteoarthritis,Swelling
+Rheumatoid Arthritis,Swelling
+Gout,Swelling
+Osteoarthritis,Stiffness
+Rheumatoid Arthritis,Stiffness
+Gout,Stiffness
+Osteoporosis,Bone Fracture
+Osteogenesis Imperfecta,Bone Fracture
+Paget's Disease,Bone Fracture
+Osteoporosis,Limited Mobility
+Osteogenesis Imperfecta,Limited Mobility
+Paget's Disease,Limited Mobility
+Osteoporosis,Bone Deformity
+Osteogenesis Imperfecta,Bone Deformity
+Paget's Disease,Bone Deformity
+Osteomalacia,Back Pain
+Multiple Myeloma,Back Pain
+Spinal Stenosis,Back Pain
+Osteomalacia,Muscle Weakness
+Multiple Myeloma,Muscle Weakness
+Spinal Stenosis,Muscle Weakness
+Osteomalacia,Numbness
+Multiple Myeloma,Numbness
+Spinal Stenosis,Numbness
+Osteomyelitis,Bone Tenderness
+Bone Cancer,Bone Tenderness
+Osteonecrosis,Bone Tenderness
+Osteomyelitis,Bone Loss
+Bone Cancer,Bone Loss
+Osteonecrosis,Bone Loss
+Osteomyelitis,Fatigue
+Bone Cancer,Fatigue
+Osteonecrosis,Fatigue
+Osteitis Pubis,Bone Infection
+Osteochondritis,Bone Infection
+Osteosarcoma,Bone Infection
+Osteitis Pubis,Fever
+Osteochondritis,Fever
+Osteosarcoma,Fever
+Osteitis Pubis,Night Sweats
+Osteochondritis,Night Sweats
+Osteosarcoma,Night Sweats
+Lupus,Joint Pain
+Rheumatoid Arthritis,Joint Pain
+Sjogren's Syndrome,Joint Pain
+Lupus,Fatigue
+Rheumatoid Arthritis,Fatigue
+Sjogren's Syndrome,Fatigue
+Lupus,Rash
+Rheumatoid Arthritis,Rash
+Sjogren's Syndrome,Rash
+Polymyositis,Muscle Weakness
+Systemic Sclerosis,Muscle Weakness
+Mixed Connective Tissue Disease,Muscle Weakness
+Polymyositis,Joint Stiffness
+Systemic Sclerosis,Joint Stiffness
+Mixed Connective Tissue Disease,Joint Stiffness
+Polymyositis,Dry Eyes
+Systemic Sclerosis,Dry Eyes
+Mixed Connective Tissue Disease,Dry Eyes
+Crohn's Disease,Abdominal Pain
+Ulcerative Colitis,Abdominal Pain
+Behcet's Disease,Abdominal Pain
+Crohn's Disease,Diarrhea
+Ulcerative Colitis,Diarrhea
+Behcet's Disease,Diarrhea
+Crohn's Disease,Mouth Sores
+Ulcerative Colitis,Mouth Sores
+Behcet's Disease,Mouth Sores
+Scleroderma,Chest Pain
+Eosinophilic Esophagitis,Chest Pain
+Systemic Lupus Erythematosus,Chest Pain
+Scleroderma,Difficulty Swallowing
+Eosinophilic Esophagitis,Difficulty Swallowing
+Systemic Lupus Erythematosus,Difficulty Swallowing
+Scleroderma,Acid Reflux
+Eosinophilic Esophagitis,Acid Reflux
+Systemic Lupus Erythematosus,Acid Reflux
+Systemic Sclerosis,Skin Thickening
+Rheumatoid Arthritis,Skin Thickening
+Sarcoidosis,Skin Thickening
+Systemic Sclerosis,Raynaud's Phenomenon
+Rheumatoid Arthritis,Raynaud's Phenomenon
+Sarcoidosis,Raynaud's Phenomenon
+Systemic Sclerosis,Shortness of Breath
+Rheumatoid Arthritis,Shortness of Breath
+Sarcoidosis,Shortness of Breath
+Rheumatoid Arthritis,Fever
+Lupus,Fever
+Psoriasis,Fever
+Rheumatoid Arthritis,Joint Pain
+Lupus,Joint Pain
+Psoriasis,Joint Pain
+Rheumatoid Arthritis,Rash
+Lupus,Rash
+Psoriasis,Rash
+Crohn's Disease,Abdominal Pain
+Ulcerative Colitis,Abdominal Pain
+Irritable Bowel Syndrome,Abdominal Pain
+Crohn's Disease,Diarrhea
+Ulcerative Colitis,Diarrhea
+Irritable Bowel Syndrome,Diarrhea
+Crohn's Disease,Nausea
+Ulcerative Colitis,Nausea
+Irritable Bowel Syndrome,Nausea
+Meningitis,Headache
+Encephalitis,Headache
+Lyme Disease,Headache
+Meningitis,Stiff Neck
+Encephalitis,Stiff Neck
+Lyme Disease,Stiff Neck
+Meningitis,Confusion
+Encephalitis,Confusion
+Lyme Disease,Confusion
+Ankylosing Spondylitis,Swollen Joints
+Sarcoidosis,Swollen Joints
+Behcet's Disease,Swollen Joints
+Ankylosing Spondylitis,Fatigue
+Sarcoidosis,Fatigue
+Behcet's Disease,Fatigue
+Ankylosing Spondylitis,Weight Loss
+Sarcoidosis,Weight Loss
+Behcet's Disease,Weight Loss
+Pulmonary Fibrosis,Chest Pain
+Sarcoidosis,Chest Pain
+Vasculitis,Chest Pain
+Pulmonary Fibrosis,Difficulty Breathing
+Sarcoidosis,Difficulty Breathing
+Vasculitis,Difficulty Breathing
+Pulmonary Fibrosis,Dry Cough
+Sarcoidosis,Dry Cough
+Vasculitis,Dry Cough
+Rheumatoid Arthritis,Joint pain
+Osteoarthritis,Joint pain
+Gout,Joint pain
+Lupus,Joint pain
+Psoriatic Arthritis,Joint pain
+Rheumatoid Arthritis,Swelling
+Osteoarthritis,Swelling
+Gout,Swelling
+Lupus,Swelling
+Psoriatic Arthritis,Swelling
+Rheumatoid Arthritis,Stiffness
+Osteoarthritis,Stiffness
+Gout,Stiffness
+Lupus,Stiffness
+Psoriatic Arthritis,Stiffness
+Juvenile Idiopathic Arthritis,Limited range of motion
+Septic Arthritis,Limited range of motion
+Ankylosing Spondylitis,Limited range of motion
+Reactive Arthritis,Limited range of motion
+Rheumatic Fever,Limited range of motion
+Juvenile Idiopathic Arthritis,Joint deformity
+Septic Arthritis,Joint deformity
+Ankylosing Spondylitis,Joint deformity
+Reactive Arthritis,Joint deformity
+Rheumatic Fever,Joint deformity
+Juvenile Idiopathic Arthritis,Redness
+Septic Arthritis,Redness
+Ankylosing Spondylitis,Redness
+Reactive Arthritis,Redness
+Rheumatic Fever,Redness
+Fibromyalgia,Joint tenderness
+Sjogren's Syndrome,Joint tenderness
+Polymyalgia Rheumatica,Joint tenderness
+Systemic Lupus Erythematosus,Joint tenderness
+Osteoporosis,Joint tenderness
+Fibromyalgia,Fatigue
+Sjogren's Syndrome,Fatigue
+Polymyalgia Rheumatica,Fatigue
+Systemic Lupus Erythematosus,Fatigue
+Osteoporosis,Fatigue
+Fibromyalgia,Weight loss
+Sjogren's Syndrome,Weight loss
+Polymyalgia Rheumatica,Weight loss
+Systemic Lupus Erythematosus,Weight loss
+Osteoporosis,Weight loss
+Osteoarthritis,Joint stiffness in the morning
+Psoriatic Arthritis,Joint stiffness in the morning
+Ankylosing Spondylitis,Joint stiffness in the morning
+Rheumatoid Arthritis,Joint stiffness in the morning
+Reactive Arthritis,Joint stiffness in the morning
+Osteoarthritis,Bony enlargements
+Psoriatic Arthritis,Bony enlargements
+Ankylosing Spondylitis,Bony enlargements
+Rheumatoid Arthritis,Bony enlargements
+Reactive Arthritis,Bony enlargements
+Osteoarthritis,Hesitant to move
+Psoriatic Arthritis,Hesitant to move
+Ankylosing Spondylitis,Hesitant to move
+Rheumatoid Arthritis,Hesitant to move
+Reactive Arthritis,Hesitant to move
+Osteoarthritis,Difficulty walking
+Gout,Difficulty walking
+Bursitis,Difficulty walking
+Osteoporosis,Difficulty walking
+Lyme Disease,Difficulty walking
+Osteoarthritis,Joint stiffness
+Gout,Joint stiffness
+Bursitis,Joint stiffness
+Osteoporosis,Joint stiffness
+Lyme Disease,Joint stiffness
+Osteoarthritis,Joint instability
+Gout,Joint instability
+Bursitis,Joint instability
+Osteoporosis,Joint instability
+Lyme Disease,Joint instability
+Asthma,Coughing
+Chronic Bronchitis,Coughing
+Pulmonary Fibrosis,Coughing
+Asthma,Shortness of Breath
+Chronic Bronchitis,Shortness of Breath
+Pulmonary Fibrosis,Shortness of Breath
+Asthma,Wheezing
+Chronic Bronchitis,Wheezing
+Pulmonary Fibrosis,Wheezing
+Chronic Obstructive Pulmonary Disease (COPD),Chest Tightness
+Lung Cancer,Chest Tightness
+Tuberculosis,Chest Tightness
+Chronic Obstructive Pulmonary Disease (COPD),Difficulty Breathing
+Lung Cancer,Difficulty Breathing
+Tuberculosis,Difficulty Breathing
+Chronic Obstructive Pulmonary Disease (COPD),Chronic Cough
+Lung Cancer,Chronic Cough
+Tuberculosis,Chronic Cough
+Pulmonary Tuberculosis,Fatigue
+Sarcoidosis,Fatigue
+Lung Cancer,Fatigue
+Pulmonary Tuberculosis,Weight Loss
+Sarcoidosis,Weight Loss
+Lung Cancer,Weight Loss
+Pulmonary Tuberculosis,Chronic Cough
+Sarcoidosis,Chronic Cough
+Lung Cancer,Chronic Cough
+Lung Cancer,Chest Pain
+Pulmonary Embolism,Chest Pain
+Tuberculosis,Chest Pain
+Lung Cancer,Difficulty Swallowing
+Pulmonary Embolism,Difficulty Swallowing
+Tuberculosis,Difficulty Swallowing
+Lung Cancer,Hoarseness
+Pulmonary Embolism,Hoarseness
+Tuberculosis,Hoarseness
+Pulmonary Embolism,Coughing up Blood
+Lung Cancer,Coughing up Blood
+Pneumonia,Coughing up Blood
+Pulmonary Embolism,Shortness of Breath
+Lung Cancer,Shortness of Breath
+Pneumonia,Shortness of Breath
+Pulmonary Embolism,Chest Pain
+Lung Cancer,Chest Pain
+Pneumonia,Chest Pain
+Pancreatitis,Abdominal pain
+Pancreatic Cancer,Abdominal pain
+Acute Cholecystitis,Abdominal pain
+Pancreatitis,Nausea
+Pancreatic Cancer,Nausea
+Acute Cholecystitis,Nausea
+Pancreatitis,Vomiting
+Pancreatic Cancer,Vomiting
+Acute Cholecystitis,Vomiting
+Pancreatitis,Jaundice
+Pancreatic Cancer,Jaundice
+Acute Cholecystitis,Jaundice
+Pancreatic Cancer,Unexplained weight loss
+Chronic Pancreatitis,Unexplained weight loss
+Diabetes,Unexplained weight loss
+Pancreatic Cancer,Loss of appetite
+Chronic Pancreatitis,Loss of appetite
+Diabetes,Loss of appetite
+Pancreatic Cancer,Fatigue
+Chronic Pancreatitis,Fatigue
+Diabetes,Fatigue
+Pancreatitis,Upper abdominal pain
+Pancreatic Cancer,Upper abdominal pain
+Peptic Ulcer Disease,Upper abdominal pain
+Pancreatitis,Back pain
+Pancreatic Cancer,Back pain
+Peptic Ulcer Disease,Back pain
+Pancreatitis,Indigestion
+Pancreatic Cancer,Indigestion
+Peptic Ulcer Disease,Indigestion
+Biliary Tract Obstruction,Pale stools
+Pancreatic Cancer,Pale stools
+Alcoholic Liver Disease,Pale stools
+Biliary Tract Obstruction,Dark urine
+Pancreatic Cancer,Dark urine
+Alcoholic Liver Disease,Dark urine
+Biliary Tract Obstruction,Itchy skin
+Pancreatic Cancer,Itchy skin
+Alcoholic Liver Disease,Itchy skin
+Pancreatitis,Diarrhea
+Pancreatic Cancer,Diarrhea
+Celiac Disease,Diarrhea
+Pancreatitis,Fever
+Pancreatic Cancer,Fever
+Celiac Disease,Fever
+Pancreatitis,Fatigue
+Pancreatic Cancer,Fatigue
+Celiac Disease,Fatigue
+Pancreatitis,Weight loss
+Pancreatic Cancer,Weight loss
+Celiac Disease,Weight loss
+Hypothyroidism,Weight gain
+Graves' disease,Weight gain
+Hashimoto's disease,Weight gain
+Subacute thyroiditis,Weight gain
+Thyroid cancer,Weight gain
+Hypothyroidism,Fatigue
+Graves' disease,Fatigue
+Hashimoto's disease,Fatigue
+Subacute thyroiditis,Fatigue
+Thyroid cancer,Fatigue
+Hypothyroidism,Dry skin
+Graves' disease,Dry skin
+Hashimoto's disease,Dry skin
+Subacute thyroiditis,Dry skin
+Thyroid cancer,Dry skin
+Hypothyroidism,Constipation
+Graves' disease,Constipation
+Hashimoto's disease,Constipation
+Subacute thyroiditis,Constipation
+Thyroid cancer,Constipation
+Hypothyroidism,Hair loss
+Graves' disease,Hair loss
+Hashimoto's disease,Hair loss
+Subacute thyroiditis,Hair loss
+Thyroid cancer,Hair loss
+Hyperthyroidism,Weight loss
+Graves' disease,Weight loss
+Toxic adenoma,Weight loss
+Thyroiditis,Weight loss
+Thyrotoxicosis,Weight loss
+Hyperthyroidism,Rapid heartbeat
+Graves' disease,Rapid heartbeat
+Toxic adenoma,Rapid heartbeat
+Thyroiditis,Rapid heartbeat
+Thyrotoxicosis,Rapid heartbeat
+Hyperthyroidism,Tremors
+Graves' disease,Tremors
+Toxic adenoma,Tremors
+Thyroiditis,Tremors
+Thyrotoxicosis,Tremors
+Hyperthyroidism,Insomnia
+Graves' disease,Insomnia
+Toxic adenoma,Insomnia
+Thyroiditis,Insomnia
+Thyrotoxicosis,Insomnia
+Hyperthyroidism,Anxiety
+Graves' disease,Anxiety
+Toxic adenoma,Anxiety
+Thyroiditis,Anxiety
+Thyrotoxicosis,Anxiety
+Goiter,Swelling in neck
+Thyroid nodules,Swelling in neck
+Thyroid cancer,Swelling in neck
+Hashimoto's disease,Swelling in neck
+Thyroiditis,Swelling in neck
+Goiter,Difficulty swallowing
+Thyroid nodules,Difficulty swallowing
+Thyroid cancer,Difficulty swallowing
+Hashimoto's disease,Difficulty swallowing
+Thyroiditis,Difficulty swallowing
+Goiter,Hoarse voice
+Thyroid nodules,Hoarse voice
+Thyroid cancer,Hoarse voice
+Hashimoto's disease,Hoarse voice
+Thyroiditis,Hoarse voice
+Goiter,Cough
+Thyroid nodules,Cough
+Thyroid cancer,Cough
+Hashimoto's disease,Cough
+Thyroiditis,Cough
+Goiter,Difficulty breathing
+Thyroid nodules,Difficulty breathing
+Thyroid cancer,Difficulty breathing
+Hashimoto's disease,Difficulty breathing
+Thyroiditis,Difficulty breathing
+Polycystic ovary syndrome,Irregular menstrual periods
+Hypothyroidism,Irregular menstrual periods
+Turner syndrome,Irregular menstrual periods
+Premature ovarian failure,Irregular menstrual periods
+Hyperprolactinemia,Irregular menstrual periods
+Polycystic ovary syndrome,Infertility
+Hypothyroidism,Infertility
+Turner syndrome,Infertility
+Premature ovarian failure,Infertility
+Hyperprolactinemia,Infertility
+Polycystic ovary syndrome,Hair loss
+Hypothyroidism,Hair loss
+Turner syndrome,Hair loss
+Premature ovarian failure,Hair loss
+Hyperprolactinemia,Hair loss
+Polycystic ovary syndrome,Cold intolerance
+Hypothyroidism,Cold intolerance
+Turner syndrome,Cold intolerance
+Premature ovarian failure,Cold intolerance
+Hyperprolactinemia,Cold intolerance
+Polycystic ovary syndrome,Weight gain
+Hypothyroidism,Weight gain
+Turner syndrome,Weight gain
+Premature ovarian failure,Weight gain
+Hyperprolactinemia,Weight gain
+Hypothyroidism,Depression
+Depression,Depression
+Chronic fatigue syndrome,Depression
+Fibromyalgia,Depression
+Vitamin B12 deficiency,Depression
+Hypothyroidism,Memory problems
+Depression,Memory problems
+Chronic fatigue syndrome,Memory problems
+Fibromyalgia,Memory problems
+Vitamin B12 deficiency,Memory problems
+Hypothyroidism,Fatigue
+Depression,Fatigue
+Chronic fatigue syndrome,Fatigue
+Fibromyalgia,Fatigue
+Vitamin B12 deficiency,Fatigue
+Hypothyroidism,Dry skin
+Depression,Dry skin
+Chronic fatigue syndrome,Dry skin
+Fibromyalgia,Dry skin
+Vitamin B12 deficiency,Dry skin
+Hypothyroidism,Constipation
+Depression,Constipation
+Chronic fatigue syndrome,Constipation
+Fibromyalgia,Constipation
+Vitamin B12 deficiency,Constipation
+Urinary tract infection,Painful urination
+Kidney stones,Painful urination
+Bladder cancer,Painful urination
+Urinary tract infection,Frequent urination
+Kidney stones,Frequent urination
+Bladder cancer,Frequent urination
+Urinary tract infection,Blood in urine
+Kidney stones,Blood in urine
+Bladder cancer,Blood in urine
+Appendicitis,Abdominal pain
+Kidney infection,Abdominal pain
+Acute pancreatitis,Abdominal pain
+Appendicitis,Nausea
+Kidney infection,Nausea
+Acute pancreatitis,Nausea
+Appendicitis,Vomiting
+Kidney infection,Vomiting
+Acute pancreatitis,Vomiting
+Prostate enlargement,Difficulty urinating
+Urinary retention,Difficulty urinating
+Bladder prolapse,Difficulty urinating
+Prostate enlargement,Urinary incontinence
+Urinary retention,Urinary incontinence
+Bladder prolapse,Urinary incontinence
+Prostate enlargement,Weak urine stream
+Urinary retention,Weak urine stream
+Bladder prolapse,Weak urine stream
+Pyelonephritis,Fever
+Kidney abscess,Fever
+Glomerulonephritis,Fever
+Pyelonephritis,Chills
+Kidney abscess,Chills
+Glomerulonephritis,Chills
+Pyelonephritis,Lower back pain
+Kidney abscess,Lower back pain
+Glomerulonephritis,Lower back pain
+Urinary tract infection,Cloudy urine
+Pelvic inflammatory disease,Cloudy urine
+Cystitis,Cloudy urine
+Urinary tract infection,Strong odor
+Pelvic inflammatory disease,Strong odor
+Cystitis,Strong odor
+Urinary tract infection,Pelvic pain
+Pelvic inflammatory disease,Pelvic pain
+Cystitis,Pelvic pain
+Muscular dystrophy,Muscle weakness
+Amyotrophic lateral sclerosis,Muscle weakness
+Myasthenia gravis,Muscle weakness
+Muscular dystrophy,Loss of muscle mass
+Amyotrophic lateral sclerosis,Loss of muscle mass
+Myasthenia gravis,Loss of muscle mass
+Muscular dystrophy,Difficulty walking
+Amyotrophic lateral sclerosis,Difficulty walking
+Myasthenia gravis,Difficulty walking
+Fibromyalgia,Twitching muscles
+Polymyalgia rheumatica,Twitching muscles
+Myositis,Twitching muscles
+Fibromyalgia,Cramping
+Polymyalgia rheumatica,Cramping
+Myositis,Cramping
+Fibromyalgia,Stiffness
+Polymyalgia rheumatica,Stiffness
+Myositis,Stiffness
+Rheumatoid arthritis,Muscle pain
+Polymyositis,Muscle pain
+Fibromyalgia,Muscle pain
+Rheumatoid arthritis,Fatigue
+Polymyositis,Fatigue
+Fibromyalgia,Fatigue
+Rheumatoid arthritis,Joint pain
+Polymyositis,Joint pain
+Fibromyalgia,Joint pain
+Multiple sclerosis,Muscle spasms
+Peripheral neuropathy,Muscle spasms
+Myopathy,Muscle spasms
+Multiple sclerosis,Numbness
+Peripheral neuropathy,Numbness
+Myopathy,Numbness
+Multiple sclerosis,Tingling
+Peripheral neuropathy,Tingling
+Myopathy,Tingling
+Myasthenia gravis,Difficulty swallowing
+Stroke,Difficulty swallowing
+Bell's palsy,Difficulty swallowing
+Myasthenia gravis,Speech difficulties
+Stroke,Speech difficulties
+Bell's palsy,Speech difficulties
+Myasthenia gravis,Facial drooping
+Stroke,Facial drooping
+Bell's palsy,Facial drooping
+Influenza,Fever
+Dengue,Fever
+Zika,Fever
+Chikungunya,Fever
+Measles,Fever
+Influenza,Headache
+Dengue,Headache
+Zika,Headache
+Chikungunya,Headache
+Measles,Headache
+Influenza,Muscle aches
+Dengue,Muscle aches
+Zika,Muscle aches
+Chikungunya,Muscle aches
+Measles,Muscle aches
+Influenza,Fatigue
+Dengue,Fatigue
+Zika,Fatigue
+Chikungunya,Fatigue
+Measles,Fatigue
+Influenza,Nausea
+Dengue,Nausea
+Zika,Nausea
+Chikungunya,Nausea
+Measles,Nausea
+Norovirus,Rash
+Rotavirus,Rash
+Hepatitis A,Rash
+Mumps,Rash
+Rubella,Rash
+Norovirus,Joint pain
+Rotavirus,Joint pain
+Hepatitis A,Joint pain
+Mumps,Joint pain
+Rubella,Joint pain
+Norovirus,Vomiting
+Rotavirus,Vomiting
+Hepatitis A,Vomiting
+Mumps,Vomiting
+Rubella,Vomiting
+Norovirus,Diarrhea
+Rotavirus,Diarrhea
+Hepatitis A,Diarrhea
+Mumps,Diarrhea
+Rubella,Diarrhea
+Norovirus,Abdominal pain
+Rotavirus,Abdominal pain
+Hepatitis A,Abdominal pain
+Mumps,Abdominal pain
+Rubella,Abdominal pain
+Common Cold,Sore throat
+Rhinovirus,Sore throat
+Respiratory Syncytial Virus,Sore throat
+Adenovirus,Sore throat
+Coronavirus,Sore throat
+Common Cold,Runny nose
+Rhinovirus,Runny nose
+Respiratory Syncytial Virus,Runny nose
+Adenovirus,Runny nose
+Coronavirus,Runny nose
+Common Cold,Sneezing
+Rhinovirus,Sneezing
+Respiratory Syncytial Virus,Sneezing
+Adenovirus,Sneezing
+Coronavirus,Sneezing
+Common Cold,Cough
+Rhinovirus,Cough
+Respiratory Syncytial Virus,Cough
+Adenovirus,Cough
+Coronavirus,Cough
+Common Cold,Fatigue
+Rhinovirus,Fatigue
+Respiratory Syncytial Virus,Fatigue
+Adenovirus,Fatigue
+Coronavirus,Fatigue
+Malaria,Fever
+Yellow fever,Fever
+Dengue fever,Fever
+Japanese encephalitis,Fever
+West Nile virus,Fever
+Malaria,Chills
+Yellow fever,Chills
+Dengue fever,Chills
+Japanese encephalitis,Chills
+West Nile virus,Chills
+Malaria,Sweating
+Yellow fever,Sweating
+Dengue fever,Sweating
+Japanese encephalitis,Sweating
+West Nile virus,Sweating
+Malaria,Muscle aches
+Yellow fever,Muscle aches
+Dengue fever,Muscle aches
+Japanese encephalitis,Muscle aches
+West Nile virus,Muscle aches
+Malaria,Headache
+Yellow fever,Headache
+Dengue fever,Headache
+Japanese encephalitis,Headache
+West Nile virus,Headache
+Norovirus,Nausea
+Rotavirus,Nausea
+E. coli infection,Nausea
+Salmonella infection,Nausea
+Campylobacter infection,Nausea
+Norovirus,Vomiting
+Rotavirus,Vomiting
+E. coli infection,Vomiting
+Salmonella infection,Vomiting
+Campylobacter infection,Vomiting
+Norovirus,Diarrhea
+Rotavirus,Diarrhea
+E. coli infection,Diarrhea
+Salmonella infection,Diarrhea
+Campylobacter infection,Diarrhea
+Norovirus,Abdominal pain
+Rotavirus,Abdominal pain
+E. coli infection,Abdominal pain
+Salmonella infection,Abdominal pain
+Campylobacter infection,Abdominal pain
+Norovirus,Fatigue
+Rotavirus,Fatigue
+E. coli infection,Fatigue
+Salmonella infection,Fatigue
+Campylobacter infection,Fatigue
+Salmonellosis,Fever
+Listeriosis,Fever
+Tuberculosis,Fever
+Legionnaires' Disease,Fever
+Typhoid Fever,Fever
+Salmonellosis,Cough
+Listeriosis,Cough
+Tuberculosis,Cough
+Legionnaires' Disease,Cough
+Typhoid Fever,Cough
+Salmonellosis,Fatigue
+Listeriosis,Fatigue
+Tuberculosis,Fatigue
+Legionnaires' Disease,Fatigue
+Typhoid Fever,Fatigue
+Salmonellosis,Diarrhea
+Listeriosis,Diarrhea
+Tuberculosis,Diarrhea
+Legionnaires' Disease,Diarrhea
+Typhoid Fever,Diarrhea
+Food Poisoning,Nausea
+Shigellosis,Nausea
+Campylobacteriosis,Nausea
+Cholera,Nausea
+E. coli Infection,Nausea
+Food Poisoning,Vomiting
+Shigellosis,Vomiting
+Campylobacteriosis,Vomiting
+Cholera,Vomiting
+E. coli Infection,Vomiting
+Food Poisoning,Abdominal Pain
+Shigellosis,Abdominal Pain
+Campylobacteriosis,Abdominal Pain
+Cholera,Abdominal Pain
+E. coli Infection,Abdominal Pain
+Lyme Disease,Rash
+Rocky Mountain Spotted Fever,Rash
+Tularemia,Rash
+Leptospirosis,Rash
+Brucellosis,Rash
+Lyme Disease,Joint Pain
+Rocky Mountain Spotted Fever,Joint Pain
+Tularemia,Joint Pain
+Leptospirosis,Joint Pain
+Brucellosis,Joint Pain
+Lyme Disease,Headache
+Rocky Mountain Spotted Fever,Headache
+Tularemia,Headache
+Leptospirosis,Headache
+Brucellosis,Headache
+Strep Throat,Fever
+Diphtheria,Fever
+Pertussis,Fever
+Tuberculosis,Fever
+Scarlet Fever,Fever
+Strep Throat,Muscle Aches
+Diphtheria,Muscle Aches
+Pertussis,Muscle Aches
+Tuberculosis,Muscle Aches
+Scarlet Fever,Muscle Aches
+Strep Throat,Sore Throat
+Diphtheria,Sore Throat
+Pertussis,Sore Throat
+Tuberculosis,Sore Throat
+Scarlet Fever,Sore Throat
+Cholera,Diarrhea
+Shigellosis,Diarrhea
+E. coli Infection,Diarrhea
+Campylobacteriosis,Diarrhea
+Salmonellosis,Diarrhea
+Cholera,Abdominal Cramps
+Shigellosis,Abdominal Cramps
+E. coli Infection,Abdominal Cramps
+Campylobacteriosis,Abdominal Cramps
+Salmonellosis,Abdominal Cramps
+Cholera,Dehydration
+Shigellosis,Dehydration
+E. coli Infection,Dehydration
+Campylobacteriosis,Dehydration
+Salmonellosis,Dehydration
+Athlete's foot,Itchy skin
+Jock itch,Itchy skin
+Ringworm,Itchy skin
+Athlete's foot,Red rash
+Jock itch,Red rash
+Ringworm,Red rash
+Athlete's foot,Peeling skin
+Jock itch,Peeling skin
+Ringworm,Peeling skin
+Valley fever,Fever
+Histoplasmosis,Fever
+Blastomycosis,Fever
+Valley fever,Headache
+Histoplasmosis,Headache
+Blastomycosis,Headache
+Valley fever,Chills
+Histoplasmosis,Chills
+Blastomycosis,Chills
+Aspergillosis,Nausea
+Candidiasis,Nausea
+Cryptococcosis,Nausea
+Aspergillosis,Vomiting
+Candidiasis,Vomiting
+Cryptococcosis,Vomiting
+Aspergillosis,Abdominal pain
+Candidiasis,Abdominal pain
+Cryptococcosis,Abdominal pain
+Aspergilloma,Difficulty breathing
+Coccidioidomycosis,Difficulty breathing
+Histoplasmosis,Difficulty breathing
+Aspergilloma,Coughing up blood
+Coccidioidomycosis,Coughing up blood
+Histoplasmosis,Coughing up blood
+Aspergilloma,Night sweats
+Coccidioidomycosis,Night sweats
+Histoplasmosis,Night sweats
+Septic arthritis,Joint pain
+Osteomyelitis,Joint pain
+Rheumatoid arthritis,Joint pain
+Septic arthritis,Swelling
+Osteomyelitis,Swelling
+Rheumatoid arthritis,Swelling
+Septic arthritis,Stiffness
+Osteomyelitis,Stiffness
+Rheumatoid arthritis,Stiffness
+Giardiasis,Abdominal pain
+Amoebiasis,Abdominal pain
+Cryptosporidiosis,Abdominal pain
+Cyclosporiasis,Abdominal pain
+Giardiasis,Diarrhea
+Amoebiasis,Diarrhea
+Cryptosporidiosis,Diarrhea
+Cyclosporiasis,Diarrhea
+Giardiasis,Nausea
+Amoebiasis,Nausea
+Cryptosporidiosis,Nausea
+Cyclosporiasis,Nausea
+Giardiasis,Vomiting
+Amoebiasis,Vomiting
+Cryptosporidiosis,Vomiting
+Cyclosporiasis,Vomiting
+Malaria,Skin rash
+Dengue,Skin rash
+Chikungunya,Skin rash
+Leishmaniasis,Skin rash
+Malaria,Fever
+Dengue,Fever
+Chikungunya,Fever
+Leishmaniasis,Fever
+Malaria,Fatigue
+Dengue,Fatigue
+Chikungunya,Fatigue
+Leishmaniasis,Fatigue
+Malaria,Headache
+Dengue,Headache
+Chikungunya,Headache
+Leishmaniasis,Headache
+Pneumocystis pneumonia,Cough
+Ascaris infection,Cough
+Trichuriasis,Cough
+Schistosomiasis,Cough
+Pneumocystis pneumonia,Wheezing
+Ascaris infection,Wheezing
+Trichuriasis,Wheezing
+Schistosomiasis,Wheezing
+Pneumocystis pneumonia,Difficulty breathing
+Ascaris infection,Difficulty breathing
+Trichuriasis,Difficulty breathing
+Schistosomiasis,Difficulty breathing
+Lyme disease,Muscle pain
+Chagas disease,Muscle pain
+Toxoplasmosis,Muscle pain
+Filariasis,Muscle pain
+Lyme disease,Joint pain
+Chagas disease,Joint pain
+Toxoplasmosis,Joint pain
+Filariasis,Joint pain
+Lyme disease,Headache
+Chagas disease,Headache
+Toxoplasmosis,Headache
+Filariasis,Headache
+Lyme disease,Nausea
+Chagas disease,Nausea
+Toxoplasmosis,Nausea
+Filariasis,Nausea
+Hookworm infection,Anemia
+Tapeworm infection,Anemia
+Strongyloidiasis,Anemia
+Ascariasis,Anemia
+Hookworm infection,Loss of appetite
+Tapeworm infection,Loss of appetite
+Strongyloidiasis,Loss of appetite
+Ascariasis,Loss of appetite
+Hookworm infection,Abdominal pain
+Tapeworm infection,Abdominal pain
+Strongyloidiasis,Abdominal pain
+Ascariasis,Abdominal pain
+Hookworm infection,Nausea
+Tapeworm infection,Nausea
+Strongyloidiasis,Nausea
+Ascariasis,Nausea
+Depression,Insomnia
+Anxiety Disorder,Insomnia
+Bipolar Disorder,Insomnia
+Attention Deficit Hyperactivity Disorder,Insomnia
+Depression,Irritability
+Anxiety Disorder,Irritability
+Bipolar Disorder,Irritability
+Attention Deficit Hyperactivity Disorder,Irritability
+Depression,Poor Concentration
+Anxiety Disorder,Poor Concentration
+Bipolar Disorder,Poor Concentration
+Attention Deficit Hyperactivity Disorder,Poor Concentration
+Depression,Loss of Appetite
+Anxiety Disorder,Loss of Appetite
+Bipolar Disorder,Loss of Appetite
+Attention Deficit Hyperactivity Disorder,Loss of Appetite
+Schizophrenia,Hallucinations
+Major Depressive Disorder,Hallucinations
+Delusional Disorder,Hallucinations
+Psychotic Disorder,Hallucinations
+Schizophrenia,Delusions
+Major Depressive Disorder,Delusions
+Delusional Disorder,Delusions
+Psychotic Disorder,Delusions
+Schizophrenia,Disorganized Thinking
+Major Depressive Disorder,Disorganized Thinking
+Delusional Disorder,Disorganized Thinking
+Psychotic Disorder,Disorganized Thinking
+Schizophrenia,Social Withdrawal
+Major Depressive Disorder,Social Withdrawal
+Delusional Disorder,Social Withdrawal
+Psychotic Disorder,Social Withdrawal
+Bipolar Disorder,Mood Swings
+Depression,Mood Swings
+Seasonal Affective Disorder,Mood Swings
+Dysthymia,Mood Swings
+Bipolar Disorder,Fatigue
+Depression,Fatigue
+Seasonal Affective Disorder,Fatigue
+Dysthymia,Fatigue
+Bipolar Disorder,Hopelessness
+Depression,Hopelessness
+Seasonal Affective Disorder,Hopelessness
+Dysthymia,Hopelessness
+Bipolar Disorder,Difficulty Sleeping
+Depression,Difficulty Sleeping
+Seasonal Affective Disorder,Difficulty Sleeping
+Dysthymia,Difficulty Sleeping
+Delirium,Paranoia
+Dementia,Paranoia
+Schizophrenia,Paranoia
+Bipolar Disorder,Paranoia
+Delirium,Agitation
+Dementia,Agitation
+Schizophrenia,Agitation
+Bipolar Disorder,Agitation
+Delirium,Delirium
+Dementia,Delirium
+Schizophrenia,Delirium
+Bipolar Disorder,Delirium
+Delirium,Confusion
+Dementia,Confusion
+Schizophrenia,Confusion
+Bipolar Disorder,Confusion
+Anorexia Nervosa,Anorexia
+Bulimia Nervosa,Anorexia
+Body Dysmorphic Disorder,Anorexia
+Orthorexia Nervosa,Anorexia
+Anorexia Nervosa,Excessive Exercise
+Bulimia Nervosa,Excessive Exercise
+Body Dysmorphic Disorder,Excessive Exercise
+Orthorexia Nervosa,Excessive Exercise
+Anorexia Nervosa,Body Image Distortion
+Bulimia Nervosa,Body Image Distortion
+Body Dysmorphic Disorder,Body Image Distortion
+Orthorexia Nervosa,Body Image Distortion
+Anorexia Nervosa,Fear of Weight Gain
+Bulimia Nervosa,Fear of Weight Gain
+Body Dysmorphic Disorder,Fear of Weight Gain
+Orthorexia Nervosa,Fear of Weight Gain
+Autism Spectrum Disorder,Delayed Milestones
+Attention Deficit Hyperactivity Disorder,Delayed Milestones
+Specific Language Impairment,Delayed Milestones
+Autism Spectrum Disorder,Difficulty with Language
+Attention Deficit Hyperactivity Disorder,Difficulty with Language
+Specific Language Impairment,Difficulty with Language
+Autism Spectrum Disorder,Behavioral Issues
+Attention Deficit Hyperactivity Disorder,Behavioral Issues
+Specific Language Impairment,Behavioral Issues
+Developmental Coordination Disorder,Delayed Milestones
+Dyslexia,Delayed Milestones
+Intellectual Disability,Delayed Milestones
+Developmental Coordination Disorder,Poor Coordination
+Dyslexia,Poor Coordination
+Intellectual Disability,Poor Coordination
+Developmental Coordination Disorder,Learning Difficulties
+Dyslexia,Learning Difficulties
+Intellectual Disability,Learning Difficulties
+Asperger's Syndrome,Poor Social Skills
+Obsessive Compulsive Disorder,Poor Social Skills
+Sensory Processing Disorder,Poor Social Skills
+Asperger's Syndrome,Repetitive Behaviors
+Obsessive Compulsive Disorder,Repetitive Behaviors
+Sensory Processing Disorder,Repetitive Behaviors
+Asperger's Syndrome,Sensory Sensitivity
+Obsessive Compulsive Disorder,Sensory Sensitivity
+Sensory Processing Disorder,Sensory Sensitivity
+Attention Deficit Hyperactivity Disorder,Poor Attention
+Oppositional Defiant Disorder,Poor Attention
+Developmental Trauma Disorder,Poor Attention
+Attention Deficit Hyperactivity Disorder,Impulsivity
+Oppositional Defiant Disorder,Impulsivity
+Developmental Trauma Disorder,Impulsivity
+Attention Deficit Hyperactivity Disorder,Hyperactivity
+Oppositional Defiant Disorder,Hyperactivity
+Developmental Trauma Disorder,Hyperactivity
+Autism Spectrum Disorder,Delayed Speech
+Social Communication Disorder,Delayed Speech
+Childhood Disintegrative Disorder,Delayed Speech
+Autism Spectrum Disorder,Poor Eye Contact
+Social Communication Disorder,Poor Eye Contact
+Childhood Disintegrative Disorder,Poor Eye Contact
+Autism Spectrum Disorder,Lack of Imagination
+Social Communication Disorder,Lack of Imagination
+Childhood Disintegrative Disorder,Lack of Imagination
+Cerebral Palsy,Delayed Motor Skills
+Down Syndrome,Delayed Motor Skills
+Epilepsy,Delayed Motor Skills
+Cerebral Palsy,Intellectual Delay
+Down Syndrome,Intellectual Delay
+Epilepsy,Intellectual Delay
+Cerebral Palsy,Seizures
+Down Syndrome,Seizures
+Epilepsy,Seizures
+Developmental Dyscalculia,Poor Fine Motor Skills
+Nonverbal Learning Disorder,Poor Fine Motor Skills
+Auditory Processing Disorder,Poor Fine Motor Skills
+Developmental Dyscalculia,Difficulty with Math
+Nonverbal Learning Disorder,Difficulty with Math
+Auditory Processing Disorder,Difficulty with Math
+Developmental Dyscalculia,Poor Memory
+Nonverbal Learning Disorder,Poor Memory
+Auditory Processing Disorder,Poor Memory
+Developmental Dyspraxia,Poor Gross Motor Skills
+Dysgraphia,Poor Gross Motor Skills
+Dyslexia,Poor Gross Motor Skills
+Developmental Dyspraxia,Difficulty with Handwriting
+Dysgraphia,Difficulty with Handwriting
+Dyslexia,Difficulty with Handwriting
+Developmental Dyspraxia,Difficulty with Spelling
+Dysgraphia,Difficulty with Spelling
+Dyslexia,Difficulty with Spelling
+Myocardial Infarction,Chest Pain
+Angina,Chest Pain
+Pulmonary Embolism,Chest Pain
+Myocardial Infarction,Shortness of Breath
+Angina,Shortness of Breath
+Pulmonary Embolism,Shortness of Breath
+Myocardial Infarction,Dizziness
+Angina,Dizziness
+Pulmonary Embolism,Dizziness
+Atrial Fibrillation,Irregular Heartbeat
+Heart Failure,Irregular Heartbeat
+Peripheral Artery Disease,Irregular Heartbeat
+Atrial Fibrillation,Fatigue
+Heart Failure,Fatigue
+Peripheral Artery Disease,Fatigue
+Atrial Fibrillation,Swollen Feet
+Heart Failure,Swollen Feet
+Peripheral Artery Disease,Swollen Feet
+Hypertension,High Blood Pressure
+Stroke,High Blood Pressure
+Aortic Dissection,High Blood Pressure
+Hypertension,Headache
+Stroke,Headache
+Aortic Dissection,Headache
+Hypertension,Nausea
+Stroke,Nausea
+Aortic Dissection,Nausea
+Pulmonary Hypertension,Difficulty Breathing
+Heart Attack,Difficulty Breathing
+Cardiomyopathy,Difficulty Breathing
+Pulmonary Hypertension,Coughing up Blood
+Heart Attack,Coughing up Blood
+Cardiomyopathy,Coughing up Blood
+Pulmonary Hypertension,Rapid Heart Rate
+Heart Attack,Rapid Heart Rate
+Cardiomyopathy,Rapid Heart Rate
+Hypertrophic Cardiomyopathy,Chest Tightness
+Arrhythmia,Chest Tightness
+Cardiac Arrest,Chest Tightness
+Hypertrophic Cardiomyopathy,Fainting
+Arrhythmia,Fainting
+Cardiac Arrest,Fainting
+Hypertrophic Cardiomyopathy,Palpitations
+Arrhythmia,Palpitations
+Cardiac Arrest,Palpitations
+Anemia,Easy bruising
+Leukemia,Easy bruising
+Thrombocytopenia,Easy bruising
+Anemia,Fatigue
+Leukemia,Fatigue
+Thrombocytopenia,Fatigue
+Anemia,Weakness
+Leukemia,Weakness
+Thrombocytopenia,Weakness
+Iron deficiency anemia,Shortness of breath
+Hemolytic anemia,Shortness of breath
+Sickle cell anemia,Shortness of breath
+Iron deficiency anemia,Pale skin
+Hemolytic anemia,Pale skin
+Sickle cell anemia,Pale skin
+Iron deficiency anemia,Dizziness
+Hemolytic anemia,Dizziness
+Sickle cell anemia,Dizziness
+Hemophilia,Frequent infections
+Thalassemia,Frequent infections
+Immunodeficiency disorders,Frequent infections
+Hemophilia,Abdominal pain
+Thalassemia,Abdominal pain
+Immunodeficiency disorders,Abdominal pain
+Hemophilia,Enlarged spleen
+Thalassemia,Enlarged spleen
+Immunodeficiency disorders,Enlarged spleen
+Von Willebrand disease,Bleeding gums
+Polycythemia,Bleeding gums
+Hemophilia B,Bleeding gums
+Von Willebrand disease,Joint pain
+Polycythemia,Joint pain
+Hemophilia B,Joint pain
+Von Willebrand disease,Nosebleeds
+Polycythemia,Nosebleeds
+Hemophilia B,Nosebleeds
+Lymphoma,Swollen lymph nodes
+Chronic myeloid leukemia,Swollen lymph nodes
+Myelodysplastic syndrome,Swollen lymph nodes
+Lymphoma,Night sweats
+Chronic myeloid leukemia,Night sweats
+Myelodysplastic syndrome,Night sweats
+Lymphoma,Unexplained weight loss
+Chronic myeloid leukemia,Unexplained weight loss
+Myelodysplastic syndrome,Unexplained weight loss
+Endometriosis,Pain during intercourse
+Pelvic inflammatory disease,Pain during intercourse
+Polycystic ovary syndrome,Pain during intercourse
+Endometriosis,Abnormal vaginal discharge
+Pelvic inflammatory disease,Abnormal vaginal discharge
+Polycystic ovary syndrome,Abnormal vaginal discharge
+Endometriosis,Irregular periods
+Pelvic inflammatory disease,Irregular periods
+Polycystic ovary syndrome,Irregular periods
+Prostate cancer,Erectile dysfunction
+Epididymitis,Erectile dysfunction
+Benign prostatic hyperplasia,Erectile dysfunction
+Prostate cancer,Testicular pain
+Epididymitis,Testicular pain
+Benign prostatic hyperplasia,Testicular pain
+Prostate cancer,Difficulty urinating
+Epididymitis,Difficulty urinating
+Benign prostatic hyperplasia,Difficulty urinating
+Urinary tract infection,Lower abdominal pain
+Genital herpes,Lower abdominal pain
+Bacterial vaginosis,Lower abdominal pain
+Urinary tract infection,Vaginal itching
+Genital herpes,Vaginal itching
+Bacterial vaginosis,Vaginal itching
+Urinary tract infection,Painful urination
+Genital herpes,Painful urination
+Bacterial vaginosis,Painful urination
+Uterine fibroids,Infertility
+Ovarian cysts,Infertility
+Adenomyosis,Infertility
+Uterine fibroids,Heavy menstrual bleeding
+Ovarian cysts,Heavy menstrual bleeding
+Adenomyosis,Heavy menstrual bleeding
+Uterine fibroids,Pelvic pressure
+Ovarian cysts,Pelvic pressure
+Adenomyosis,Pelvic pressure
+Breast cancer,Breast tenderness
+Fibrocystic breast disease,Breast tenderness
+Hyperprolactinemia,Breast tenderness
+Breast cancer,Nipple discharge
+Fibrocystic breast disease,Nipple discharge
+Hyperprolactinemia,Nipple discharge
+Breast cancer,Irregular menstrual cycle
+Fibrocystic breast disease,Irregular menstrual cycle
+Hyperprolactinemia,Irregular menstrual cycle
+Myocardial Infarction,Chest Pain
+Angina,Chest Pain
+Aortic Stenosis,Chest Pain
+Heart Attack,Chest Pain
+Cardiomyopathy,Chest Pain
+Myocardial Infarction,Shortness of Breath
+Angina,Shortness of Breath
+Aortic Stenosis,Shortness of Breath
+Heart Attack,Shortness of Breath
+Cardiomyopathy,Shortness of Breath
+Myocardial Infarction,Dizziness
+Angina,Dizziness
+Aortic Stenosis,Dizziness
+Heart Attack,Dizziness
+Cardiomyopathy,Dizziness
+Myocardial Infarction,Nausea
+Angina,Nausea
+Aortic Stenosis,Nausea
+Heart Attack,Nausea
+Cardiomyopathy,Nausea
+Myocardial Infarction,Sweating
+Angina,Sweating
+Aortic Stenosis,Sweating
+Heart Attack,Sweating
+Cardiomyopathy,Sweating
+Atrial Fibrillation,Palpitations
+Heart Failure,Palpitations
+Hypertension,Palpitations
+Mitral Valve Prolapse,Palpitations
+Coronary Artery Disease,Palpitations
+Atrial Fibrillation,Breathlessness
+Heart Failure,Breathlessness
+Hypertension,Breathlessness
+Mitral Valve Prolapse,Breathlessness
+Coronary Artery Disease,Breathlessness
+Atrial Fibrillation,Fatigue
+Heart Failure,Fatigue
+Hypertension,Fatigue
+Mitral Valve Prolapse,Fatigue
+Coronary Artery Disease,Fatigue
+Atrial Fibrillation,Swelling in legs
+Heart Failure,Swelling in legs
+Hypertension,Swelling in legs
+Mitral Valve Prolapse,Swelling in legs
+Coronary Artery Disease,Swelling in legs
+Atrial Fibrillation,Rapid heartbeat
+Heart Failure,Rapid heartbeat
+Hypertension,Rapid heartbeat
+Mitral Valve Prolapse,Rapid heartbeat
+Coronary Artery Disease,Rapid heartbeat
+Stroke,Headache
+Transient Ischemic Attack,Headache
+Hypertensive Encephalopathy,Headache
+Cerebral Aneurysm,Headache
+Intracranial Hemorrhage,Headache
+Stroke,Blurred Vision
+Transient Ischemic Attack,Blurred Vision
+Hypertensive Encephalopathy,Blurred Vision
+Cerebral Aneurysm,Blurred Vision
+Intracranial Hemorrhage,Blurred Vision
+Stroke,Numbness/Weakness
+Transient Ischemic Attack,Numbness/Weakness
+Hypertensive Encephalopathy,Numbness/Weakness
+Cerebral Aneurysm,Numbness/Weakness
+Intracranial Hemorrhage,Numbness/Weakness
+Stroke,Difficulty speaking
+Transient Ischemic Attack,Difficulty speaking
+Hypertensive Encephalopathy,Difficulty speaking
+Cerebral Aneurysm,Difficulty speaking
+Intracranial Hemorrhage,Difficulty speaking
+Stroke,Memory loss
+Transient Ischemic Attack,Memory loss
+Hypertensive Encephalopathy,Memory loss
+Cerebral Aneurysm,Memory loss
+Intracranial Hemorrhage,Memory loss
+Hepatitis,Abdominal Pain
+Cirrhosis,Abdominal Pain
+Fatty Liver Disease,Abdominal Pain
+Pancreatitis,Abdominal Pain
+Cholecystitis,Abdominal Pain
+Hepatitis,Nausea/Vomiting
+Cirrhosis,Nausea/Vomiting
+Fatty Liver Disease,Nausea/Vomiting
+Pancreatitis,Nausea/Vomiting
+Cholecystitis,Nausea/Vomiting
+Hepatitis,Loss of Appetite
+Cirrhosis,Loss of Appetite
+Fatty Liver Disease,Loss of Appetite
+Pancreatitis,Loss of Appetite
+Cholecystitis,Loss of Appetite
+Hepatitis,Jaundice
+Cirrhosis,Jaundice
+Fatty Liver Disease,Jaundice
+Pancreatitis,Jaundice
+Cholecystitis,Jaundice
+Hepatitis,Dark Urine
+Cirrhosis,Dark Urine
+Fatty Liver Disease,Dark Urine
+Pancreatitis,Dark Urine
+Cholecystitis,Dark Urine
+Asthma,Chest Tightness
+Chronic Obstructive Pulmonary Disease,Chest Tightness
+Pulmonary Hypertension,Chest Tightness
+Bronchitis,Chest Tightness
+Interstitial Lung Disease,Chest Tightness
+Asthma,Wheezing
+Chronic Obstructive Pulmonary Disease,Wheezing
+Pulmonary Hypertension,Wheezing
+Bronchitis,Wheezing
+Interstitial Lung Disease,Wheezing
+Asthma,Coughing
+Chronic Obstructive Pulmonary Disease,Coughing
+Pulmonary Hypertension,Coughing
+Bronchitis,Coughing
+Interstitial Lung Disease,Coughing
+Asthma,Shortness of Breath
+Chronic Obstructive Pulmonary Disease,Shortness of Breath
+Pulmonary Hypertension,Shortness of Breath
+Bronchitis,Shortness of Breath
+Interstitial Lung Disease,Shortness of Breath
+Asthma,Difficulty Breathing
+Chronic Obstructive Pulmonary Disease,Difficulty Breathing
+Pulmonary Hypertension,Difficulty Breathing
+Bronchitis,Difficulty Breathing
+Interstitial Lung Disease,Difficulty Breathing
+Type 2 Diabetes,Excessive thirst
+Gestational Diabetes,Excessive thirst
+Prediabetes,Excessive thirst
+Type 2 Diabetes,Fatigue
+Gestational Diabetes,Fatigue
+Prediabetes,Fatigue
+Type 2 Diabetes,Blurry vision
+Gestational Diabetes,Blurry vision
+Prediabetes,Blurry vision
+Type 1 Diabetes,Frequent urination
+Diabetic Nephropathy,Frequent urination
+Diabetic Retinopathy,Frequent urination
+Type 1 Diabetes,Slow wound healing
+Diabetic Nephropathy,Slow wound healing
+Diabetic Retinopathy,Slow wound healing
+Type 1 Diabetes,Unexplained weight loss
+Diabetic Nephropathy,Unexplained weight loss
+Diabetic Retinopathy,Unexplained weight loss
+Type 2 Diabetes,Numbness or tingling in hands or feet
+Diabetic Neuropathy,Numbness or tingling in hands or feet
+Diabetic Foot Infection,Numbness or tingling in hands or feet
+Type 2 Diabetes,Dry
+Diabetic Neuropathy,Dry
+Diabetic Foot Infection,Dry
+Type 2 Diabetes,itchy skin
+Diabetic Neuropathy,itchy skin
+Diabetic Foot Infection,itchy skin
+Type 2 Diabetes,Recurring infections
+Diabetic Neuropathy,Recurring infections
+Diabetic Foot Infection,Recurring infections
+Diabetic Ketoacidosis,Nausea
+Hyperosmolar Hyperglycemic State,Nausea
+Gastroparesis,Nausea
+Diabetic Ketoacidosis,Vomiting
+Hyperosmolar Hyperglycemic State,Vomiting
+Gastroparesis,Vomiting
+Diabetic Ketoacidosis,Abdominal pain
+Hyperosmolar Hyperglycemic State,Abdominal pain
+Gastroparesis,Abdominal pain
+Hypoglycemia,Extreme hunger
+Insulin Resistance,Extreme hunger
+Diabetic Coma,Extreme hunger
+Hypoglycemia,Irritability
+Insulin Resistance,Irritability
+Diabetic Coma,Irritability
+Hypoglycemia,Confusion
+Insulin Resistance,Confusion
+Diabetic Coma,Confusion
+Asthma,Cough
+Chronic Obstructive Pulmonary Disease (COPD),Cough
+Bronchitis,Cough
+Asthma,Difficulty breathing
+Chronic Obstructive Pulmonary Disease (COPD),Difficulty breathing
+Bronchitis,Difficulty breathing
+Asthma,Chest tightness
+Chronic Obstructive Pulmonary Disease (COPD),Chest tightness
+Bronchitis,Chest tightness
+Tuberculosis,Fever
+Meningitis,Fever
+Influenza,Fever
+Tuberculosis,Sore throat
+Meningitis,Sore throat
+Influenza,Sore throat
+Tuberculosis,Runny nose
+Meningitis,Runny nose
+Influenza,Runny nose
+Pneumonia,Wheezing
+Pulmonary Embolism,Wheezing
+Lung Cancer,Wheezing
+Pneumonia,Shortness of breath
+Pulmonary Embolism,Shortness of breath
+Lung Cancer,Shortness of breath
+Pneumonia,Fatigue
+Pulmonary Embolism,Fatigue
+Lung Cancer,Fatigue
+Pulmonary Tuberculosis,Chest pain
+Lung Abscess,Chest pain
+Chronic Bronchitis,Chest pain
+Pulmonary Tuberculosis,Persistent cough
+Lung Abscess,Persistent cough
+Chronic Bronchitis,Persistent cough
+Pulmonary Tuberculosis,Night sweats
+Lung Abscess,Night sweats
+Chronic Bronchitis,Night sweats
+Lung Cancer,Difficulty swallowing
+Bronchiectasis,Difficulty swallowing
+Pulmonary Fibrosis,Difficulty swallowing
+Lung Cancer,Chronic cough
+Bronchiectasis,Chronic cough
+Pulmonary Fibrosis,Chronic cough
+Lung Cancer,Weight loss
+Bronchiectasis,Weight loss
+Pulmonary Fibrosis,Weight loss
+Gastroenteritis,Abdominal pain
+Food Poisoning,Abdominal pain
+Irritable Bowel Syndrome,Abdominal pain
+Peptic Ulcer Disease,Abdominal pain
+Gallstones,Abdominal pain
+Gastroenteritis,Diarrhea
+Food Poisoning,Diarrhea
+Irritable Bowel Syndrome,Diarrhea
+Peptic Ulcer Disease,Diarrhea
+Gallstones,Diarrhea
+Gastroenteritis,Nausea
+Food Poisoning,Nausea
+Irritable Bowel Syndrome,Nausea
+Peptic Ulcer Disease,Nausea
+Gallstones,Nausea
+Gastroenteritis,Vomiting
+Food Poisoning,Vomiting
+Irritable Bowel Syndrome,Vomiting
+Peptic Ulcer Disease,Vomiting
+Gallstones,Vomiting
+Gastroenteritis,Bloating
+Food Poisoning,Bloating
+Irritable Bowel Syndrome,Bloating
+Peptic Ulcer Disease,Bloating
+Gallstones,Bloating
+Liver Cirrhosis,Loss of Appetite
+Hepatitis A,Loss of Appetite
+Cholangiocarcinoma,Loss of Appetite
+Pancreatitis,Loss of Appetite
+Ascites,Loss of Appetite
+Liver Cirrhosis,Weight Loss
+Hepatitis A,Weight Loss
+Cholangiocarcinoma,Weight Loss
+Pancreatitis,Weight Loss
+Ascites,Weight Loss
+Liver Cirrhosis,Jaundice
+Hepatitis A,Jaundice
+Cholangiocarcinoma,Jaundice
+Pancreatitis,Jaundice
+Ascites,Jaundice
+Liver Cirrhosis,Abdominal Distention
+Hepatitis A,Abdominal Distention
+Cholangiocarcinoma,Abdominal Distention
+Pancreatitis,Abdominal Distention
+Ascites,Abdominal Distention
+Liver Cirrhosis,Dark Urine
+Hepatitis A,Dark Urine
+Cholangiocarcinoma,Dark Urine
+Pancreatitis,Dark Urine
+Ascites,Dark Urine
+Gastroesophageal Reflux Disease,Heartburn
+Esophageal Cancer,Heartburn
+Achalasia,Heartburn
+Hiatal Hernia,Heartburn
+Gastric Ulcer,Heartburn
+Gastroesophageal Reflux Disease,Difficulty Swallowing
+Esophageal Cancer,Difficulty Swallowing
+Achalasia,Difficulty Swallowing
+Hiatal Hernia,Difficulty Swallowing
+Gastric Ulcer,Difficulty Swallowing
+Gastroesophageal Reflux Disease,Chest Pain
+Esophageal Cancer,Chest Pain
+Achalasia,Chest Pain
+Hiatal Hernia,Chest Pain
+Gastric Ulcer,Chest Pain
+Gastroesophageal Reflux Disease,Regurgitation
+Esophageal Cancer,Regurgitation
+Achalasia,Regurgitation
+Hiatal Hernia,Regurgitation
+Gastric Ulcer,Regurgitation
+Gastroesophageal Reflux Disease,Hiccups
+Esophageal Cancer,Hiccups
+Achalasia,Hiccups
+Hiatal Hernia,Hiccups
+Gastric Ulcer,Hiccups
+Colorectal Cancer,Constipation
+Hemorrhoids,Constipation
+Diverticulitis,Constipation
+Inflammatory Bowel Disease,Constipation
+Anal Fissures,Constipation
+Colorectal Cancer,Diarrhea
+Hemorrhoids,Diarrhea
+Diverticulitis,Diarrhea
+Inflammatory Bowel Disease,Diarrhea
+Anal Fissures,Diarrhea
+Colorectal Cancer,Rectal Bleeding
+Hemorrhoids,Rectal Bleeding
+Diverticulitis,Rectal Bleeding
+Inflammatory Bowel Disease,Rectal Bleeding
+Anal Fissures,Rectal Bleeding
+Colorectal Cancer,Abdominal Pain
+Hemorrhoids,Abdominal Pain
+Diverticulitis,Abdominal Pain
+Inflammatory Bowel Disease,Abdominal Pain
+Anal Fissures,Abdominal Pain
+Colorectal Cancer,Anorectal Pain
+Hemorrhoids,Anorectal Pain
+Diverticulitis,Anorectal Pain
+Inflammatory Bowel Disease,Anorectal Pain
+Anal Fissures,Anorectal Pain
+Typhoid Fever,Abdominal Pain
+Dengue Fever,Abdominal Pain
+Chikungunya,Abdominal Pain
+Gastrointestinal Tuberculosis,Abdominal Pain
+Crohn's Disease,Abdominal Pain
+Typhoid Fever,Fever
+Dengue Fever,Fever
+Chikungunya,Fever
+Gastrointestinal Tuberculosis,Fever
+Crohn's Disease,Fever
+Typhoid Fever,Joint Pain
+Dengue Fever,Joint Pain
+Chikungunya,Joint Pain
+Gastrointestinal Tuberculosis,Joint Pain
+Crohn's Disease,Joint Pain
+Typhoid Fever,Diarrhea
+Dengue Fever,Diarrhea
+Chikungunya,Diarrhea
+Gastrointestinal Tuberculosis,Diarrhea
+Crohn's Disease,Diarrhea
+Typhoid Fever,Rash
+Dengue Fever,Rash
+Chikungunya,Rash
+Gastrointestinal Tuberculosis,Rash
+Crohn's Disease,Rash
+Eczema,Red
+Psoriasis,Red
+Atopic Dermatitis,Red
+Eczema,Itchy Rashes
+Psoriasis,Itchy Rashes
+Atopic Dermatitis,Itchy Rashes
+Eczema,Dry Skin
+Psoriasis,Dry Skin
+Atopic Dermatitis,Dry Skin
+Allergic Contact Dermatitis,Bumps
+Urticaria,Bumps
+Pruritus,Bumps
+Allergic Contact Dermatitis,Swelling
+Urticaria,Swelling
+Pruritus,Swelling
+Allergic Contact Dermatitis,Hives
+Urticaria,Hives
+Pruritus,Hives
+Alopecia Areata,Hair loss
+Onychomycosis,Hair loss
+Iron Deficiency Anemia,Hair loss
+Alopecia Areata,Brittle Nails
+Onychomycosis,Brittle Nails
+Iron Deficiency Anemia,Brittle Nails
+Alopecia Areata,Fatigue
+Onychomycosis,Fatigue
+Iron Deficiency Anemia,Fatigue
+Vitiligo,Dark Spots
+Seborrheic Dermatitis,Dark Spots
+Polycystic Ovary Syndrome,Dark Spots
+Vitiligo,Scaly Patches
+Seborrheic Dermatitis,Scaly Patches
+Polycystic Ovary Syndrome,Scaly Patches
+Vitiligo,Excessive Hair Growth
+Seborrheic Dermatitis,Excessive Hair Growth
+Polycystic Ovary Syndrome,Excessive Hair Growth
+Herpes Zoster,Blisters
+Impetigo,Blisters
+Cellulitis,Blisters
+Herpes Zoster,Painful Sores
+Impetigo,Painful Sores
+Cellulitis,Painful Sores
+Herpes Zoster,Fever
+Impetigo,Fever
+Cellulitis,Fever
+Osteoarthritis,Joint pain
+Rheumatoid Arthritis,Joint pain
+Gout,Joint pain
+Osteoarthritis,Swelling
+Rheumatoid Arthritis,Swelling
+Gout,Swelling
+Osteoarthritis,Stiffness
+Rheumatoid Arthritis,Stiffness
+Gout,Stiffness
+Muscular Dystrophy,Difficulty walking
+Charcot-Marie-Tooth Disease,Difficulty walking
+Clubfoot,Difficulty walking
+Muscular Dystrophy,Muscle weakness
+Charcot-Marie-Tooth Disease,Muscle weakness
+Clubfoot,Muscle weakness
+Muscular Dystrophy,Foot deformities
+Charcot-Marie-Tooth Disease,Foot deformities
+Clubfoot,Foot deformities
+Herniated Disc,Back pain
+Spinal Stenosis,Back pain
+Cauda Equina Syndrome,Back pain
+Herniated Disc,Leg numbness
+Spinal Stenosis,Leg numbness
+Cauda Equina Syndrome,Leg numbness
+Herniated Disc,Loss of bowel/bladder control
+Spinal Stenosis,Loss of bowel/bladder control
+Cauda Equina Syndrome,Loss of bowel/bladder control
+Anterior Cruciate Ligament (ACL) Tear,Knee instability
+Meniscus Tear,Knee instability
+Patellar Dislocation,Knee instability
+Anterior Cruciate Ligament (ACL) Tear,Popping sound
+Meniscus Tear,Popping sound
+Patellar Dislocation,Popping sound
+Anterior Cruciate Ligament (ACL) Tear,Difficulty straightening knee
+Meniscus Tear,Difficulty straightening knee
+Patellar Dislocation,Difficulty straightening knee
+Rotator Cuff Injury,Shoulder pain
+Frozen Shoulder,Shoulder pain
+Bursitis,Shoulder pain
+Rotator Cuff Injury,Limited range of motion
+Frozen Shoulder,Limited range of motion
+Bursitis,Limited range of motion
+Rotator Cuff Injury,Muscle spasms
+Frozen Shoulder,Muscle spasms
+Bursitis,Muscle spasms
+Migraine,Headache
+Vertigo,Headache
+Brain Tumor,Headache
+Migraine,Nausea
+Vertigo,Nausea
+Brain Tumor,Nausea
+Migraine,Dizziness
+Vertigo,Dizziness
+Brain Tumor,Dizziness
+Parkinson's Disease,Tremors
+Alzheimer's Disease,Tremors
+Stroke,Tremors
+Parkinson's Disease,Memory Loss
+Alzheimer's Disease,Memory Loss
+Stroke,Memory Loss
+Parkinson's Disease,Difficulty Speaking
+Alzheimer's Disease,Difficulty Speaking
+Stroke,Difficulty Speaking
+Peripheral Neuropathy,Numbness
+Multiple Sclerosis,Numbness
+ALS,Numbness
+Peripheral Neuropathy,Tingling Sensation
+Multiple Sclerosis,Tingling Sensation
+ALS,Tingling Sensation
+Peripheral Neuropathy,Muscle Weakness
+Multiple Sclerosis,Muscle Weakness
+ALS,Muscle Weakness
+Epilepsy,Seizures
+Hypoglycemia,Seizures
+Encephalitis,Seizures
+Epilepsy,Loss of Consciousness
+Hypoglycemia,Loss of Consciousness
+Encephalitis,Loss of Consciousness
+Epilepsy,Confusion
+Hypoglycemia,Confusion
+Encephalitis,Confusion
+Glaucoma,Vision Changes
+Parkinson's Disease,Vision Changes
+Cerebellar Ataxia,Vision Changes
+Glaucoma,Difficulty Walking
+Parkinson's Disease,Difficulty Walking
+Cerebellar Ataxia,Difficulty Walking
+Glaucoma,Balance Problems
+Parkinson's Disease,Balance Problems
+Cerebellar Ataxia,Balance Problems
+Anemia,Easy bruising
+Leukemia,Easy bruising
+Hemophilia,Easy bruising
+Thalassemia,Easy bruising
+Aplastic Anemia,Easy bruising
+Anemia,Pale skin
+Leukemia,Pale skin
+Hemophilia,Pale skin
+Thalassemia,Pale skin
+Aplastic Anemia,Pale skin
+Anemia,Fatigue
+Leukemia,Fatigue
+Hemophilia,Fatigue
+Thalassemia,Fatigue
+Aplastic Anemia,Fatigue
+Anemia,Frequent infections
+Leukemia,Frequent infections
+Hemophilia,Frequent infections
+Thalassemia,Frequent infections
+Aplastic Anemia,Frequent infections
+Hodgkin's Lymphoma,Joint pain
+Rheumatoid Arthritis,Joint pain
+Lupus,Joint pain
+Chronic Leukemia,Joint pain
+Hodgkin's Lymphoma,Swollen lymph nodes
+Rheumatoid Arthritis,Swollen lymph nodes
+Lupus,Swollen lymph nodes
+Chronic Leukemia,Swollen lymph nodes
+Hodgkin's Lymphoma,Night sweats
+Rheumatoid Arthritis,Night sweats
+Lupus,Night sweats
+Chronic Leukemia,Night sweats
+Von Willebrand Disease,Bleeding gums
+Hemophilia,Bleeding gums
+Blood clotting disorders,Bleeding gums
+ITP,Bleeding gums
+AML,Bleeding gums
+Von Willebrand Disease,Nosebleeds
+Hemophilia,Nosebleeds
+Blood clotting disorders,Nosebleeds
+ITP,Nosebleeds
+AML,Nosebleeds
+Von Willebrand Disease,Petechiae
+Hemophilia,Petechiae
+Blood clotting disorders,Petechiae
+ITP,Petechiae
+AML,Petechiae
+Von Willebrand Disease,Heavy menstrual bleeding
+Hemophilia,Heavy menstrual bleeding
+Blood clotting disorders,Heavy menstrual bleeding
+ITP,Heavy menstrual bleeding
+AML,Heavy menstrual bleeding
+Atrial Fibrillation,Irregular heartbeat
+Heart Failure,Irregular heartbeat
+Angina,Irregular heartbeat
+Anemia,Irregular heartbeat
+Atrial Fibrillation,Shortness of breath
+Heart Failure,Shortness of breath
+Angina,Shortness of breath
+Anemia,Shortness of breath
+Atrial Fibrillation,Chest pain
+Heart Failure,Chest pain
+Angina,Chest pain
+Anemia,Chest pain
+Atrial Fibrillation,Dizziness
+Heart Failure,Dizziness
+Angina,Dizziness
+Anemia,Dizziness
+Multiple Myeloma,Bone pain
+Osteoporosis,Bone pain
+Paget's Disease,Bone pain
+Hyperparathyroidism,Bone pain
+Multiple Myeloma,Easy fractures
+Osteoporosis,Easy fractures
+Paget's Disease,Easy fractures
+Hyperparathyroidism,Easy fractures
+Multiple Myeloma,Fatigue
+Osteoporosis,Fatigue
+Paget's Disease,Fatigue
+Hyperparathyroidism,Fatigue
+Multiple Myeloma,Elevated calcium levels
+Osteoporosis,Elevated calcium levels
+Paget's Disease,Elevated calcium levels
+Hyperparathyroidism,Elevated calcium levels
+Major Depressive Disorder,Depressed mood
+Bipolar Disorder,Depressed mood
+Generalized Anxiety Disorder,Depressed mood
+Major Depressive Disorder,Low energy
+Bipolar Disorder,Low energy
+Generalized Anxiety Disorder,Low energy
+Major Depressive Disorder,Difficulty concentrating
+Bipolar Disorder,Difficulty concentrating
+Generalized Anxiety Disorder,Difficulty concentrating
+Schizophrenia,Hallucinations
+Schizoaffective Disorder,Hallucinations
+Bipolar Disorder,Hallucinations
+Schizophrenia,Delusions
+Schizoaffective Disorder,Delusions
+Bipolar Disorder,Delusions
+Schizophrenia,Disorganized thinking
+Schizoaffective Disorder,Disorganized thinking
+Bipolar Disorder,Disorganized thinking
+Insomnia Disorder,Insomnia
+Anxiety Disorder,Insomnia
+Depression,Insomnia
+Insomnia Disorder,Restlessness
+Anxiety Disorder,Restlessness
+Depression,Restlessness
+Insomnia Disorder,Difficulty falling asleep
+Anxiety Disorder,Difficulty falling asleep
+Depression,Difficulty falling asleep
+Borderline Personality Disorder,Mood swings
+Bipolar Disorder,Mood swings
+Attention-Deficit/Hyperactivity Disorder,Mood swings
+Borderline Personality Disorder,Irritability
+Bipolar Disorder,Irritability
+Attention-Deficit/Hyperactivity Disorder,Irritability
+Borderline Personality Disorder,Impulsivity
+Bipolar Disorder,Impulsivity
+Attention-Deficit/Hyperactivity Disorder,Impulsivity
+Panic Disorder,Panic attacks
+Generalized Anxiety Disorder,Panic attacks
+Heart Disease,Panic attacks
+Panic Disorder,Rapid heartbeat
+Generalized Anxiety Disorder,Rapid heartbeat
+Heart Disease,Rapid heartbeat
+Panic Disorder,Shortness of breath
+Generalized Anxiety Disorder,Shortness of breath
+Heart Disease,Shortness of breath
+Hypothyroidism,Weight gain
+Polycystic ovary syndrome,Weight gain
+Diabetes Mellitus,Weight gain
+Premature ovarian failure,Weight gain
+Addison's disease,Weight gain
+Hypothyroidism,Fatigue
+Polycystic ovary syndrome,Fatigue
+Diabetes Mellitus,Fatigue
+Premature ovarian failure,Fatigue
+Addison's disease,Fatigue
+Hypothyroidism,Dry skin
+Polycystic ovary syndrome,Dry skin
+Diabetes Mellitus,Dry skin
+Premature ovarian failure,Dry skin
+Addison's disease,Dry skin
+Hypothyroidism,Irregular periods
+Polycystic ovary syndrome,Irregular periods
+Diabetes Mellitus,Irregular periods
+Premature ovarian failure,Irregular periods
+Addison's disease,Irregular periods
+Hypothyroidism,Hair loss
+Polycystic ovary syndrome,Hair loss
+Diabetes Mellitus,Hair loss
+Premature ovarian failure,Hair loss
+Addison's disease,Hair loss
+Hyperthyroidism,Weight loss
+Diabetes Mellitus,Weight loss
+Addison's disease,Weight loss
+Cushing's syndrome,Weight loss
+Type 1 Diabetes,Weight loss
+Hyperthyroidism,Increased thirst
+Diabetes Mellitus,Increased thirst
+Addison's disease,Increased thirst
+Cushing's syndrome,Increased thirst
+Type 1 Diabetes,Increased thirst
+Hyperthyroidism,Frequent urination
+Diabetes Mellitus,Frequent urination
+Addison's disease,Frequent urination
+Cushing's syndrome,Frequent urination
+Type 1 Diabetes,Frequent urination
+Hyperthyroidism,Fatigue
+Diabetes Mellitus,Fatigue
+Addison's disease,Fatigue
+Cushing's syndrome,Fatigue
+Type 1 Diabetes,Fatigue
+Hyperthyroidism,Blurred vision
+Diabetes Mellitus,Blurred vision
+Addison's disease,Blurred vision
+Cushing's syndrome,Blurred vision
+Type 1 Diabetes,Blurred vision
+Premenstrual syndrome,Mood swings
+Polycystic ovary syndrome,Mood swings
+Hypothyroidism,Mood swings
+Depression,Mood swings
+Premature ovarian failure,Mood swings
+Premenstrual syndrome,Weight gain
+Polycystic ovary syndrome,Weight gain
+Hypothyroidism,Weight gain
+Depression,Weight gain
+Premature ovarian failure,Weight gain
+Premenstrual syndrome,Increased appetite
+Polycystic ovary syndrome,Increased appetite
+Hypothyroidism,Increased appetite
+Depression,Increased appetite
+Premature ovarian failure,Increased appetite
+Premenstrual syndrome,Fatigue
+Polycystic ovary syndrome,Fatigue
+Hypothyroidism,Fatigue
+Depression,Fatigue
+Premature ovarian failure,Fatigue
+Premenstrual syndrome,Irregular periods
+Polycystic ovary syndrome,Irregular periods
+Hypothyroidism,Irregular periods
+Depression,Irregular periods
+Premature ovarian failure,Irregular periods
+Hypothyroidism,Muscle weakness
+Polycystic ovary syndrome,Muscle weakness
+Cushing's syndrome,Muscle weakness
+Hypopituitarism,Muscle weakness
+Hypothyroid myopathy,Muscle weakness
+Hypothyroidism,Weight gain
+Polycystic ovary syndrome,Weight gain
+Cushing's syndrome,Weight gain
+Hypopituitarism,Weight gain
+Hypothyroid myopathy,Weight gain
+Hypothyroidism,Dry skin
+Polycystic ovary syndrome,Dry skin
+Cushing's syndrome,Dry skin
+Hypopituitarism,Dry skin
+Hypothyroid myopathy,Dry skin
+Hypothyroidism,Constipation
+Polycystic ovary syndrome,Constipation
+Cushing's syndrome,Constipation
+Hypopituitarism,Constipation
+Hypothyroid myopathy,Constipation
+Hypothyroidism,Fatigue
+Polycystic ovary syndrome,Fatigue
+Cushing's syndrome,Fatigue
+Hypopituitarism,Fatigue
+Hypothyroid myopathy,Fatigue
+Polycystic ovary syndrome,Excessive hair growth
+Cushing's syndrome,Excessive hair growth
+Hypothyroidism,Excessive hair growth
+Hirsutism,Excessive hair growth
+Premature ovarian failure,Excessive hair growth
+Polycystic ovary syndrome,Weight gain
+Cushing's syndrome,Weight gain
+Hypothyroidism,Weight gain
+Hirsutism,Weight gain
+Premature ovarian failure,Weight gain
+Polycystic ovary syndrome,Fatigue
+Cushing's syndrome,Fatigue
+Hypothyroidism,Fatigue
+Hirsutism,Fatigue
+Premature ovarian failure,Fatigue
+Polycystic ovary syndrome,Acne
+Cushing's syndrome,Acne
+Hypothyroidism,Acne
+Hirsutism,Acne
+Premature ovarian failure,Acne
+Polycystic ovary syndrome,Irregular periods
+Cushing's syndrome,Irregular periods
+Hypothyroidism,Irregular periods
+Hirsutism,Irregular periods
+Premature ovarian failure,Irregular periods
+Polycystic Ovary Syndrome,Irregular Menstruation
+Endometriosis,Irregular Menstruation
+Pelvic Inflammatory Disease,Irregular Menstruation
+Polycystic Ovary Syndrome,Abdominal Pain
+Endometriosis,Abdominal Pain
+Pelvic Inflammatory Disease,Abdominal Pain
+Polycystic Ovary Syndrome,Vaginal Discharge
+Endometriosis,Vaginal Discharge
+Pelvic Inflammatory Disease,Vaginal Discharge
+Ectopic Pregnancy,Pregnancy
+Hyperemesis Gravidarum,Pregnancy
+Preeclampsia,Pregnancy
+Ectopic Pregnancy,Nausea
+Hyperemesis Gravidarum,Nausea
+Preeclampsia,Nausea
+Ectopic Pregnancy,Fatigue
+Hyperemesis Gravidarum,Fatigue
+Preeclampsia,Fatigue
+Cervical Cancer,Vaginal Bleeding
+Vaginal Infection,Vaginal Bleeding
+Vulvodynia,Vaginal Bleeding
+Cervical Cancer,Painful Intercourse
+Vaginal Infection,Painful Intercourse
+Vulvodynia,Painful Intercourse
+Cervical Cancer,Vaginal Itching
+Vaginal Infection,Vaginal Itching
+Vulvodynia,Vaginal Itching
+Urinary Tract Infection,Urinary Incontinence
+Overactive Bladder,Urinary Incontinence
+Pelvic Organ Prolapse,Urinary Incontinence
+Urinary Tract Infection,Pelvic Pressure
+Overactive Bladder,Pelvic Pressure
+Pelvic Organ Prolapse,Pelvic Pressure
+Urinary Tract Infection,Frequent Urination
+Overactive Bladder,Frequent Urination
+Pelvic Organ Prolapse,Frequent Urination
+Breast Cancer,Breast Pain
+Fibrocystic Breast Changes,Breast Pain
+Mastitis,Breast Pain
+Breast Cancer,Nipple Discharge
+Fibrocystic Breast Changes,Nipple Discharge
+Mastitis,Nipple Discharge
+Breast Cancer,Lump
+Fibrocystic Breast Changes,Lump
+Mastitis,Lump
+Measles,Fever
+Rubella,Fever
+Dengue,Fever
+Measles,Rash
+Rubella,Rash
+Dengue,Rash
+Measles,Loss of Appetite
+Rubella,Loss of Appetite
+Dengue,Loss of Appetite
+Gastroenteritis,Vomiting
+Rotavirus,Vomiting
+Typhoid,Vomiting
+Gastroenteritis,Diarrhea
+Rotavirus,Diarrhea
+Typhoid,Diarrhea
+Gastroenteritis,Abdominal Pain
+Rotavirus,Abdominal Pain
+Typhoid,Abdominal Pain
+Asthma,Cough
+Pneumonia,Cough
+Bronchiolitis,Cough
+Asthma,Wheezing
+Pneumonia,Wheezing
+Bronchiolitis,Wheezing
+Asthma,Difficulty Breathing
+Pneumonia,Difficulty Breathing
+Bronchiolitis,Difficulty Breathing
+Type 1 Diabetes,Frequent Urination
+Urinary Tract Infection,Frequent Urination
+Dehydration,Frequent Urination
+Type 1 Diabetes,Thirst
+Urinary Tract Infection,Thirst
+Dehydration,Thirst
+Type 1 Diabetes,Fatigue
+Urinary Tract Infection,Fatigue
+Dehydration,Fatigue
+Dengue,Joint Pain
+Chikungunya,Joint Pain
+Malaria,Joint Pain
+Dengue,Fatigue
+Chikungunya,Fatigue
+Malaria,Fatigue
+Dengue,Headache
+Chikungunya,Headache
+Malaria,Headache
+Conjunctivitis,Blurred Vision
+Glaucoma,Blurred Vision
+Uveitis,Blurred Vision
+Conjunctivitis,Eye Pain
+Glaucoma,Eye Pain
+Uveitis,Eye Pain
+Conjunctivitis,Redness
+Glaucoma,Redness
+Uveitis,Redness
+Migraine,Double Vision
+Optic Neuritis,Double Vision
+Brain Tumor,Double Vision
+Migraine,Headache
+Optic Neuritis,Headache
+Brain Tumor,Headache
+Migraine,Nausea
+Optic Neuritis,Nausea
+Brain Tumor,Nausea
+Blepharitis,Dry Eyes
+Keratitis,Dry Eyes
+Allergic Conjunctivitis,Dry Eyes
+Blepharitis,Sensitivity to Light
+Keratitis,Sensitivity to Light
+Allergic Conjunctivitis,Sensitivity to Light
+Blepharitis,Discharge
+Keratitis,Discharge
+Allergic Conjunctivitis,Discharge
+Retinal Detachment,Floaters
+Macular Degeneration,Floaters
+Diabetic Retinopathy,Floaters
+Retinal Detachment,Loss of Peripheral Vision
+Macular Degeneration,Loss of Peripheral Vision
+Diabetic Retinopathy,Loss of Peripheral Vision
+Retinal Detachment,Blurred Vision
+Macular Degeneration,Blurred Vision
+Diabetic Retinopathy,Blurred Vision
+Astigmatism,Eye Strain
+Presbyopia,Eye Strain
+Refractive Error,Eye Strain
+Astigmatism,Difficulty Focusing
+Presbyopia,Difficulty Focusing
+Refractive Error,Difficulty Focusing
+Astigmatism,Headache
+Presbyopia,Headache
+Refractive Error,Headache
+Urinary Tract Infection,Pain or burning during urination
+Bladder Cancer,Pain or burning during urination
+Kidney Stones,Pain or burning during urination
+Prostate Cancer,Pain or burning during urination
+Interstitial Cystitis,Pain or burning during urination
+Urinary Tract Infection,Frequent urination
+Bladder Cancer,Frequent urination
+Kidney Stones,Frequent urination
+Prostate Cancer,Frequent urination
+Interstitial Cystitis,Frequent urination
+Urinary Tract Infection,Blood in urine
+Bladder Cancer,Blood in urine
+Kidney Stones,Blood in urine
+Prostate Cancer,Blood in urine
+Interstitial Cystitis,Blood in urine
+Benign Prostatic Hyperplasia,Lower back pain
+Prostatitis,Lower back pain
+Kidney Infection,Lower back pain
+Spinal Stenosis,Lower back pain
+Testicular Cancer,Lower back pain
+Benign Prostatic Hyperplasia,Difficulty urinating
+Prostatitis,Difficulty urinating
+Kidney Infection,Difficulty urinating
+Spinal Stenosis,Difficulty urinating
+Testicular Cancer,Difficulty urinating
+Benign Prostatic Hyperplasia,Erectile dysfunction
+Prostatitis,Erectile dysfunction
+Kidney Infection,Erectile dysfunction
+Spinal Stenosis,Erectile dysfunction
+Testicular Cancer,Erectile dysfunction
+Urinary Incontinence,Urgency to urinate
+Overactive Bladder,Urgency to urinate
+Prostate Enlargement,Urgency to urinate
+Bladder Prolapse,Urgency to urinate
+Ovarian Cysts,Urgency to urinate
+Urinary Incontinence,Inability to empty bladder
+Overactive Bladder,Inability to empty bladder
+Prostate Enlargement,Inability to empty bladder
+Bladder Prolapse,Inability to empty bladder
+Ovarian Cysts,Inability to empty bladder
+Urinary Incontinence,Pelvic pain
+Overactive Bladder,Pelvic pain
+Prostate Enlargement,Pelvic pain
+Bladder Prolapse,Pelvic pain
+Ovarian Cysts,Pelvic pain
+Bladder Spasms,Urinary retention
+Urethral Stricture,Urinary retention
+Bladder Cancer,Urinary retention
+Ovarian Cancer,Urinary retention
+Bladder Diverticulum,Urinary retention
+Bladder Spasms,Urine leakage
+Urethral Stricture,Urine leakage
+Bladder Cancer,Urine leakage
+Ovarian Cancer,Urine leakage
+Bladder Diverticulum,Urine leakage
+Bladder Spasms,Pain in pelvic area
+Urethral Stricture,Pain in pelvic area
+Bladder Cancer,Pain in pelvic area
+Ovarian Cancer,Pain in pelvic area
+Bladder Diverticulum,Pain in pelvic area
+Prostate Cancer,Frequent urination at night
+Testicular Torsion,Frequent urination at night
+Kidney Stones,Frequent urination at night
+Enlarged Prostate,Frequent urination at night
+Renal Cell Carcinoma,Frequent urination at night
+Prostate Cancer,Pain in testicles
+Testicular Torsion,Pain in testicles
+Kidney Stones,Pain in testicles
+Enlarged Prostate,Pain in testicles
+Renal Cell Carcinoma,Pain in testicles
+Prostate Cancer,Difficulty starting urination
+Testicular Torsion,Difficulty starting urination
+Kidney Stones,Difficulty starting urination
+Enlarged Prostate,Difficulty starting urination
+Renal Cell Carcinoma,Difficulty starting urination
+Tonsillitis,Sore throat
+Pharyngitis,Sore throat
+Otitis media,Sore throat
+Tonsillitis,Difficulty swallowing
+Pharyngitis,Difficulty swallowing
+Otitis media,Difficulty swallowing
+Tonsillitis,Ear pain
+Pharyngitis,Ear pain
+Otitis media,Ear pain
+Allergic rhinitis,Nasal congestion
+Sinusitis,Nasal congestion
+Nasal polyps,Nasal congestion
+Allergic rhinitis,Sneezing
+Sinusitis,Sneezing
+Nasal polyps,Sneezing
+Allergic rhinitis,Postnasal drip
+Sinusitis,Postnasal drip
+Nasal polyps,Postnasal drip
+Otitis externa,Ear discharge
+Otitis media,Ear discharge
+Meniere's disease,Ear discharge
+Otitis externa,Hearing loss
+Otitis media,Hearing loss
+Meniere's disease,Hearing loss
+Otitis externa,Dizziness
+Otitis media,Dizziness
+Meniere's disease,Dizziness
+Obstructive sleep apnea,Snoring
+Sinusitis,Snoring
+Deviated nasal septum,Snoring
+Obstructive sleep apnea,Daytime fatigue
+Sinusitis,Daytime fatigue
+Deviated nasal septum,Daytime fatigue
+Obstructive sleep apnea,Headaches
+Sinusitis,Headaches
+Deviated nasal septum,Headaches
+Laryngitis,Hoarse voice
+Asthma,Hoarse voice
+COPD,Hoarse voice
+Laryngitis,Difficulty breathing
+Asthma,Difficulty breathing
+COPD,Difficulty breathing
+Laryngitis,Cough
+Asthma,Cough
+COPD,Cough
+Urinary Tract Infection,Frequent Urination
+Kidney Stones,Frequent Urination
+Urinary Tract Obstruction,Frequent Urination
+Urinary Tract Infection,Painful Urination
+Kidney Stones,Painful Urination
+Urinary Tract Obstruction,Painful Urination
+Urinary Tract Infection,Blood in Urine
+Kidney Stones,Blood in Urine
+Urinary Tract Obstruction,Blood in Urine
+Chronic Kidney Disease,Swelling in Legs
+Acute Kidney Injury,Swelling in Legs
+Nephrotic Syndrome,Swelling in Legs
+Chronic Kidney Disease,Decreased Urine Output
+Acute Kidney Injury,Decreased Urine Output
+Nephrotic Syndrome,Decreased Urine Output
+Chronic Kidney Disease,Nausea
+Acute Kidney Injury,Nausea
+Nephrotic Syndrome,Nausea
+Polycystic Kidney Disease,High Blood Pressure
+Glomerulonephritis,High Blood Pressure
+Diabetic Nephropathy,High Blood Pressure
+Polycystic Kidney Disease,Fatigue
+Glomerulonephritis,Fatigue
+Diabetic Nephropathy,Fatigue
+Polycystic Kidney Disease,Difficulty in Breathing
+Glomerulonephritis,Difficulty in Breathing
+Diabetic Nephropathy,Difficulty in Breathing
+Pyelonephritis,Back Pain
+Nephritis,Back Pain
+Renal Tuberculosis,Back Pain
+Pyelonephritis,Fever
+Nephritis,Fever
+Renal Tuberculosis,Fever
+Pyelonephritis,Loss of Appetite
+Nephritis,Loss of Appetite
+Renal Tuberculosis,Loss of Appetite
+End Stage Renal Disease,Muscle Cramps
+Uremic Pruritus,Muscle Cramps
+Secondary Hyperparathyroidism,Muscle Cramps
+End Stage Renal Disease,Itching
+Uremic Pruritus,Itching
+Secondary Hyperparathyroidism,Itching
+End Stage Renal Disease,Metallic Taste in Mouth
+Uremic Pruritus,Metallic Taste in Mouth
+Secondary Hyperparathyroidism,Metallic Taste in Mouth
+Hepatitis A,Jaundice
+Hepatitis B,Jaundice
+Hepatitis C,Jaundice
+Fatty Liver Disease,Jaundice
+Cirrhosis,Jaundice
+Hepatitis A,Abdominal Pain
+Hepatitis B,Abdominal Pain
+Hepatitis C,Abdominal Pain
+Fatty Liver Disease,Abdominal Pain
+Cirrhosis,Abdominal Pain
+Hepatitis A,Nausea
+Hepatitis B,Nausea
+Hepatitis C,Nausea
+Fatty Liver Disease,Nausea
+Cirrhosis,Nausea
+Hepatitis A,Loss of Appetite
+Hepatitis B,Loss of Appetite
+Hepatitis C,Loss of Appetite
+Fatty Liver Disease,Loss of Appetite
+Cirrhosis,Loss of Appetite
+Liver Cancer,Ascites
+Liver Failure,Ascites
+Portal Hypertension,Ascites
+Primary Sclerosing Cholangitis,Ascites
+Liver Cancer,Swelling in Legs
+Liver Failure,Swelling in Legs
+Portal Hypertension,Swelling in Legs
+Primary Sclerosing Cholangitis,Swelling in Legs
+Liver Cancer,Loss of Weight
+Liver Failure,Loss of Weight
+Portal Hypertension,Loss of Weight
+Primary Sclerosing Cholangitis,Loss of Weight
+Gilbert's Syndrome,Dark Urine
+Hemochromatosis,Dark Urine
+Wilson's Disease,Dark Urine
+Gilbert's Syndrome,Pale Stool
+Hemochromatosis,Pale Stool
+Wilson's Disease,Pale Stool
+Gilbert's Syndrome,Chronic Fatigue
+Hemochromatosis,Chronic Fatigue
+Wilson's Disease,Chronic Fatigue
+Hepatic Encephalopathy,Mental Confusion
+Alcoholic Liver Disease,Mental Confusion
+Hepatic Steatosis,Mental Confusion
+Hepatic Encephalopathy,Hand Tremors
+Alcoholic Liver Disease,Hand Tremors
+Hepatic Steatosis,Hand Tremors
+Hepatic Encephalopathy,Slurred Speech
+Alcoholic Liver Disease,Slurred Speech
+Hepatic Steatosis,Slurred Speech
+Autoimmune Hepatitis,Itchy Skin
+Primary Biliary Cholangitis,Itchy Skin
+Primary Sclerosing Cholangitis,Itchy Skin
+Autoimmune Hepatitis,Spider Angiomas
+Primary Biliary Cholangitis,Spider Angiomas
+Primary Sclerosing Cholangitis,Spider Angiomas
+Autoimmune Hepatitis,Easy Bruising
+Primary Biliary Cholangitis,Easy Bruising
+Primary Sclerosing Cholangitis,Easy Bruising
+Lupus,Joint Pain
+Rheumatoid Arthritis,Joint Pain
+Scleroderma,Joint Pain
+Lupus,Skin Rash
+Rheumatoid Arthritis,Skin Rash
+Scleroderma,Skin Rash
+Lupus,Hair Loss
+Rheumatoid Arthritis,Hair Loss
+Scleroderma,Hair Loss
+Crohn's Disease,Abdominal Pain
+Ulcerative Colitis,Abdominal Pain
+Celiac Disease,Abdominal Pain
+Crohn's Disease,Diarrhea
+Ulcerative Colitis,Diarrhea
+Celiac Disease,Diarrhea
+Crohn's Disease,Weight Loss
+Ulcerative Colitis,Weight Loss
+Celiac Disease,Weight Loss
+Multiple Sclerosis,Extreme Fatigue
+Myasthenia Gravis,Extreme Fatigue
+Lupus,Extreme Fatigue
+Multiple Sclerosis,Depression
+Myasthenia Gravis,Depression
+Lupus,Depression
+Multiple Sclerosis,Memory Loss
+Myasthenia Gravis,Memory Loss
+Lupus,Memory Loss
+Sjogren's Syndrome,Dry Eyes
+Rheumatoid Arthritis,Dry Eyes
+Systemic Sclerosis,Dry Eyes
+Sjogren's Syndrome,Dry Mouth
+Rheumatoid Arthritis,Dry Mouth
+Systemic Sclerosis,Dry Mouth
+Sjogren's Syndrome,Joint Stiffness
+Rheumatoid Arthritis,Joint Stiffness
+Systemic Sclerosis,Joint Stiffness
+Myositis,Muscle Weakness
+Polymyositis,Muscle Weakness
+Dermatomyositis,Muscle Weakness
+Myositis,Difficulty Swallowing
+Polymyositis,Difficulty Swallowing
+Dermatomyositis,Difficulty Swallowing
+Myositis,Difficulty Breathing
+Polymyositis,Difficulty Breathing
+Dermatomyositis,Difficulty Breathing
+Hay Fever,Sneezing
+Asthma,Sneezing
+Allergic Rhinitis,Sneezing
+Eczema,Sneezing
+Dermatitis,Sneezing
+Hay Fever,Runny Nose
+Asthma,Runny Nose
+Allergic Rhinitis,Runny Nose
+Eczema,Runny Nose
+Dermatitis,Runny Nose
+Hay Fever,Itchy Eyes
+Asthma,Itchy Eyes
+Allergic Rhinitis,Itchy Eyes
+Eczema,Itchy Eyes
+Dermatitis,Itchy Eyes
+Hay Fever,Rash
+Asthma,Rash
+Allergic Rhinitis,Rash
+Eczema,Rash
+Dermatitis,Rash
+Asthma,Difficulty Breathing
+Allergic Bronchitis,Difficulty Breathing
+Chronic Obstructive Pulmonary Disease (COPD),Difficulty Breathing
+Anaphylaxis,Difficulty Breathing
+Asthma,Wheezing
+Allergic Bronchitis,Wheezing
+Chronic Obstructive Pulmonary Disease (COPD),Wheezing
+Anaphylaxis,Wheezing
+Asthma,Chest Tightness
+Allergic Bronchitis,Chest Tightness
+Chronic Obstructive Pulmonary Disease (COPD),Chest Tightness
+Anaphylaxis,Chest Tightness
+Asthma,Cough
+Allergic Bronchitis,Cough
+Chronic Obstructive Pulmonary Disease (COPD),Cough
+Anaphylaxis,Cough
+Food Allergy,Stomach Pain
+Lactose Intolerance,Stomach Pain
+Celiac Disease,Stomach Pain
+Irritable Bowel Syndrome,Stomach Pain
+Food Allergy,Diarrhea
+Lactose Intolerance,Diarrhea
+Celiac Disease,Diarrhea
+Irritable Bowel Syndrome,Diarrhea
+Food Allergy,Vomiting
+Lactose Intolerance,Vomiting
+Celiac Disease,Vomiting
+Irritable Bowel Syndrome,Vomiting
+Food Allergy,Hives
+Lactose Intolerance,Hives
+Celiac Disease,Hives
+Irritable Bowel Syndrome,Hives
+Oral Allergy Syndrome,Swollen Lips
+Food Allergy,Swollen Lips
+Anaphylaxis,Swollen Lips
+Drug Allergy,Swollen Lips
+Oral Allergy Syndrome,Itchy Throat
+Food Allergy,Itchy Throat
+Anaphylaxis,Itchy Throat
+Drug Allergy,Itchy Throat
+Oral Allergy Syndrome,Difficulty Swallowing
+Food Allergy,Difficulty Swallowing
+Anaphylaxis,Difficulty Swallowing
+Drug Allergy,Difficulty Swallowing
+Oral Allergy Syndrome,Nausea
+Food Allergy,Nausea
+Anaphylaxis,Nausea
+Drug Allergy,Nausea
+Sinusitis,Headache
+Allergic Rhinitis,Headache
+Migraine,Headache
+Chronic Fatigue Syndrome,Headache
+Fibromyalgia,Headache
+Sinusitis,Fatigue
+Allergic Rhinitis,Fatigue
+Migraine,Fatigue
+Chronic Fatigue Syndrome,Fatigue
+Fibromyalgia,Fatigue
+Sinusitis,Dizziness
+Allergic Rhinitis,Dizziness
+Migraine,Dizziness
+Chronic Fatigue Syndrome,Dizziness
+Fibromyalgia,Dizziness
+Sinusitis,Nasal Congestion
+Allergic Rhinitis,Nasal Congestion
+Migraine,Nasal Congestion
+Chronic Fatigue Syndrome,Nasal Congestion
+Fibromyalgia,Nasal Congestion
+Osteoarthritis,Joint pain
+Rheumatoid Arthritis,Joint pain
+Gout,Joint pain
+Osteoarthritis,Stiffness
+Rheumatoid Arthritis,Stiffness
+Gout,Stiffness
+Osteoarthritis,Swelling
+Rheumatoid Arthritis,Swelling
+Gout,Swelling
+Lupus,Fever
+Sjogren's Syndrome,Fever
+Rheumatic Fever,Fever
+Lupus,Rash
+Sjogren's Syndrome,Rash
+Rheumatic Fever,Rash
+Lupus,Joint inflammation
+Sjogren's Syndrome,Joint inflammation
+Rheumatic Fever,Joint inflammation
+Fibromyalgia,Fatigue
+Polymyositis,Fatigue
+Multiple Sclerosis,Fatigue
+Fibromyalgia,Muscle weakness
+Polymyositis,Muscle weakness
+Multiple Sclerosis,Muscle weakness
+Fibromyalgia,Numbness
+Polymyositis,Numbness
+Multiple Sclerosis,Numbness
+Sjogren's Syndrome,Dry eyes
+Rheumatoid Arthritis,Dry eyes
+Systemic Sclerosis,Dry eyes
+Sjogren's Syndrome,Dry mouth
+Rheumatoid Arthritis,Dry mouth
+Systemic Sclerosis,Dry mouth
+Sjogren's Syndrome,Joint pain
+Rheumatoid Arthritis,Joint pain
+Systemic Sclerosis,Joint pain
+Fibromyalgia,Morning stiffness
+Ankylosing Spondylitis,Morning stiffness
+Polymyalgia Rheumatica,Morning stiffness
+Fibromyalgia,Fatigue
+Ankylosing Spondylitis,Fatigue
+Polymyalgia Rheumatica,Fatigue
+Fibromyalgia,Tender points
+Ankylosing Spondylitis,Tender points
+Polymyalgia Rheumatica,Tender points
+Cavities,Toothache
+Gingivitis,Toothache
+Periodontitis,Toothache
+Cavities,Swollen Gums
+Gingivitis,Swollen Gums
+Periodontitis,Swollen Gums
+Cavities,Bad Breath
+Gingivitis,Bad Breath
+Periodontitis,Bad Breath
+Tooth Abscess,Tooth Sensitivity
+Temporomandibular Joint Disorder,Tooth Sensitivity
+Oral Cancer,Tooth Sensitivity
+Tooth Abscess,Jaw Pain
+Temporomandibular Joint Disorder,Jaw Pain
+Oral Cancer,Jaw Pain
+Tooth Abscess,Difficulty Chewing
+Temporomandibular Joint Disorder,Difficulty Chewing
+Oral Cancer,Difficulty Chewing
+Gingivitis,Bleeding Gums
+Periodontitis,Bleeding Gums
+Oral Cancer,Bleeding Gums
+Gingivitis,Loose Teeth
+Periodontitis,Loose Teeth
+Oral Cancer,Loose Teeth
+Gingivitis,Red or White Patches in Mouth
+Periodontitis,Red or White Patches in Mouth
+Oral Cancer,Red or White Patches in Mouth
+Xerostomia,Dry Mouth
+Esophageal Disorders,Dry Mouth
+Oral Thrush,Dry Mouth
+Xerostomia,Difficulty Swallowing
+Esophageal Disorders,Difficulty Swallowing
+Oral Thrush,Difficulty Swallowing
+Xerostomia,Changes in Taste
+Esophageal Disorders,Changes in Taste
+Oral Thrush,Changes in Taste
+Canker Sores,Mouth Sores
+Angular Cheilitis,Mouth Sores
+Dry Mouth Syndrome,Mouth Sores
+Canker Sores,Cracked Lips
+Angular Cheilitis,Cracked Lips
+Dry Mouth Syndrome,Cracked Lips
+Canker Sores,Dry Tongue
+Angular Cheilitis,Dry Tongue
+Dry Mouth Syndrome,Dry Tongue
+Diabetes,Weight gain
+Hypothyroidism,Weight gain
+Polycystic Ovary Syndrome,Weight gain
+Diabetes,Increased thirst
+Hypothyroidism,Increased thirst
+Polycystic Ovary Syndrome,Increased thirst
+Diabetes,Frequent urination
+Hypothyroidism,Frequent urination
+Polycystic Ovary Syndrome,Frequent urination
+Hyperthyroidism,Extreme fatigue
+Cushing's Syndrome,Extreme fatigue
+Addison's Disease,Extreme fatigue
+Hyperthyroidism,Unexplained weight loss
+Cushing's Syndrome,Unexplained weight loss
+Addison's Disease,Unexplained weight loss
+Hyperthyroidism,Increased appetite
+Cushing's Syndrome,Increased appetite
+Addison's Disease,Increased appetite
+Hepatitis B,Jaundice
+Fatty Liver Disease,Jaundice
+Celiac Disease,Jaundice
+Hepatitis B,Abdominal pain
+Fatty Liver Disease,Abdominal pain
+Celiac Disease,Abdominal pain
+Hepatitis B,Loss of appetite
+Fatty Liver Disease,Loss of appetite
+Celiac Disease,Loss of appetite
+Diabetic Neuropathy,Muscle weakness
+Vitamin B12 Deficiency,Muscle weakness
+Diabetic Retinopathy,Muscle weakness
+Diabetic Neuropathy,Numbness in hands and feet
+Vitamin B12 Deficiency,Numbness in hands and feet
+Diabetic Retinopathy,Numbness in hands and feet
+Diabetic Neuropathy,Blurred vision
+Vitamin B12 Deficiency,Blurred vision
+Diabetic Retinopathy,Blurred vision
+Stroke,Confusion
+Dementia,Confusion
+Multiple Sclerosis,Confusion
+Stroke,Difficulty speaking
+Dementia,Difficulty speaking
+Multiple Sclerosis,Difficulty speaking
+Stroke,Paralysis
+Dementia,Paralysis
+Multiple Sclerosis,Paralysis
+Hypertensive Crisis,Headache
+Hypertensive Retinopathy,Headache
+Hypertensive Encephalopathy,Headache
+Hypertensive Crisis,Blurred Vision
+Hypertensive Retinopathy,Blurred Vision
+Hypertensive Encephalopathy,Blurred Vision
+Hypertensive Crisis,Dizziness
+Hypertensive Retinopathy,Dizziness
+Hypertensive Encephalopathy,Dizziness
+Hypertensive Heart Disease,Chest Pain
+Heart Attack,Chest Pain
+Stroke,Chest Pain
+Hypertensive Heart Disease,Difficulty Breathing
+Heart Attack,Difficulty Breathing
+Stroke,Difficulty Breathing
+Hypertensive Heart Disease,Irregular Heartbeat
+Heart Attack,Irregular Heartbeat
+Stroke,Irregular Heartbeat
+Hypertensive Emergency,Nausea
+Chronic Kidney Disease,Nausea
+Preeclampsia,Nausea
+Hypertensive Emergency,Vomiting
+Chronic Kidney Disease,Vomiting
+Preeclampsia,Vomiting
+Hypertensive Emergency,Fatigue
+Chronic Kidney Disease,Fatigue
+Preeclampsia,Fatigue
+Essential Hypertension,Nosebleeds
+Renal Artery Stenosis,Nosebleeds
+Hyperthyroidism,Nosebleeds
+Essential Hypertension,Facial Flushing
+Renal Artery Stenosis,Facial Flushing
+Hyperthyroidism,Facial Flushing
+Essential Hypertension,Anxiety
+Renal Artery Stenosis,Anxiety
+Hyperthyroidism,Anxiety
+Congestive Heart Failure,Swelling in Feet and Ankles
+Chronic Obstructive Pulmonary Disease,Swelling in Feet and Ankles
+Pulmonary Hypertension,Swelling in Feet and Ankles
+Congestive Heart Failure,Fatigue
+Chronic Obstructive Pulmonary Disease,Fatigue
+Pulmonary Hypertension,Fatigue
+Congestive Heart Failure,Shortness of Breath
+Chronic Obstructive Pulmonary Disease,Shortness of Breath
+Pulmonary Hypertension,Shortness of Breath
+Malnutrition,Weight Loss
+Anorexia Nervosa,Weight Loss
+Celiac Disease,Weight Loss
+Diabetes,Weight Loss
+Thyroid Disorders,Weight Loss
+Malnutrition,Poor Appetite
+Anorexia Nervosa,Poor Appetite
+Celiac Disease,Poor Appetite
+Diabetes,Poor Appetite
+Thyroid Disorders,Poor Appetite
+Malnutrition,Fatigue
+Anorexia Nervosa,Fatigue
+Celiac Disease,Fatigue
+Diabetes,Fatigue
+Thyroid Disorders,Fatigue
+Malnutrition,Dry Skin
+Anorexia Nervosa,Dry Skin
+Celiac Disease,Dry Skin
+Diabetes,Dry Skin
+Thyroid Disorders,Dry Skin
+Malnutrition,Weakness
+Anorexia Nervosa,Weakness
+Celiac Disease,Weakness
+Diabetes,Weakness
+Thyroid Disorders,Weakness
+Iron Deficiency Anemia,Pale Skin
+Vitamin B12 Deficiency,Pale Skin
+Hypothyroidism,Pale Skin
+Kidney Disease,Pale Skin
+Chronic Malnutrition,Pale Skin
+Iron Deficiency Anemia,Brittle Hair
+Vitamin B12 Deficiency,Brittle Hair
+Hypothyroidism,Brittle Hair
+Kidney Disease,Brittle Hair
+Chronic Malnutrition,Brittle Hair
+Iron Deficiency Anemia,Dizziness
+Vitamin B12 Deficiency,Dizziness
+Hypothyroidism,Dizziness
+Kidney Disease,Dizziness
+Chronic Malnutrition,Dizziness
+Iron Deficiency Anemia,Numbness in Hands and Feet
+Vitamin B12 Deficiency,Numbness in Hands and Feet
+Hypothyroidism,Numbness in Hands and Feet
+Kidney Disease,Numbness in Hands and Feet
+Chronic Malnutrition,Numbness in Hands and Feet
+Iron Deficiency Anemia,Difficulty Concentrating
+Vitamin B12 Deficiency,Difficulty Concentrating
+Hypothyroidism,Difficulty Concentrating
+Kidney Disease,Difficulty Concentrating
+Chronic Malnutrition,Difficulty Concentrating
+Gastroenteritis,Abdominal Pain
+Irritable Bowel Syndrome,Abdominal Pain
+Inflammatory Bowel Disease,Abdominal Pain
+Malabsorption Syndrome,Abdominal Pain
+Food Allergies,Abdominal Pain
+Gastroenteritis,Diarrhea
+Irritable Bowel Syndrome,Diarrhea
+Inflammatory Bowel Disease,Diarrhea
+Malabsorption Syndrome,Diarrhea
+Food Allergies,Diarrhea
+Gastroenteritis,Bloating
+Irritable Bowel Syndrome,Bloating
+Inflammatory Bowel Disease,Bloating
+Malabsorption Syndrome,Bloating
+Food Allergies,Bloating
+Gastroenteritis,Nausea
+Irritable Bowel Syndrome,Nausea
+Inflammatory Bowel Disease,Nausea
+Malabsorption Syndrome,Nausea
+Food Allergies,Nausea
+Gastroenteritis,Vomiting
+Irritable Bowel Syndrome,Vomiting
+Inflammatory Bowel Disease,Vomiting
+Malabsorption Syndrome,Vomiting
+Food Allergies,Vomiting
+Protein-Energy Malnutrition,Delayed Growth
+Kwashiorkor,Delayed Growth
+Marasmus,Delayed Growth
+Zinc Deficiency,Delayed Growth
+Vitamin D Deficiency,Delayed Growth
+Protein-Energy Malnutrition,Irritability
+Kwashiorkor,Irritability
+Marasmus,Irritability
+Zinc Deficiency,Irritability
+Vitamin D Deficiency,Irritability
+Protein-Energy Malnutrition,Frequent Infections
+Kwashiorkor,Frequent Infections
+Marasmus,Frequent Infections
+Zinc Deficiency,Frequent Infections
+Vitamin D Deficiency,Frequent Infections
+Protein-Energy Malnutrition,Poor Wound Healing
+Kwashiorkor,Poor Wound Healing
+Marasmus,Poor Wound Healing
+Zinc Deficiency,Poor Wound Healing
+Vitamin D Deficiency,Poor Wound Healing
+Protein-Energy Malnutrition,Muscle Weakness
+Kwashiorkor,Muscle Weakness
+Marasmus,Muscle Weakness
+Zinc Deficiency,Muscle Weakness
+Vitamin D Deficiency,Muscle Weakness
+Vitamin A Deficiency,Dry Eyes
+Zinc Deficiency,Dry Eyes
+Essential Fatty Acid Deficiency,Dry Eyes
+Vitamin K Deficiency,Dry Eyes
+Cystic Fibrosis,Dry Eyes
+Vitamin A Deficiency,Night Blindness
+Zinc Deficiency,Night Blindness
+Essential Fatty Acid Deficiency,Night Blindness
+Vitamin K Deficiency,Night Blindness
+Cystic Fibrosis,Night Blindness
+Vitamin A Deficiency,Dry Skin
+Zinc Deficiency,Dry Skin
+Essential Fatty Acid Deficiency,Dry Skin
+Vitamin K Deficiency,Dry Skin
+Cystic Fibrosis,Dry Skin
+Vitamin A Deficiency,Delayed Wound Healing
+Zinc Deficiency,Delayed Wound Healing
+Essential Fatty Acid Deficiency,Delayed Wound Healing
+Vitamin K Deficiency,Delayed Wound Healing
+Cystic Fibrosis,Delayed Wound Healing
+Vitamin A Deficiency,Easy Bruising
+Zinc Deficiency,Easy Bruising
+Essential Fatty Acid Deficiency,Easy Bruising
+Vitamin K Deficiency,Easy Bruising
+Cystic Fibrosis,Easy Bruising
+Psoriasis,Redness
+Eczema,Redness
+Ringworm,Redness
+Psoriasis,Itching
+Eczema,Itching
+Ringworm,Itching
+Psoriasis,Scaly rash
+Eczema,Scaly rash
+Ringworm,Scaly rash
+Chickenpox,Blisters
+Shingles,Blisters
+Impetigo,Blisters
+Chickenpox,Fever
+Shingles,Fever
+Impetigo,Fever
+Chickenpox,Muscle aches
+Shingles,Muscle aches
+Impetigo,Muscle aches
+Herpes,Painful sores
+Syphilis,Painful sores
+Gonorrhea,Painful sores
+Herpes,Swelling
+Syphilis,Swelling
+Gonorrhea,Swelling
+Herpes,Headache
+Syphilis,Headache
+Gonorrhea,Headache
+Leprosy,Bumps
+Scabies,Bumps
+Alopecia,Bumps
+Leprosy,Flaking skin
+Scabies,Flaking skin
+Alopecia,Flaking skin
+Leprosy,Hair loss
+Scabies,Hair loss
+Alopecia,Hair loss
+Yeast infection,Foul odor
+Trichomoniasis,Foul odor
+Chlamydia,Foul odor
+Yeast infection,Discharge
+Trichomoniasis,Discharge
+Chlamydia,Discharge
+Yeast infection,Painful urination
+Trichomoniasis,Painful urination
+Chlamydia,Painful urination
+GERD,Heartburn
+Peptic Ulcer Disease,Heartburn
+Gastritis,Heartburn
+GERD,Regurgitation
+Peptic Ulcer Disease,Regurgitation
+Gastritis,Regurgitation
+GERD,Difficulty Swallowing
+Peptic Ulcer Disease,Difficulty Swallowing
+Gastritis,Difficulty Swallowing
+Gallstones,Nausea
+Pancreatitis,Nausea
+Gastric Cancer,Nausea
+Gallstones,Vomiting
+Pancreatitis,Vomiting
+Gastric Cancer,Vomiting
+Gallstones,Abdominal Pain
+Pancreatitis,Abdominal Pain
+Gastric Cancer,Abdominal Pain
+GERD,Chronic Cough
+Laryngopharyngeal Reflux Disease (LPRD),Chronic Cough
+Chronic Obstructive Pulmonary Disease (COPD),Chronic Cough
+GERD,Hoarseness
+Laryngopharyngeal Reflux Disease (LPRD),Hoarseness
+Chronic Obstructive Pulmonary Disease (COPD),Hoarseness
+GERD,Asthma
+Laryngopharyngeal Reflux Disease (LPRD),Asthma
+Chronic Obstructive Pulmonary Disease (COPD),Asthma
+Irritable Bowel Syndrome (IBS),Bloating
+Lactose Intolerance,Bloating
+Celiac Disease,Bloating
+Irritable Bowel Syndrome (IBS),Gas
+Lactose Intolerance,Gas
+Celiac Disease,Gas
+Irritable Bowel Syndrome (IBS),Constipation
+Lactose Intolerance,Constipation
+Celiac Disease,Constipation
+GERD,Chest Pain
+Esophageal Spasm,Chest Pain
+Panic Disorder,Chest Pain
+GERD,Difficulty Breathing
+Esophageal Spasm,Difficulty Breathing
+Panic Disorder,Difficulty Breathing
+GERD,Anxiety
+Esophageal Spasm,Anxiety
+Panic Disorder,Anxiety
+Hypothyroidism,Weight gain
+Hashimoto's disease,Weight gain
+Graves' disease,Weight gain
+Goiter,Weight gain
+Thyroid nodules,Weight gain
+Hypothyroidism,Fatigue
+Hashimoto's disease,Fatigue
+Graves' disease,Fatigue
+Goiter,Fatigue
+Thyroid nodules,Fatigue
+Hypothyroidism,Dry skin
+Hashimoto's disease,Dry skin
+Graves' disease,Dry skin
+Goiter,Dry skin
+Thyroid nodules,Dry skin
+Hypothyroidism,Constipation
+Hashimoto's disease,Constipation
+Graves' disease,Constipation
+Goiter,Constipation
+Thyroid nodules,Constipation
+Hypothyroidism,Puffy face
+Hashimoto's disease,Puffy face
+Graves' disease,Puffy face
+Goiter,Puffy face
+Thyroid nodules,Puffy face
+Hyperthyroidism,Weight loss
+Graves' disease,Weight loss
+Thyroiditis,Weight loss
+Thyroid storm,Weight loss
+Thyroid cancer,Weight loss
+Hyperthyroidism,Rapid heart rate
+Graves' disease,Rapid heart rate
+Thyroiditis,Rapid heart rate
+Thyroid storm,Rapid heart rate
+Thyroid cancer,Rapid heart rate
+Hyperthyroidism,Anxiety
+Graves' disease,Anxiety
+Thyroiditis,Anxiety
+Thyroid storm,Anxiety
+Thyroid cancer,Anxiety
+Hyperthyroidism,Tremors
+Graves' disease,Tremors
+Thyroiditis,Tremors
+Thyroid storm,Tremors
+Thyroid cancer,Tremors
+Hyperthyroidism,Diarrhea
+Graves' disease,Diarrhea
+Thyroiditis,Diarrhea
+Thyroid storm,Diarrhea
+Thyroid cancer,Diarrhea
+Hypothyroidism,Hair loss
+Hashimoto's disease,Hair loss
+Thyroiditis,Hair loss
+Thyroid nodules,Hair loss
+Thyroid cancer,Hair loss
+Hypothyroidism,Depression
+Hashimoto's disease,Depression
+Thyroiditis,Depression
+Thyroid nodules,Depression
+Thyroid cancer,Depression
+Hypothyroidism,Memory problems
+Hashimoto's disease,Memory problems
+Thyroiditis,Memory problems
+Thyroid nodules,Memory problems
+Thyroid cancer,Memory problems
+Hypothyroidism,Cold intolerance
+Hashimoto's disease,Cold intolerance
+Thyroiditis,Cold intolerance
+Thyroid nodules,Cold intolerance
+Thyroid cancer,Cold intolerance
+Hypothyroidism,Muscle cramps
+Hashimoto's disease,Muscle cramps
+Thyroiditis,Muscle cramps
+Thyroid nodules,Muscle cramps
+Thyroid cancer,Muscle cramps
+Hyperthyroidism,Irritability
+Graves' disease,Irritability
+Thyroiditis,Irritability
+Thyroid storm,Irritability
+Thyroid cancer,Irritability
+Hyperthyroidism,Sleep disturbances
+Graves' disease,Sleep disturbances
+Thyroiditis,Sleep disturbances
+Thyroid storm,Sleep disturbances
+Thyroid cancer,Sleep disturbances
+Hyperthyroidism,Heat intolerance
+Graves' disease,Heat intolerance
+Thyroiditis,Heat intolerance
+Thyroid storm,Heat intolerance
+Thyroid cancer,Heat intolerance
+Hyperthyroidism,Hand tremors
+Graves' disease,Hand tremors
+Thyroiditis,Hand tremors
+Thyroid storm,Hand tremors
+Thyroid cancer,Hand tremors
+Hyperthyroidism,Weight loss
+Graves' disease,Weight loss
+Thyroiditis,Weight loss
+Thyroid storm,Weight loss
+Thyroid cancer,Weight loss
+Hypothyroidism,Irregular periods
+Hashimoto's disease,Irregular periods
+Thyroiditis,Irregular periods
+Thyroid nodules,Irregular periods
+Thyroid cancer,Irregular periods
+Hypothyroidism,Infertility
+Hashimoto's disease,Infertility
+Thyroiditis,Infertility
+Thyroid nodules,Infertility
+Thyroid cancer,Infertility
+Hypothyroidism,Decreased libido
+Hashimoto's disease,Decreased libido
+Thyroiditis,Decreased libido
+Thyroid nodules,Decreased libido
+Thyroid cancer,Decreased libido
+Hypothyroidism,Dry skin
+Hashimoto's disease,Dry skin
+Thyroiditis,Dry skin
+Thyroid nodules,Dry skin
+Thyroid cancer,Dry skin
+Hypothyroidism,Weight gain
+Hashimoto's disease,Weight gain
+Thyroiditis,Weight gain
+Thyroid nodules,Weight gain
+Thyroid cancer,Weight gain
+Hemophilia,Excessive bruising
+von Willebrand disease,Excessive bruising
+Idiopathic thrombocytopenic purpura,Excessive bruising
+Hemophilia,Bleeding gums
+von Willebrand disease,Bleeding gums
+Idiopathic thrombocytopenic purpura,Bleeding gums
+Hemophilia,Heavy menstruation
+von Willebrand disease,Heavy menstruation
+Idiopathic thrombocytopenic purpura,Heavy menstruation
+Deep vein thrombosis,Joint pain
+Factor V Leiden,Joint pain
+Antiphospholipid syndrome,Joint pain
+Deep vein thrombosis,Swollen legs
+Factor V Leiden,Swollen legs
+Antiphospholipid syndrome,Swollen legs
+Deep vein thrombosis,Shortness of breath
+Factor V Leiden,Shortness of breath
+Antiphospholipid syndrome,Shortness of breath
+Von Willebrand disease,Easy bruising
+Hemophilia,Easy bruising
+Thrombotic thrombocytopenic purpura,Easy bruising
+Von Willebrand disease,Red spots on skin
+Hemophilia,Red spots on skin
+Thrombotic thrombocytopenic purpura,Red spots on skin
+Von Willebrand disease,Nosebleeds
+Hemophilia,Nosebleeds
+Thrombotic thrombocytopenic purpura,Nosebleeds
+Stroke,Frequent headaches
+Cerebral venous sinus thrombosis,Frequent headaches
+Thrombotic thrombocytopenic purpura,Frequent headaches
+Stroke,Vision changes
+Cerebral venous sinus thrombosis,Vision changes
+Thrombotic thrombocytopenic purpura,Vision changes
+Stroke,Numbness or weakness in limbs
+Cerebral venous sinus thrombosis,Numbness or weakness in limbs
+Thrombotic thrombocytopenic purpura,Numbness or weakness in limbs
+Von Willebrand disease,Painful periods
+Hemophilia,Painful periods
+Antiphospholipid syndrome,Painful periods
+Von Willebrand disease,Fatigue
+Hemophilia,Fatigue
+Antiphospholipid syndrome,Fatigue
+Von Willebrand disease,Dizziness
+Hemophilia,Dizziness
+Antiphospholipid syndrome,Dizziness
+Common Cold,Cough
+Influenza,Cough
+COVID-19,Cough
+Bronchitis,Cough
+Pneumonia,Cough
+Common Cold,Sore Throat
+Influenza,Sore Throat
+COVID-19,Sore Throat
+Bronchitis,Sore Throat
+Pneumonia,Sore Throat
+Common Cold,Fever
+Influenza,Fever
+COVID-19,Fever
+Bronchitis,Fever
+Pneumonia,Fever
+Tuberculosis,Cough
+Respiratory Syncytial Virus,Cough
+Measles,Cough
+Pertussis,Cough
+Sinusitis,Cough
+Tuberculosis,Sore Throat
+Respiratory Syncytial Virus,Sore Throat
+Measles,Sore Throat
+Pertussis,Sore Throat
+Sinusitis,Sore Throat
+Tuberculosis,Fatigue
+Respiratory Syncytial Virus,Fatigue
+Measles,Fatigue
+Pertussis,Fatigue
+Sinusitis,Fatigue
+Lung Cancer,Cough
+Pulmonary Fibrosis,Cough
+Pulmonary Hypertension,Cough
+Asthma,Cough
+Chronic Obstructive Pulmonary Disease (COPD),Cough
+Lung Cancer,Sore Throat
+Pulmonary Fibrosis,Sore Throat
+Pulmonary Hypertension,Sore Throat
+Asthma,Sore Throat
+Chronic Obstructive Pulmonary Disease (COPD),Sore Throat
+Lung Cancer,Difficulty Breathing
+Pulmonary Fibrosis,Difficulty Breathing
+Pulmonary Hypertension,Difficulty Breathing
+Asthma,Difficulty Breathing
+Chronic Obstructive Pulmonary Disease (COPD),Difficulty Breathing
+Diphtheria,Cough
+Legionnaires' Disease,Cough
+Meningitis,Cough
+Scarlet Fever,Cough
+Streptococcal Infection,Cough
+Diphtheria,Sore Throat
+Legionnaires' Disease,Sore Throat
+Meningitis,Sore Throat
+Scarlet Fever,Sore Throat
+Streptococcal Infection,Sore Throat
+Diphtheria,Headache
+Legionnaires' Disease,Headache
+Meningitis,Headache
+Scarlet Fever,Headache
+Streptococcal Infection,Headache
+Allergies,Cough
+Adenovirus,Cough
+Rhinovirus,Cough
+Coxsackievirus,Cough
+Parainfluenza Virus,Cough
+Allergies,Sore Throat
+Adenovirus,Sore Throat
+Rhinovirus,Sore Throat
+Coxsackievirus,Sore Throat
+Parainfluenza Virus,Sore Throat
+Allergies,Runny Nose
+Adenovirus,Runny Nose
+Rhinovirus,Runny Nose
+Coxsackievirus,Runny Nose
+Parainfluenza Virus,Runny Nose
+Hypothyroidism,Weight gain
+Hashimoto's thyroiditis,Weight gain
+Graves' disease,Weight gain
+Hypothyroidism,Fatigue
+Hashimoto's thyroiditis,Fatigue
+Graves' disease,Fatigue
+Hypothyroidism,Hair loss
+Hashimoto's thyroiditis,Hair loss
+Graves' disease,Hair loss
+Hyperthyroidism,Weight loss
+Graves' disease,Weight loss
+Thyroid storm,Weight loss
+Hyperthyroidism,Anxiety
+Graves' disease,Anxiety
+Thyroid storm,Anxiety
+Hyperthyroidism,Rapid heartbeat
+Graves' disease,Rapid heartbeat
+Thyroid storm,Rapid heartbeat
+Hypothyroidism,Dry skin
+Hashimoto's thyroiditis,Dry skin
+Thyroid nodules,Dry skin
+Hypothyroidism,Constipation
+Hashimoto's thyroiditis,Constipation
+Thyroid nodules,Constipation
+Hypothyroidism,Muscle cramps
+Hashimoto's thyroiditis,Muscle cramps
+Thyroid nodules,Muscle cramps
+Hypothyroidism,Sensitivity to cold
+Hashimoto's thyroiditis,Sensitivity to cold
+Thyroid cancer,Sensitivity to cold
+Hypothyroidism,Depression
+Hashimoto's thyroiditis,Depression
+Thyroid cancer,Depression
+Hypothyroidism,Thinning hair
+Hashimoto's thyroiditis,Thinning hair
+Thyroid cancer,Thinning hair
+Hyperthyroidism,Heart palpitations
+Graves' disease,Heart palpitations
+Thyroiditis,Heart palpitations
+Hyperthyroidism,Tremors
+Graves' disease,Tremors
+Thyroiditis,Tremors
+Hyperthyroidism,Insomnia
+Graves' disease,Insomnia
+Thyroiditis,Insomnia
+Attention Deficit Hyperactivity Disorder (ADHD),Inattention
+Oppositional Defiant Disorder (ODD),Inattention
+Conduct Disorder (CD),Inattention
+Attention Deficit Hyperactivity Disorder (ADHD),Hyperactivity
+Oppositional Defiant Disorder (ODD),Hyperactivity
+Conduct Disorder (CD),Hyperactivity
+Attention Deficit Hyperactivity Disorder (ADHD),Impulsivity
+Oppositional Defiant Disorder (ODD),Impulsivity
+Conduct Disorder (CD),Impulsivity
+Dyslexia,Difficulty staying organized
+Dyscalculia,Difficulty staying organized
+Dysgraphia,Difficulty staying organized
+Dyslexia,Forgetfulness
+Dyscalculia,Forgetfulness
+Dysgraphia,Forgetfulness
+Dyslexia,Difficulty following through
+Dyscalculia,Difficulty following through
+Dysgraphia,Difficulty following through
+Bipolar Disorder,Trouble concentrating
+Generalized Anxiety Disorder (GAD),Trouble concentrating
+Obsessive Compulsive Disorder (OCD),Trouble concentrating
+Bipolar Disorder,Difficulty sitting still
+Generalized Anxiety Disorder (GAD),Difficulty sitting still
+Obsessive Compulsive Disorder (OCD),Difficulty sitting still
+Bipolar Disorder,Poor time management
+Generalized Anxiety Disorder (GAD),Poor time management
+Obsessive Compulsive Disorder (OCD),Poor time management
+Intermittent Explosive Disorder (IED),Aggressive behavior
+Conduct Disorder (CD),Aggressive behavior
+Oppositional Defiant Disorder (ODD),Aggressive behavior
+Intermittent Explosive Disorder (IED),Restlessness
+Conduct Disorder (CD),Restlessness
+Oppositional Defiant Disorder (ODD),Restlessness
+Intermittent Explosive Disorder (IED),Difficulty completing tasks
+Conduct Disorder (CD),Difficulty completing tasks
+Oppositional Defiant Disorder (ODD),Difficulty completing tasks
+Borderline Personality Disorder (BPD),Frequent mood swings
+Substance Use Disorder (SUD),Frequent mood swings
+Bipolar Disorder,Frequent mood swings
+Borderline Personality Disorder (BPD),Difficulty paying attention
+Substance Use Disorder (SUD),Difficulty paying attention
+Bipolar Disorder,Difficulty paying attention
+Borderline Personality Disorder (BPD),Poor decision-making skills
+Substance Use Disorder (SUD),Poor decision-making skills
+Bipolar Disorder,Poor decision-making skills
